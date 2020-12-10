@@ -52,11 +52,11 @@ Figure 4: Differences in evolutionary rate (σ2) between durophagous and nonduro
 
 ## Discussion
 
-These results indicate...
+A general feature of biological systems is unequal rates of evolution. The goal of these analyses was to understand how different dietary demands can influence uneven rates of evolution.The best supporting models of evolution for both systems were two-peak models with strong support for a two-rate model. Comparison of evolutionary parameters suggest that shifts to force-based feeding repeatedly resulted in a slowdown of the evolutionary rate for the biomechanical output (KT) and individual links that comprise the four-bar system in wrasses and stomatopods. For wrasses, there was support for the input and output link to evolve on different optima between durophagy and nondurophag. This was expected since these two links are the most mechanically sensitive in wrasses (Muñoz et al 2018). Surprisingly, in stomatopods there was also some support for two-rate, two-peak model of evolution for the coupler link. However, one particular limitation with the stomatopods is the taxa size (n=34). Model selection with simulated data indicated lack of statistical power for a two-rate, two-peak, two-alpha model so it was rejected from the model selection. However, the two-rate, two-peak model is still relatively complex and may still be have been incorrectly favored. Therefore, findings for mantis shrimp data might need additional data to support the general findings. 
 
-The biggest difficulty in implementing these analyses was...
+The biggest difficulty in implementing these analyses was learning how to use the R package OUwie (Beaulieu et al 2012). After completing my analyses, there was also difficulty in interpreting my results and trusting what they meant. However, working through this package and my analyses helped be learn the value in simulations, understand what evolutionary parameters actually mean/how they work, and understand Orstein-Uhlenbeck models better.  
 
-If I did these analyses again, I would...
+If I did these analyses again, I would expand 
 
 
 ## References
