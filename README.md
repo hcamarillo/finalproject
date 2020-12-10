@@ -30,10 +30,10 @@ The best-supported models for evolution of overall kinematic transmission (KT) w
 Table 5: Table of evolutionary model selection for wrasses for KT and all four-bar linkages
 ![Table5](Table5.png)
 
-Figure 1: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in wrasses
+Figure 1: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in wrasses. (A) Kinematic Transmission (B) Input Link (C) Output Link
 ![Figure1](wrasse_theta_figure.png)
 
-Figure 2: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in wrasses
+Figure 2: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in wrasses. (A) Kinematic Transmission (B) Input Link (C) Output Link
 ![Figure2](wrasse_sigmasq_figure.png)
 
 *Testing for effect of diet on four-bar linkages in mantis shrimp*
@@ -43,10 +43,10 @@ The best-supported model for overall KT was a two-rate, two-peak OU model (OUMV;
 Table 6: Table of evolutionary model selection for mantis shrimp for KT and all four-bar linkages
 ![Table6](Table6.png)
 
-Figure 3: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in mantis shrimp
+Figure 3: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in mantis shrimp. (A) Kinematic Transmission (B) Output Link (C) Coupler Link (D) Input Link
 ![Figure3](stomatopod_theta_figure.png)
 
-Figure 4: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in mantis shrimp 
+Figure 4: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in mantis shrimp. (A) Kinematic Transmission (B) Output Link (C) Coupler Link
 ![Figure4](stomatopod_sigmasq_figure.png)
 
 
@@ -74,6 +74,8 @@ Expanding the Ornstein-Uhlenbeck model of adaptive evolution. Evolution. 66:2369
 Cooper N., Thomas G.H., Venditti C., Meade A., Freckleton R.P. 2016. A cautionary note on the
 use of Ornstein Uhlenbeck models in macroevolutionary studies. Biol. J. Linn. Soc. 118:64–77.
 Ho L.S.T., An. C. 2014. Intrinsic inference difficulties for trait evolution with Ornstein-Uhlenbeck models. Methods Ecol. Evol. 5:1133-1146.
+
+Munoz M.M., Hu Y., Anderson P.S.L., Patek S.N. 2018. Strongbiomechanical relationships bias the tempo and mode of morphological evolution. eLife 7:e37621.
 
 Price, S. A., Holzman, R., Near, T. J., & Wainwright, P. C. (2011). Coral reefs promote the evolution of morphological diversity and ecological novelty in labrid fishes. Ecology Letters, 14, 462– 469.
 
