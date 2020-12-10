@@ -15,9 +15,11 @@ I fitted different evolutionary models of evolution on each link of the four-bar
 Due to lack of statistical power, complex OU models can often be incorrectly favored (Cooper et al 2016; Ho and Ané 2014). To confirm there was enough statistical power to accurately compare between models (especially the more complex models), I simulated data for  using the function OUwie.sim in the R package OUwie according to parameters associated with each model. Simulated data was then be fitted through all six models in OUwie to determine if data under which parameters were simulated is returned as the best fitting model.  
 
 Figure 1: Wrasse phylogeny indicating differences between durophagous species (blue) and nondurophagous species (green).
+
 ![Figure1](wrassetree.png)
 
 Figure 2: Mantis shrimp phylogeny indicating differences between durophagous species (blue) and nondurophagous species (green).
+
 ![Figure2](stomatree.png)
 
 ## Results
