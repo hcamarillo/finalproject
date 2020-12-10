@@ -14,6 +14,11 @@ The goal for this project was to see how diets specialized for feeding on hard p
 I fitted different evolutionary models of evolution on each link of the four-bar system and using the R package OUwie (Beaulieu et al. 2012). OUwie determines the best fit between different Brownian motion (BM) and Ornstein-Uhlenbeck (OU) models of trait evolution. Differences between models rely on variation between different parameters important for trait evolution: σ2,  is the rate of stochastic character evolution, θ is the evolutionary optimal trait value, and α is the strength of selection on a given optimum. I fitted 6  different evolutionary models (2 BM and 4 OU) in OUwie. BM1 is the simplest model and is a single-rate (σ2) model in which all species have the same σ2. BMS is a two-rate model that has different evolutionary rates between regimes (durophagous vs non-durophagous). OU1 is the simplest OU model and fits a single trait optimum (θ) for the entire clade. OUM model fits separate θ between durophagous and non-durophagous species. OUMV fits separate θ and σ2, between regimes. OUMVA fits separate θ,σ2,and strength of selection (α) between regimes. After fitting each model separately for each morphological trait, used sample size corrected AICc scores to compare the best fitting evolutionary models for each trait. 
 Due to lack of statistical power, complex OU models can often be incorrectly favored (Cooper et al 2016; Ho and Ané 2014). To confirm there was enough statistical power to accurately compare between models (especially the more complex models), I simulated data for  using the function OUwie.sim in the R package OUwie according to parameters associated with each model. Simulated data was then be fitted through all six models in OUwie to determine if data under which parameters were simulated is returned as the best fitting model.  
 
+Figure 1: Wrasse phylogeny indicating differences between durophagous species (blue) and nondurophagous species (green).
+![Figure1](wrassetree.png)
+
+Figure 2: Mantis shrimp phylogeny indicating differences between durophagous species (blue) and nondurophagous species (green).
+![Figure2](stomatree.png)
 
 ## Results
 
@@ -25,29 +30,29 @@ Table 4
 
 *Testing for effect of diet on four-bar linkage evolution in wrasses*
 
-The best-supported models for evolution of overall kinematic transmission (KT) was best represented by a two-peak OU model with strong support between single-rate and two-rate models (OUM & OUMV; Table 5A). Non-durophagous species had a higher peak and an evolutionary rate about twice as fast as durophagous species (Figure 1A & 2A respectively). For the input link, the best-supported models also indicated a two-peak OU model with equal support for single-rate and two-rate models (OUM & OUMV; Table 5B). Phenotypic optima were higher in non-durophagous species when compared to durophagous species with durophagous species having an overall slower evolutionary rate than non-durophagous species (Figure 1B & 2B respectively). Output link evolution was characterized by an OU-like process, but there was equal support among one-peak, and two-peak OU models, and single- and multi-rate models (OU1, OUM, & OUMV; Table 5C). When comparing differences in phenotypic optima from two-peak models, durophagous species had a higher optima than non-durophagous species (Figure 1C). When comparing differences in rate in the two-rate model, durophagous species displayed a slower rate for output link (Figure 2C). The best supported model for the coupler link was a single-rate BM model (BM1; Table 5D).  
+The best-supported models for evolution of overall kinematic transmission (KT) was best represented by a two-peak OU model with strong support between single-rate and two-rate models (OUM & OUMV; Table 5A). Non-durophagous species had a higher peak and an evolutionary rate about twice as fast as durophagous species (Figure 3A & 4A respectively). For the input link, the best-supported models also indicated a two-peak OU model with equal support for single-rate and two-rate models (OUM & OUMV; Table 5B). Phenotypic optima were higher in non-durophagous species when compared to durophagous species with durophagous species having an overall slower evolutionary rate than non-durophagous species (Figure 3B & 4B respectively). Output link evolution was characterized by an OU-like process, but there was equal support among one-peak, and two-peak OU models, and single- and multi-rate models (OU1, OUM, & OUMV; Table 5C). When comparing differences in phenotypic optima from two-peak models, durophagous species had a higher optima than non-durophagous species (Figure 3C). When comparing differences in rate in the two-rate model, durophagous species displayed a slower rate for output link (Figure 4C). The best supported model for the coupler link was a single-rate BM model (BM1; Table 5D).  
 
 Table 5: Table of evolutionary model selection for wrasses for KT and all four-bar linkages
 ![Table5](Table5.png)
 
-Figure 1: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in wrasses. (A) Kinematic Transmission (B) Input Link (C) Output Link
-![Figure1](wrasse_theta_figure.png)
+Figure 3: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in wrasses. (A) Kinematic Transmission (B) Input Link (C) Output Link
+![Figure3](wrasse_theta_figure.png)
 
-Figure 2: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in wrasses. (A) Kinematic Transmission (B) Input Link (C) Output Link
-![Figure2](wrasse_sigmasq_figure.png)
+Figure 4: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in wrasses. (A) Kinematic Transmission (B) Input Link (C) Output Link
+![Figure4](wrasse_sigmasq_figure.png)
 
 *Testing for effect of diet on four-bar linkages in mantis shrimp*
 
-The best-supported model for overall KT was a two-rate, two-peak OU model (OUMV; Table 6). Durophagous species displayed a slower evolutionary rate and lower phenotypic optima when compared with non-durophagous species for KT (Figure 3A and 4A respectively). The best-supported model for the input link was a two-peak single rate model (OUM; Table 6). Non-durophagous species had a higher peak than durophagous species (Figure 3D). For the output link, the best-supported model indicated a two-rate, two-peak OU model (OUMV; Table 6). Durophagous species had a higher phenotypic optima and slower evolutionary rate than non-durophagous species (Figure 3B and 4B respectively). For the coupler link there was equal support for a single peak OU model and a two-peak two-rate model (OU1 & OUMV; Table 6). When comparing differences in the two-rate two peak model for the coupler link, durophagous species had a lower optima and a slower evolutionary rate than non-durophagous species (Figure 3C and 4C respectively). 
+The best-supported model for overall KT was a two-rate, two-peak OU model (OUMV; Table 6). Durophagous species displayed a slower evolutionary rate and lower phenotypic optima when compared with non-durophagous species for KT (Figure 5A and 6A respectively). The best-supported model for the input link was a two-peak single rate model (OUM; Table 6). Non-durophagous species had a higher peak than durophagous species (Figure 5D). For the output link, the best-supported model indicated a two-rate, two-peak OU model (OUMV; Table 6). Durophagous species had a higher phenotypic optima and slower evolutionary rate than non-durophagous species (Figure 5B and 6B respectively). For the coupler link there was equal support for a single peak OU model and a two-peak two-rate model (OU1 & OUMV; Table 6). When comparing differences in the two-rate two peak model for the coupler link, durophagous species had a lower optima and a slower evolutionary rate than non-durophagous species (Figure 5C and 6C respectively). 
 
 Table 6: Table of evolutionary model selection for mantis shrimp for KT and all four-bar linkages
 ![Table6](Table6.png)
 
-Figure 3: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in mantis shrimp. (A) Kinematic Transmission (B) Output Link (C) Coupler Link (D) Input Link
-![Figure3](stomatopod_theta_figure.png)
+Figure 5: Differences in phenotypic optima (θ) between durophagous and nondurophagous species for traits that had support for a two-peak model in mantis shrimp. (A) Kinematic Transmission (B) Output Link (C) Coupler Link (D) Input Link
+![Figure5](stomatopod_theta_figure.png)
 
-Figure 4: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in mantis shrimp. (A) Kinematic Transmission (B) Output Link (C) Coupler Link
-![Figure4](stomatopod_sigmasq_figure.png)
+Figure 6: Differences in evolutionary rate (σ2) between durophagous and nondurophagous species for traits that had support for a two-rate model in mantis shrimp. (A) Kinematic Transmission (B) Output Link (C) Coupler Link
+![Figure6](stomatopod_sigmasq_figure.png)
 
 
 ## Discussion
