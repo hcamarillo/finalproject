@@ -1,0 +1,9000 @@
+[[1]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31179 -72.62358 -71.82358 -68.0445   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160666 0.000119036
+
+Optima
+             smasher     spearer
+estimate -1.01740536 -1.01740536
+se        0.03859927  0.03859927
+
+Arrived at a reliable solution 
+
+[[2]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30589 -72.61177 -71.81177 -68.03269   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163739 0.0001193019
+
+Optima
+             smasher     spearer
+estimate -1.01676062 -1.01676062
+se        0.03856183  0.03856183
+
+Arrived at a reliable solution 
+
+[[3]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29753 -72.59506 -71.79506 -68.01598   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166213 0.0001197869
+
+Optima
+             smasher     spearer
+estimate -1.01598815 -1.01598815
+se        0.03854321  0.03854321
+
+Arrived at a reliable solution 
+
+[[4]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31074 -72.62147 -71.82147 -68.04239   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164564 0.0001185907
+
+Optima
+             smasher     spearer
+estimate -1.01485923 -1.01485923
+se        0.03868895  0.03868895
+
+Arrived at a reliable solution 
+
+[[5]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30106 -72.60211 -71.80211 -68.02303   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165519 0.0001195403
+
+Optima
+             smasher     spearer
+estimate -1.01630255 -1.01630255
+se        0.03854295  0.03854295
+
+Arrived at a reliable solution 
+
+[[6]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31066 -72.62131 -71.82131 -68.04223   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01727240 -1.01727240
+se        0.03859141  0.03859141
+
+Arrived at a reliable solution 
+
+[[7]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31225 -72.6245 -71.8245 -68.04542   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01746351 -1.01746351
+se        0.03860312  0.03860312
+
+Arrived at a reliable solution 
+
+[[8]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30785 -72.6157 -71.8157 -68.03662   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163631 0.0001192286
+
+Optima
+             smasher     spearer
+estimate -1.01696402 -1.01696402
+se        0.03857539  0.03857539
+
+Arrived at a reliable solution 
+
+[[9]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.29845 -72.5969 -71.7969 -68.01781   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166221 0.0001197211
+
+Optima
+             smasher     spearer
+estimate -1.01606904 -1.01606904
+se        0.03854279  0.03854279
+
+Arrived at a reliable solution 
+
+[[10]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30036 -72.60071 -71.80071 -68.02163   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165778 0.0001196108
+
+Optima
+             smasher     spearer
+estimate -1.01623748 -1.01623748
+se        0.03854616  0.03854616
+
+Arrived at a reliable solution 
+
+[[11]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30718 -72.61437 -71.81437 -68.03528   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163863 0.0001192712
+
+Optima
+             smasher     spearer
+estimate -1.01689310 -1.01689310
+se        0.03857343  0.03857343
+
+Arrived at a reliable solution 
+
+[[12]]
+
+Fit
+     lnL     AIC    AICc       BIC model ntax
+ 39.3025 -72.605 -71.805 -68.02592   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165019 0.0001195135
+
+Optima
+            smasher    spearer
+estimate -1.0164316 -1.0164316
+se        0.0385548  0.0385548
+
+Arrived at a reliable solution 
+
+[[13]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2978 -72.59561 -71.79561 -68.01653   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165932 0.0001197733
+
+Optima
+             smasher     spearer
+estimate -1.01601090 -1.01601090
+se        0.03854389  0.03854389
+
+Arrived at a reliable solution 
+
+[[14]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30367 -72.60735 -71.80735 -68.02827   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165014 0.0001194236
+
+Optima
+             smasher     spearer
+estimate -1.01654544 -1.01654544
+se        0.03855455  0.03855455
+
+Arrived at a reliable solution 
+
+[[15]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30399 -72.60798 -71.80798 -68.0289   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164853 0.0001194091
+
+Optima
+             smasher     spearer
+estimate -1.01657553 -1.01657553
+se        0.03855598  0.03855598
+
+Arrived at a reliable solution 
+
+[[16]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.35414 -72.70829 -71.90829 -68.12921   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002188977 0.0001190031
+
+Optima
+             smasher     spearer
+estimate -1.01533231 -1.01533231
+se        0.03830718  0.03830718
+
+Arrived at a reliable solution 
+
+[[17]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31192 -72.62385 -71.82385 -68.04476   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161303 0.0001190136
+
+Optima
+            smasher    spearer
+estimate -1.0174259 -1.0174259
+se        0.0385982  0.0385982
+
+Arrived at a reliable solution 
+
+[[18]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30232 -72.60465 -71.80465 -68.02557   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165463 0.000119526
+
+Optima
+             smasher     spearer
+estimate -1.01641635 -1.01641635
+se        0.03855491  0.03855491
+
+Arrived at a reliable solution 
+
+[[19]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30355 -72.6071 -71.8071 -68.02802   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01653304 -1.01653304
+se        0.03855608  0.03855608
+
+Arrived at a reliable solution 
+
+[[20]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30911 -72.61821 -71.81821 -68.03913   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01710078 -1.01710078
+se        0.03858065  0.03858065
+
+Arrived at a reliable solution 
+
+[[21]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30932 -72.61865 -71.81865 -68.03957   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002162274 0.000119095
+
+Optima
+             smasher     spearer
+estimate -1.01712557 -1.01712557
+se        0.03857395  0.03857395
+
+Arrived at a reliable solution 
+
+[[22]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31023 -72.62046 -71.82046 -68.04138   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162027 0.0001190816
+
+Optima
+             smasher     spearer
+estimate -1.01722607 -1.01722607
+se        0.03858431  0.03858431
+
+Arrived at a reliable solution 
+
+[[23]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30557 -72.61113 -71.81113 -68.03205   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164193 0.0001193108
+
+Optima
+             smasher     spearer
+estimate -1.01673052 -1.01673052
+se        0.03855949  0.03855949
+
+Arrived at a reliable solution 
+
+[[24]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29861 -72.59722 -71.79722 -68.01814   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166089 0.0001196907
+
+Optima
+             smasher     spearer
+estimate -1.01608405 -1.01608405
+se        0.03853977  0.03853977
+
+Arrived at a reliable solution 
+
+[[25]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31181 -72.62362 -71.82362 -68.04454   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160666 0.000119036
+
+Optima
+             smasher     spearer
+estimate -1.01740776 -1.01740776
+se        0.03859957  0.03859957
+
+Arrived at a reliable solution 
+
+[[26]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.35729 -72.71457 -71.91457 -68.13549   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002171615 0.0001150328
+
+Optima
+             smasher     spearer
+estimate -1.02519597 -1.02519597
+se        0.03954457  0.03954457
+
+Arrived at a reliable solution 
+
+[[27]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30515 -72.6103 -71.8103 -68.03122   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01668691 -1.01668691
+se        0.03856461  0.03856461
+
+Arrived at a reliable solution 
+
+[[28]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30808 -72.61616 -71.81616 -68.03708   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162996 0.0001191939
+
+Optima
+             smasher     spearer
+estimate -1.01698805 -1.01698805
+se        0.03857278  0.03857278
+
+Arrived at a reliable solution 
+
+[[29]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30352 -72.60704 -71.80704 -68.02795   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01653019 -1.01653019
+se        0.03855573  0.03855573
+
+Arrived at a reliable solution 
+
+[[30]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3116 -72.6232 -71.8232 -68.04411   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161573 0.0001190088
+
+Optima
+             smasher     spearer
+estimate -1.01738832 -1.01738832
+se        0.03859273  0.03859273
+
+Arrived at a reliable solution 
+
+[[31]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31057 -72.62113 -71.82113 -68.04205   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01726194 -1.01726194
+se        0.03859011  0.03859011
+
+Arrived at a reliable solution 
+
+[[32]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30925 -72.6185 -71.8185 -68.03941   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162202 0.0001191325
+
+Optima
+             smasher     spearer
+estimate -1.01711400 -1.01711400
+se        0.03857857  0.03857857
+
+Arrived at a reliable solution 
+
+[[33]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31028 -72.62056 -71.82056 -68.04148   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162424 0.0001191013
+
+Optima
+             smasher     spearer
+estimate -1.01723163 -1.01723163
+se        0.03858819  0.03858819
+
+Arrived at a reliable solution 
+
+[[34]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29904 -72.59807 -71.79807 -68.01899   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165845 0.0001196697
+
+Optima
+             smasher     spearer
+estimate -1.01612063 -1.01612063
+se        0.03854099  0.03854099
+
+Arrived at a reliable solution 
+
+[[35]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30809 -72.61618 -71.81618 -68.0371   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162996 0.0001191939
+
+Optima
+             smasher     spearer
+estimate -1.01698917 -1.01698917
+se        0.03857292  0.03857292
+
+Arrived at a reliable solution 
+
+[[36]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30624 -72.61249 -71.81249 -68.03341   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679607 -1.01679607
+se        0.03856424  0.03856424
+
+Arrived at a reliable solution 
+
+[[37]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31113 -72.62226 -71.82226 -68.04318   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01732821 -1.01732821
+se        0.03859337  0.03859337
+
+Arrived at a reliable solution 
+
+[[38]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30583 -72.61167 -71.81167 -68.03259   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164376 0.0001193244
+
+Optima
+             smasher     spearer
+estimate -1.01675638 -1.01675638
+se        0.03856493  0.03856493
+
+Arrived at a reliable solution 
+
+[[39]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30415 -72.60829 -71.80829 -68.02921   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002164539 0.000119428
+
+Optima
+             smasher     spearer
+estimate -1.01658761 -1.01658761
+se        0.03856055  0.03856055
+
+Arrived at a reliable solution 
+
+[[40]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30569 -72.61137 -71.81137 -68.03229   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163739 0.0001193019
+
+Optima
+             smasher     spearer
+estimate -1.01674100 -1.01674100
+se        0.03855938  0.03855938
+
+Arrived at a reliable solution 
+
+[[41]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30655 -72.61311 -71.81311 -68.03403   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163963 0.0001192971
+
+Optima
+             smasher     spearer
+estimate -1.01682808 -1.01682808
+se        0.03856948  0.03856948
+
+Arrived at a reliable solution 
+
+[[42]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31113 -72.62225 -71.82225 -68.04317   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01732774 -1.01732774
+se        0.03859331  0.03859331
+
+Arrived at a reliable solution 
+
+[[43]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30973 -72.61947 -71.81947 -68.04039   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162715 0.0001191232
+
+Optima
+             smasher     spearer
+estimate -1.01717024 -1.01717024
+se        0.03858409  0.03858409
+
+Arrived at a reliable solution 
+
+[[44]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30802 -72.61604 -71.81604 -68.03696   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162996 0.0001191939
+
+Optima
+             smasher     spearer
+estimate -1.01698170 -1.01698170
+se        0.03857199  0.03857199
+
+Arrived at a reliable solution 
+
+[[45]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30579 -72.61158 -71.81158 -68.0325   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164376 0.0001193244
+
+Optima
+             smasher     spearer
+estimate -1.01675195 -1.01675195
+se        0.03856438  0.03856438
+
+Arrived at a reliable solution 
+
+[[46]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29767 -72.59535 -71.79535 -68.01626   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166436 0.0001197604
+
+Optima
+             smasher     spearer
+estimate -1.01600264 -1.01600264
+se        0.03854077  0.03854077
+
+Arrived at a reliable solution 
+
+[[47]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30193 -72.60386 -71.80386 -68.02478   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165176 0.000119542
+
+Optima
+             smasher     spearer
+estimate -1.01637886 -1.01637886
+se        0.03855279  0.03855279
+
+Arrived at a reliable solution 
+
+[[48]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30959 -72.61918 -71.81918 -68.0401   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162656 0.0001191462
+
+Optima
+             smasher     spearer
+estimate -1.01715227 -1.01715227
+se        0.03858556  0.03858556
+
+Arrived at a reliable solution 
+
+[[49]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2251 -72.45019 -71.65019 -67.87111   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002125838 0.0001221153
+
+Optima
+             smasher     spearer
+estimate -1.01573581 -1.01573581
+se        0.03895008  0.03895008
+
+Arrived at a reliable solution 
+
+[[50]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31183 -72.62365 -71.82365 -68.04457   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161303 0.0001190136
+
+Optima
+             smasher     spearer
+estimate -1.01741435 -1.01741435
+se        0.03859676  0.03859676
+
+Arrived at a reliable solution 
+
+[[51]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30711 -72.61421 -71.81421 -68.03513   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163367 0.0001192485
+
+Optima
+             smasher     spearer
+estimate -1.01688505 -1.01688505
+se        0.03856874  0.03856874
+
+Arrived at a reliable solution 
+
+[[52]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31165 -72.62329 -71.82329 -68.04421   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161243 0.0001190451
+
+Optima
+             smasher     spearer
+estimate -1.01738996 -1.01738996
+se        0.03859883  0.03859883
+
+Arrived at a reliable solution 
+
+[[53]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29998 -72.59995 -71.79995 -68.02087   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01620473 -1.01620473
+se        0.03854251  0.03854251
+
+Arrived at a reliable solution 
+
+[[54]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30121 -72.60243 -71.80243 -68.02335   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216601 0.0001195727
+
+Optima
+             smasher     spearer
+estimate -1.01631607 -1.01631607
+se        0.03854988  0.03854988
+
+Arrived at a reliable solution 
+
+[[55]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31085 -72.6217 -71.8217 -68.04262   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01729840 -1.01729840
+se        0.03858939  0.03858939
+
+Arrived at a reliable solution 
+
+[[56]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31205 -72.6241 -71.8241 -68.04502   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161218 0.0001189926
+
+Optima
+             smasher     spearer
+estimate -1.01744288 -1.01744288
+se        0.03859691  0.03859691
+
+Arrived at a reliable solution 
+
+[[57]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30356 -72.60711 -71.80711 -68.02803   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01653375 -1.01653375
+se        0.03855617  0.03855617
+
+Arrived at a reliable solution 
+
+[[58]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31225 -72.62449 -71.82449 -68.04541   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01746289 -1.01746289
+se        0.03860304  0.03860304
+
+Arrived at a reliable solution 
+
+[[59]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30612 -72.61223 -71.81223 -68.03315   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01678203 -1.01678203
+se        0.03857039  0.03857039
+
+Arrived at a reliable solution 
+
+[[60]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3026 -72.6052 -71.8052 -68.02612   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216529 0.0001194897
+
+Optima
+             smasher     spearer
+estimate -1.01644324 -1.01644324
+se        0.03855243  0.03855243
+
+Arrived at a reliable solution 
+
+[[61]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31053 -72.62105 -71.82105 -68.04197   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01725749 -1.01725749
+se        0.03858955  0.03858955
+
+Arrived at a reliable solution 
+
+[[62]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.29799 -72.59598 -71.79598 -68.0169   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165718 0.0001197403
+
+Optima
+             smasher     spearer
+estimate -1.01602765 -1.01602765
+se        0.03854067  0.03854067
+
+Arrived at a reliable solution 
+
+[[63]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29966 -72.59933 -71.79933 -68.02025   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165432 0.0001196489
+
+Optima
+             smasher     spearer
+estimate -1.01617401 -1.01617401
+se        0.03854433  0.03854433
+
+Arrived at a reliable solution 
+
+[[64]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2992 -72.59841 -71.79841 -68.01932   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165721 0.0001196663
+
+Optima
+             smasher     spearer
+estimate -1.01613453 -1.01613453
+se        0.03854218  0.03854218
+
+Arrived at a reliable solution 
+
+[[65]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30773 -72.61546 -71.81546 -68.03638   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163552 0.0001192361
+
+Optima
+             smasher     spearer
+estimate -1.01695058 -1.01695058
+se        0.03857493  0.03857493
+
+Arrived at a reliable solution 
+
+[[66]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31064 -72.62128 -71.82128 -68.0422   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+            smasher    spearer
+estimate -1.0172707 -1.0172707
+se        0.0385912  0.0385912
+
+Arrived at a reliable solution 
+
+[[67]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29976 -72.59953 -71.79953 -68.02044   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165953 0.000119663
+
+Optima
+             smasher     spearer
+estimate -1.01618347 -1.01618347
+se        0.03854779  0.03854779
+
+Arrived at a reliable solution 
+
+[[68]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30469 -72.60937 -71.80937 -68.03029   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164736 0.0001193843
+
+Optima
+             smasher     spearer
+estimate -1.01664245 -1.01664245
+se        0.03856036  0.03856036
+
+Arrived at a reliable solution 
+
+[[69]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30926 -72.61852 -71.81852 -68.03944   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162202 0.0001191325
+
+Optima
+             smasher     spearer
+estimate -1.01711531 -1.01711531
+se        0.03857874  0.03857874
+
+Arrived at a reliable solution 
+
+[[70]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30199 -72.60397 -71.80397 -68.02489   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165081 0.0001195365
+
+Optima
+             smasher     spearer
+estimate -1.01638378 -1.01638378
+se        0.03855253  0.03855253
+
+Arrived at a reliable solution 
+
+[[71]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29732 -72.59463 -71.79463 -68.01555   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166661 0.0001197816
+
+Optima
+             smasher     spearer
+estimate -1.01597258 -1.01597258
+se        0.03854041  0.03854041
+
+Arrived at a reliable solution 
+
+[[72]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30661 -72.61322 -71.81322 -68.03413   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164059 0.0001192917
+
+Optima
+             smasher     spearer
+estimate -1.01683424 -1.01683424
+se        0.03856938  0.03856938
+
+Arrived at a reliable solution 
+
+[[73]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3108 -72.62159 -71.82159 -68.04251   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01729225 -1.01729225
+se        0.03858862  0.03858862
+
+Arrived at a reliable solution 
+
+[[74]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30813 -72.61626 -71.81626 -68.03718   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163409 0.0001192212
+
+Optima
+             smasher     spearer
+estimate -1.01699283 -1.01699283
+se        0.03857779  0.03857779
+
+Arrived at a reliable solution 
+
+[[75]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29926 -72.59852 -71.79852 -68.01944   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165463 0.0001196843
+
+Optima
+             smasher     spearer
+estimate -1.01613727 -1.01613727
+se        0.03854542  0.03854542
+
+Arrived at a reliable solution 
+
+[[76]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31139 -72.62277 -71.82277 -68.04369   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216112 0.0001190176
+
+Optima
+             smasher     spearer
+estimate -1.01736047 -1.01736047
+se        0.03859069  0.03859069
+
+Arrived at a reliable solution 
+
+[[77]]
+
+Fit
+      lnL       AIC      AICc     BIC model ntax
+ 39.30004 -72.60008 -71.80008 -68.021   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01621017 -1.01621017
+se        0.03854319  0.03854319
+
+Arrived at a reliable solution 
+
+[[78]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31138 -72.62277 -71.82277 -68.04369   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216112 0.0001190176
+
+Optima
+             smasher     spearer
+estimate -1.01736041 -1.01736041
+se        0.03859068  0.03859068
+
+Arrived at a reliable solution 
+
+[[79]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.29759 -72.59518 -71.79518 -68.0161   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166213 0.0001197869
+
+Optima
+             smasher     spearer
+estimate -1.01599341 -1.01599341
+se        0.03854388  0.03854388
+
+Arrived at a reliable solution 
+
+[[80]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30869 -72.61738 -71.81738 -68.0383   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162413 0.0001191672
+
+Optima
+             smasher     spearer
+estimate -1.01705225 -1.01705225
+se        0.03857647  0.03857647
+
+Arrived at a reliable solution 
+
+[[81]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29573 -72.59145 -71.79145 -68.01237   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163143 0.0001197748
+
+Optima
+             smasher     spearer
+estimate -1.01620495 -1.01620495
+se        0.03857779  0.03857779
+
+Arrived at a reliable solution 
+
+[[82]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30126 -72.60251 -71.80251 -68.02343   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165855 0.000119571
+
+Optima
+             smasher     spearer
+estimate -1.01631939 -1.01631939
+se        0.03855002  0.03855002
+
+Arrived at a reliable solution 
+
+[[83]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30872 -72.61745 -71.81745 -68.03837   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162413 0.0001191672
+
+Optima
+             smasher     spearer
+estimate -1.01705586 -1.01705586
+se        0.03857693  0.03857693
+
+Arrived at a reliable solution 
+
+[[84]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30441 -72.60881 -71.80881 -68.02973   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164281 0.0001194106
+
+Optima
+             smasher     spearer
+estimate -1.01661224 -1.01661224
+se        0.03856083  0.03856083
+
+Arrived at a reliable solution 
+
+[[85]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31194 -72.62388 -71.82388 -68.0448   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161303 0.0001190136
+
+Optima
+             smasher     spearer
+estimate -1.01742777 -1.01742777
+se        0.03859843  0.03859843
+
+Arrived at a reliable solution 
+
+[[86]]
+
+Fit
+     lnL     AIC    AICc       BIC model ntax
+ 39.3115 -72.623 -71.823 -68.04392   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161573 0.0001190088
+
+Optima
+             smasher     spearer
+estimate -1.01737671 -1.01737671
+se        0.03859129  0.03859129
+
+Arrived at a reliable solution 
+
+[[87]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30388 -72.60775 -71.80775 -68.02867   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01656506 -1.01656506
+se        0.03855506  0.03855506
+
+Arrived at a reliable solution 
+
+[[88]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30998 -72.61997 -71.81997 -68.04088   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01719577 -1.01719577
+se        0.03858629  0.03858629
+
+Arrived at a reliable solution 
+
+[[89]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.34888 -72.69775 -71.89775 -68.11867   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002189875 0.0001191894
+
+Optima
+             smasher     spearer
+estimate -1.01513223 -1.01513223
+se        0.03832723  0.03832723
+
+Arrived at a reliable solution 
+
+[[90]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30917 -72.61834 -71.81834 -68.03926   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01710766 -1.01710766
+se        0.03858151  0.03858151
+
+Arrived at a reliable solution 
+
+[[91]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30049 -72.60098 -71.80098 -68.0219   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165555 0.0001196181
+
+Optima
+             smasher     spearer
+estimate -1.01624802 -1.01624802
+se        0.03854865  0.03854865
+
+Arrived at a reliable solution 
+
+[[92]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30675 -72.6135 -71.8135 -68.03442   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164059 0.0001192917
+
+Optima
+             smasher     spearer
+estimate -1.01684844 -1.01684844
+se        0.03857115  0.03857115
+
+Arrived at a reliable solution 
+
+[[93]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3116 -72.62321 -71.82321 -68.04412   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161573 0.0001190088
+
+Optima
+             smasher     spearer
+estimate -1.01738898 -1.01738898
+se        0.03859281  0.03859281
+
+Arrived at a reliable solution 
+
+[[94]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30753 -72.61505 -71.81505 -68.03597   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163177 0.0001192445
+
+Optima
+             smasher     spearer
+estimate -1.01692754 -1.01692754
+se        0.03857341  0.03857341
+
+Arrived at a reliable solution 
+
+[[95]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31232 -72.62463 -71.82463 -68.04555   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01747166 -1.01747166
+se        0.03860413  0.03860413
+
+Arrived at a reliable solution 
+
+[[96]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30139 -72.60279 -71.80279 -68.02371   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165814 0.0001195266
+
+Optima
+             smasher     spearer
+estimate -1.01633455 -1.01633455
+se        0.03854475  0.03854475
+
+Arrived at a reliable solution 
+
+[[97]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31107 -72.62214 -71.82214 -68.04306   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01732109 -1.01732109
+se        0.03859248  0.03859248
+
+Arrived at a reliable solution 
+
+[[98]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30873 -72.61746 -71.81746 -68.03838   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162413 0.0001191672
+
+Optima
+           smasher   spearer
+estimate -1.017056 -1.017056
+se        0.038577  0.038577
+
+Arrived at a reliable solution 
+
+[[99]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30239 -72.60478 -71.80478 -68.0257   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165132 0.0001195363
+
+Optima
+             smasher     spearer
+estimate -1.01642021 -1.01642021
+se        0.03855705  0.03855705
+
+Arrived at a reliable solution 
+
+[[100]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30426 -72.60852 -71.80852 -68.02944   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164864 0.0001194087
+
+Optima
+             smasher     spearer
+estimate -1.01660096 -1.01660096
+se        0.03855909  0.03855909
+
+Arrived at a reliable solution 
+
+[[101]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30727 -72.61454 -71.81454 -68.03545   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01690457 -1.01690457
+se        0.03856894  0.03856894
+
+Arrived at a reliable solution 
+
+[[102]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30274 -72.60547 -71.80547 -68.02639   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165113 0.0001195014
+
+Optima
+             smasher     spearer
+estimate -1.01645410 -1.01645410
+se        0.03855566  0.03855566
+
+Arrived at a reliable solution 
+
+[[103]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30447 -72.60894 -71.80894 -68.02986   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164281 0.0001194106
+
+Optima
+            smasher    spearer
+estimate -1.0166184 -1.0166184
+se        0.0385616  0.0385616
+
+Arrived at a reliable solution 
+
+[[104]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29824 -72.59647 -71.79647 -68.01739   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166145 0.0001197266
+
+Optima
+             smasher     spearer
+estimate -1.01605067 -1.01605067
+se        0.03854137  0.03854137
+
+Arrived at a reliable solution 
+
+[[105]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30594 -72.61189 -71.81189 -68.0328   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163739 0.0001193019
+
+Optima
+             smasher     spearer
+estimate -1.01676622 -1.01676622
+se        0.03856253  0.03856253
+
+Arrived at a reliable solution 
+
+[[106]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30522 -72.61043 -71.81043 -68.03135   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01669297 -1.01669297
+se        0.03856537  0.03856537
+
+Arrived at a reliable solution 
+
+[[107]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30397 -72.60794 -71.80794 -68.02886   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01657375 -1.01657375
+se        0.03855615  0.03855615
+
+Arrived at a reliable solution 
+
+[[108]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31029 -72.62059 -71.82059 -68.0415   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162424 0.0001191013
+
+Optima
+            smasher    spearer
+estimate -1.0172333 -1.0172333
+se        0.0385884  0.0385884
+
+Arrived at a reliable solution 
+
+[[109]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31002 -72.62004 -71.82004 -68.04096   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01719979 -1.01719979
+se        0.03858679  0.03858679
+
+Arrived at a reliable solution 
+
+[[110]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29729 -72.59457 -71.79457 -68.01549   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166661 0.0001197816
+
+Optima
+             smasher     spearer
+estimate -1.01597024 -1.01597024
+se        0.03854012  0.03854012
+
+Arrived at a reliable solution 
+
+[[111]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30624 -72.61248 -71.81248 -68.0334   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679571 -1.01679571
+se        0.03856419  0.03856419
+
+Arrived at a reliable solution 
+
+[[112]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29958 -72.59916 -71.79916 -68.02008   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165432 0.0001196489
+
+Optima
+             smasher     spearer
+estimate -1.01616672 -1.01616672
+se        0.03854342  0.03854342
+
+Arrived at a reliable solution 
+
+[[113]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30492 -72.60983 -71.80983 -68.03075   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164469 0.0001193848
+
+Optima
+             smasher     spearer
+estimate -1.01666348 -1.01666348
+se        0.03856307  0.03856307
+
+Arrived at a reliable solution 
+
+[[114]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30008 -72.60016 -71.80016 -68.02108   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01621384 -1.01621384
+se        0.03854365  0.03854365
+
+Arrived at a reliable solution 
+
+[[115]]
+
+Fit
+      lnL       AIC      AICc     BIC model ntax
+ 39.29754 -72.59508 -71.79508 -68.016   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166213 0.0001197869
+
+Optima
+             smasher     spearer
+estimate -1.01598921 -1.01598921
+se        0.03854335  0.03854335
+
+Arrived at a reliable solution 
+
+[[116]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30278 -72.60556 -71.80556 -68.02648   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165113 0.0001195014
+
+Optima
+             smasher     spearer
+estimate -1.01645797 -1.01645797
+se        0.03855615  0.03855615
+
+Arrived at a reliable solution 
+
+[[117]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30495 -72.60991 -71.80991 -68.03082   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164469 0.0001193848
+
+Optima
+             smasher     spearer
+estimate -1.01666689 -1.01666689
+se        0.03856349  0.03856349
+
+Arrived at a reliable solution 
+
+[[118]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30506 -72.61012 -71.81012 -68.03104   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01667818 -1.01667818
+se        0.03856352  0.03856352
+
+Arrived at a reliable solution 
+
+[[119]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30508 -72.61015 -71.81015 -68.03107   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+            smasher    spearer
+estimate -1.0166797 -1.0166797
+se        0.0385637  0.0385637
+
+Arrived at a reliable solution 
+
+[[120]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30403 -72.60806 -71.80806 -68.02898   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216523 0.0001194294
+
+Optima
+             smasher     spearer
+estimate -1.01657905 -1.01657905
+se        0.03855971  0.03855971
+
+Arrived at a reliable solution 
+
+[[121]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30856 -72.61713 -71.81713 -68.03805   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163165 0.0001191787
+
+Optima
+             smasher     spearer
+estimate -1.01704085 -1.01704085
+se        0.03857691  0.03857691
+
+Arrived at a reliable solution 
+
+[[122]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30367 -72.60733 -71.80733 -68.02825   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165014 0.0001194236
+
+Optima
+             smasher     spearer
+estimate -1.01654473 -1.01654473
+se        0.03855446  0.03855446
+
+Arrived at a reliable solution 
+
+[[123]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30536 -72.61072 -71.81072 -68.03164   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01670699 -1.01670699
+se        0.03856712  0.03856712
+
+Arrived at a reliable solution 
+
+[[124]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30567 -72.61133 -71.81133 -68.03225   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163739 0.0001193019
+
+Optima
+             smasher     spearer
+estimate -1.01673917 -1.01673917
+se        0.03855915  0.03855915
+
+Arrived at a reliable solution 
+
+[[125]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31213 -72.62427 -71.82427 -68.04519   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002160981 0.0001189957
+
+Optima
+            smasher    spearer
+estimate -1.0174516 -1.0174516
+se        0.0385985  0.0385985
+
+Arrived at a reliable solution 
+
+[[126]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31125 -72.62251 -71.82251 -68.04342   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01734261 -1.01734261
+se        0.03859517  0.03859517
+
+Arrived at a reliable solution 
+
+[[127]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30613 -72.61226 -71.81226 -68.03318   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01678358 -1.01678358
+se        0.03857059  0.03857059
+
+Arrived at a reliable solution 
+
+[[128]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30937 -72.61875 -71.81875 -68.03967   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162656 0.0001191462
+
+Optima
+             smasher     spearer
+estimate -1.01712864 -1.01712864
+se        0.03858261  0.03858261
+
+Arrived at a reliable solution 
+
+[[129]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30623 -72.61246 -71.81246 -68.03337   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679449 -1.01679449
+se        0.03856404  0.03856404
+
+Arrived at a reliable solution 
+
+[[130]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30973 -72.61947 -71.81947 -68.04038   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162715 0.0001191232
+
+Optima
+             smasher     spearer
+estimate -1.01717010 -1.01717010
+se        0.03858407  0.03858407
+
+Arrived at a reliable solution 
+
+[[131]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30228 -72.60456 -71.80456 -68.02547   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165566 0.0001195186
+
+Optima
+             smasher     spearer
+estimate -1.01641312 -1.01641312
+se        0.03855331  0.03855331
+
+Arrived at a reliable solution 
+
+[[132]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30575 -72.61149 -71.81149 -68.03241   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164121 0.0001193531
+
+Optima
+             smasher     spearer
+estimate -1.01674480 -1.01674480
+se        0.03856813  0.03856813
+
+Arrived at a reliable solution 
+
+[[133]]
+
+Fit
+    lnL       AIC      AICc       BIC model ntax
+ 39.306 -72.61201 -71.81201 -68.03293   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01677097 -1.01677097
+se        0.03856901  0.03856901
+
+Arrived at a reliable solution 
+
+[[134]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30576 -72.61153 -71.81153 -68.03244   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164121 0.0001193531
+
+Optima
+             smasher     spearer
+estimate -1.01674635 -1.01674635
+se        0.03856832  0.03856832
+
+Arrived at a reliable solution 
+
+[[135]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.33378 -72.66757 -71.86757 -68.08849   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002175839 0.0001188902
+
+Optima
+             smasher     spearer
+estimate -1.01648052 -1.01648052
+se        0.03845406  0.03845406
+
+Arrived at a reliable solution 
+
+[[136]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30672 -72.61344 -71.81344 -68.03436   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164059 0.0001192917
+
+Optima
+             smasher     spearer
+estimate -1.01684567 -1.01684567
+se        0.03857081  0.03857081
+
+Arrived at a reliable solution 
+
+[[137]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30614 -72.61229 -71.81229 -68.03321   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01678476 -1.01678476
+se        0.03857073  0.03857073
+
+Arrived at a reliable solution 
+
+[[138]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30769 -72.61538 -71.81538 -68.0363   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163552 0.0001192361
+
+Optima
+             smasher     spearer
+estimate -1.01694647 -1.01694647
+se        0.03857441  0.03857441
+
+Arrived at a reliable solution 
+
+[[139]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30458 -72.60916 -71.80916 -68.03008   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164105 0.0001193845
+
+Optima
+             smasher     spearer
+estimate -1.01662978 -1.01662978
+se        0.03855879  0.03855879
+
+Arrived at a reliable solution 
+
+[[140]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30769 -72.61537 -71.81537 -68.03629   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163552 0.0001192361
+
+Optima
+             smasher     spearer
+estimate -1.01694623 -1.01694623
+se        0.03857439  0.03857439
+
+Arrived at a reliable solution 
+
+[[141]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31058 -72.62116 -71.82116 -68.04208   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01726374 -1.01726374
+se        0.03859033  0.03859033
+
+Arrived at a reliable solution 
+
+[[142]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30768 -72.61536 -71.81536 -68.03628   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163552 0.0001192361
+
+Optima
+             smasher     spearer
+estimate -1.01694533 -1.01694533
+se        0.03857427  0.03857427
+
+Arrived at a reliable solution 
+
+[[143]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31008 -72.62016 -71.82016 -68.04108   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162975 0.0001190882
+
+Optima
+             smasher     spearer
+estimate -1.01721250 -1.01721250
+se        0.03858369  0.03858369
+
+Arrived at a reliable solution 
+
+[[144]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31196 -72.62392 -71.82392 -68.04484   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161233 0.0001189943
+
+Optima
+             smasher     spearer
+estimate -1.01743163 -1.01743163
+se        0.03859578  0.03859578
+
+Arrived at a reliable solution 
+
+[[145]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31215 -72.6243 -71.8243 -68.04522   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002160981 0.0001189957
+
+Optima
+             smasher     spearer
+estimate -1.01745365 -1.01745365
+se        0.03859876  0.03859876
+
+Arrived at a reliable solution 
+
+[[146]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30122 -72.60244 -71.80244 -68.02335   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216601 0.0001195727
+
+Optima
+             smasher     spearer
+estimate -1.01631649 -1.01631649
+se        0.03854993  0.03854993
+
+Arrived at a reliable solution 
+
+[[147]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30817 -72.61634 -71.81634 -68.03726   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163409 0.0001192212
+
+Optima
+             smasher     spearer
+estimate -1.01699731 -1.01699731
+se        0.03857835  0.03857835
+
+Arrived at a reliable solution 
+
+[[148]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31153 -72.62306 -71.82306 -68.04398   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161573 0.0001190088
+
+Optima
+             smasher     spearer
+estimate -1.01738033 -1.01738033
+se        0.03859174  0.03859174
+
+Arrived at a reliable solution 
+
+[[149]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31122 -72.62244 -71.82244 -68.04335   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01733850 -1.01733850
+se        0.03859465  0.03859465
+
+Arrived at a reliable solution 
+
+[[150]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30136 -72.60272 -71.80272 -68.02364   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165881 0.0001195623
+
+Optima
+             smasher     spearer
+estimate -1.01632935 -1.01632935
+se        0.03854987  0.03854987
+
+Arrived at a reliable solution 
+
+[[151]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30721 -72.61441 -71.81441 -68.03533   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01689841 -1.01689841
+se        0.03856817  0.03856817
+
+Arrived at a reliable solution 
+
+[[152]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30458 -72.60915 -71.80915 -68.03007   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164105 0.0001193845
+
+Optima
+             smasher     spearer
+estimate -1.01662960 -1.01662960
+se        0.03855877  0.03855877
+
+Arrived at a reliable solution 
+
+[[153]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30917 -72.61835 -71.81835 -68.03927   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01710822 -1.01710822
+se        0.03858158  0.03858158
+
+Arrived at a reliable solution 
+
+[[154]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30892 -72.61784 -71.81784 -68.03876   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01708092 -1.01708092
+se        0.03857817  0.03857817
+
+Arrived at a reliable solution 
+
+[[155]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30244 -72.60487 -71.80487 -68.02579   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165112 0.0001195177
+
+Optima
+             smasher     spearer
+estimate -1.01642579 -1.01642579
+se        0.03855476  0.03855476
+
+Arrived at a reliable solution 
+
+[[156]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29967 -72.59935 -71.79935 -68.02026   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165432 0.0001196489
+
+Optima
+             smasher     spearer
+estimate -1.01617477 -1.01617477
+se        0.03854443  0.03854443
+
+Arrived at a reliable solution 
+
+[[157]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30407 -72.60814 -71.80814 -68.02906   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164657 0.0001194304
+
+Optima
+             smasher     spearer
+estimate -1.01658058 -1.01658058
+se        0.03856006  0.03856006
+
+Arrived at a reliable solution 
+
+[[158]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31127 -72.62253 -71.82253 -68.04345   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01734407 -1.01734407
+se        0.03859535  0.03859535
+
+Arrived at a reliable solution 
+
+[[159]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31144 -72.62288 -71.82288 -68.0438   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216112 0.0001190176
+
+Optima
+             smasher     spearer
+estimate -1.01736712 -1.01736712
+se        0.03859152  0.03859152
+
+Arrived at a reliable solution 
+
+[[160]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3123 -72.6246 -71.8246 -68.04552   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01746970 -1.01746970
+se        0.03860389  0.03860389
+
+Arrived at a reliable solution 
+
+[[161]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31077 -72.62155 -71.82155 -68.04246   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01728954 -1.01728954
+se        0.03858828  0.03858828
+
+Arrived at a reliable solution 
+
+[[162]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30091 -72.60183 -71.80183 -68.02274   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165617 0.0001195571
+
+Optima
+             smasher     spearer
+estimate -1.01628918 -1.01628918
+se        0.03854398  0.03854398
+
+Arrived at a reliable solution 
+
+[[163]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30861 -72.61722 -71.81722 -68.03814   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162501 0.0001191803
+
+Optima
+             smasher     spearer
+estimate -1.01704314 -1.01704314
+se        0.03857745  0.03857745
+
+Arrived at a reliable solution 
+
+[[164]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30722 -72.61444 -71.81444 -68.03536   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01689955 -1.01689955
+se        0.03856831  0.03856831
+
+Arrived at a reliable solution 
+
+[[165]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30084 -72.60167 -71.80167 -68.02259   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165971 0.0001195832
+
+Optima
+             smasher     spearer
+estimate -1.01628211 -1.01628211
+se        0.03854731  0.03854731
+
+Arrived at a reliable solution 
+
+[[166]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3104 -72.62079 -71.82079 -68.04171   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162424 0.0001191013
+
+Optima
+             smasher     spearer
+estimate -1.01724491 -1.01724491
+se        0.03858985  0.03858985
+
+Arrived at a reliable solution 
+
+[[167]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30857 -72.61714 -71.81714 -68.03806   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163165 0.0001191787
+
+Optima
+             smasher     spearer
+estimate -1.01704164 -1.01704164
+se        0.03857701  0.03857701
+
+Arrived at a reliable solution 
+
+[[168]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30788 -72.61575 -71.81575 -68.03667   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163631 0.0001192286
+
+Optima
+             smasher     spearer
+estimate -1.01696662 -1.01696662
+se        0.03857571  0.03857571
+
+Arrived at a reliable solution 
+
+[[169]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30106 -72.60212 -71.80212 -68.02304   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216601 0.0001195727
+
+Optima
+             smasher     spearer
+estimate -1.01630243 -1.01630243
+se        0.03854817  0.03854817
+
+Arrived at a reliable solution 
+
+[[170]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.29895 -72.5979 -71.7979 -68.01882   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165845 0.0001196697
+
+Optima
+             smasher     spearer
+estimate -1.01611348 -1.01611348
+se        0.03854009  0.03854009
+
+Arrived at a reliable solution 
+
+[[171]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30887 -72.61774 -71.81774 -68.03866   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01707561 -1.01707561
+se        0.03857751  0.03857751
+
+Arrived at a reliable solution 
+
+[[172]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30345 -72.6069 -71.8069 -68.02782   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01652383 -1.01652383
+se        0.03855493  0.03855493
+
+Arrived at a reliable solution 
+
+[[173]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31076 -72.62153 -71.82153 -68.04244   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01728846 -1.01728846
+se        0.03858815  0.03858815
+
+Arrived at a reliable solution 
+
+[[174]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31177 -72.62354 -71.82354 -68.04445   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161243 0.0001190451
+
+Optima
+             smasher     spearer
+estimate -1.01740449 -1.01740449
+se        0.03860064  0.03860064
+
+Arrived at a reliable solution 
+
+[[175]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30459 -72.60917 -71.80917 -68.03009   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164105 0.0001193845
+
+Optima
+             smasher     spearer
+estimate -1.01663054 -1.01663054
+se        0.03855889  0.03855889
+
+Arrived at a reliable solution 
+
+[[176]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3118 -72.6236 -71.8236 -68.04452   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160666 0.000119036
+
+Optima
+             smasher     spearer
+estimate -1.01740654 -1.01740654
+se        0.03859942  0.03859942
+
+Arrived at a reliable solution 
+
+[[177]]
+
+Fit
+     lnL     AIC    AICc       BIC model ntax
+ 39.3025 -72.605 -71.805 -68.02592   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165019 0.0001195135
+
+Optima
+            smasher    spearer
+estimate -1.0164316 -1.0164316
+se        0.0385548  0.0385548
+
+Arrived at a reliable solution 
+
+[[178]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30557 -72.61114 -71.81114 -68.03206   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164193 0.0001193108
+
+Optima
+             smasher     spearer
+estimate -1.01673092 -1.01673092
+se        0.03855954  0.03855954
+
+Arrived at a reliable solution 
+
+[[179]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30902 -72.61804 -71.81804 -68.03895   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01709133 -1.01709133
+se        0.03857947  0.03857947
+
+Arrived at a reliable solution 
+
+[[180]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30174 -72.60348 -71.80348 -68.0244   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165163 0.0001195679
+
+Optima
+             smasher     spearer
+estimate -1.01635989 -1.01635989
+se        0.03855459  0.03855459
+
+Arrived at a reliable solution 
+
+[[181]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30656 -72.61312 -71.81312 -68.03404   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163963 0.0001192971
+
+Optima
+             smasher     spearer
+estimate -1.01682861 -1.01682861
+se        0.03856955  0.03856955
+
+Arrived at a reliable solution 
+
+[[182]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30179 -72.60358 -71.80358 -68.0245   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165163 0.0001195679
+
+Optima
+             smasher     spearer
+estimate -1.01636437 -1.01636437
+se        0.03855515  0.03855515
+
+Arrived at a reliable solution 
+
+[[183]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3037 -72.6074 -71.8074 -68.02832   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165014 0.0001194236
+
+Optima
+             smasher     spearer
+estimate -1.01654786 -1.01654786
+se        0.03855485  0.03855485
+
+Arrived at a reliable solution 
+
+[[184]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30593 -72.61186 -71.81186 -68.03278   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163739 0.0001193019
+
+Optima
+             smasher     spearer
+estimate -1.01676499 -1.01676499
+se        0.03856238  0.03856238
+
+Arrived at a reliable solution 
+
+[[185]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30329 -72.60659 -71.80659 -68.02751   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164733 0.0001194544
+
+Optima
+             smasher     spearer
+estimate -1.01650712 -1.01650712
+se        0.03855472  0.03855472
+
+Arrived at a reliable solution 
+
+[[186]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31076 -72.62151 -71.82151 -68.04243   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01728762 -1.01728762
+se        0.03858805  0.03858805
+
+Arrived at a reliable solution 
+
+[[187]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29747 -72.59493 -71.79493 -68.01585   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002166464 0.000119771
+
+Optima
+             smasher     spearer
+estimate -1.01598502 -1.01598502
+se        0.03854027  0.03854027
+
+Arrived at a reliable solution 
+
+[[188]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29832 -72.59664 -71.79664 -68.01756   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166221 0.0001197211
+
+Optima
+             smasher     spearer
+estimate -1.01605834 -1.01605834
+se        0.03854144  0.03854144
+
+Arrived at a reliable solution 
+
+[[189]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3112 -72.6224 -71.8224 -68.04332   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01733623 -1.01733623
+se        0.03859437  0.03859437
+
+Arrived at a reliable solution 
+
+[[190]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30808 -72.61615 -71.81615 -68.03707   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162996 0.0001191939
+
+Optima
+             smasher     spearer
+estimate -1.01698752 -1.01698752
+se        0.03857271  0.03857271
+
+Arrived at a reliable solution 
+
+[[191]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2982 -72.59641 -71.79641 -68.01733   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166145 0.0001197266
+
+Optima
+             smasher     spearer
+estimate -1.01604798 -1.01604798
+se        0.03854103  0.03854103
+
+Arrived at a reliable solution 
+
+[[192]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30508 -72.61016 -71.81016 -68.03108   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01668011 -1.01668011
+se        0.03856376  0.03856376
+
+Arrived at a reliable solution 
+
+[[193]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30618 -72.61236 -71.81236 -68.03328   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01678821 -1.01678821
+se        0.03857116  0.03857116
+
+Arrived at a reliable solution 
+
+[[194]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30798 -72.61596 -71.81596 -68.03688   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162996 0.0001191939
+
+Optima
+             smasher     spearer
+estimate -1.01697760 -1.01697760
+se        0.03857148  0.03857148
+
+Arrived at a reliable solution 
+
+[[195]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30656 -72.61312 -71.81312 -68.03403   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163963 0.0001192971
+
+Optima
+             smasher     spearer
+estimate -1.01682851 -1.01682851
+se        0.03856954  0.03856954
+
+Arrived at a reliable solution 
+
+[[196]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31167 -72.62334 -71.82334 -68.04426   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161243 0.0001190451
+
+Optima
+             smasher     spearer
+estimate -1.01739287 -1.01739287
+se        0.03859919  0.03859919
+
+Arrived at a reliable solution 
+
+[[197]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31181 -72.62362 -71.82362 -68.04453   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160666 0.000119036
+
+Optima
+             smasher     spearer
+estimate -1.01740757 -1.01740757
+se        0.03859955  0.03859955
+
+Arrived at a reliable solution 
+
+[[198]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29853 -72.59706 -71.79706 -68.01798   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166089 0.0001196907
+
+Optima
+             smasher     spearer
+estimate -1.01607761 -1.01607761
+se        0.03853896  0.03853896
+
+Arrived at a reliable solution 
+
+[[199]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30762 -72.61524 -71.81524 -68.03616   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163502 0.0001192246
+
+Optima
+             smasher     spearer
+estimate -1.01694014 -1.01694014
+se        0.03857176  0.03857176
+
+Arrived at a reliable solution 
+
+[[200]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30653 -72.61305 -71.81305 -68.03397   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163963 0.0001192971
+
+Optima
+             smasher     spearer
+estimate -1.01682529 -1.01682529
+se        0.03856913  0.03856913
+
+Arrived at a reliable solution 
+
+[[201]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29749 -72.59497 -71.79497 -68.01589   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166082 0.0001197428
+
+Optima
+             smasher     spearer
+estimate -1.01598702 -1.01598702
+se        0.03853597  0.03853597
+
+Arrived at a reliable solution 
+
+[[202]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30948 -72.61896 -71.81896 -68.03988   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162656 0.0001191462
+
+Optima
+             smasher     spearer
+estimate -1.01714030 -1.01714030
+se        0.03858406  0.03858406
+
+Arrived at a reliable solution 
+
+[[203]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29996 -72.59992 -71.79992 -68.02084   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01620352 -1.01620352
+se        0.03854236  0.03854236
+
+Arrived at a reliable solution 
+
+[[204]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31055 -72.6211 -71.8211 -68.04202   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01726006 -1.01726006
+se        0.03858987  0.03858987
+
+Arrived at a reliable solution 
+
+[[205]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30848 -72.61696 -71.81696 -68.03788   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163165 0.0001191787
+
+Optima
+             smasher     spearer
+estimate -1.01703217 -1.01703217
+se        0.03857583  0.03857583
+
+Arrived at a reliable solution 
+
+[[206]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30197 -72.60394 -71.80394 -68.02486   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165176 0.000119542
+
+Optima
+            smasher    spearer
+estimate -1.0163821 -1.0163821
+se        0.0385532  0.0385532
+
+Arrived at a reliable solution 
+
+[[207]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29928 -72.59857 -71.79857 -68.01949   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165877 0.0001196918
+
+Optima
+             smasher     spearer
+estimate -1.01614034 -1.01614034
+se        0.03854702  0.03854702
+
+Arrived at a reliable solution 
+
+[[208]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29729 -72.59457 -71.79457 -68.01549   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166661 0.0001197816
+
+Optima
+             smasher     spearer
+estimate -1.01597022 -1.01597022
+se        0.03854011  0.03854011
+
+Arrived at a reliable solution 
+
+[[209]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30074 -72.60147 -71.80147 -68.02239   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165463 0.0001196138
+
+Optima
+             smasher     spearer
+estimate -1.01626922 -1.01626922
+se        0.03855062  0.03855062
+
+Arrived at a reliable solution 
+
+[[210]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30041 -72.60082 -71.80082 -68.02174   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165643 0.0001196031
+
+Optima
+             smasher     spearer
+estimate -1.01624216 -1.01624216
+se        0.03854551  0.03854551
+
+Arrived at a reliable solution 
+
+[[211]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31049 -72.62098 -71.82098 -68.04189   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01725310 -1.01725310
+se        0.03858901  0.03858901
+
+Arrived at a reliable solution 
+
+[[212]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31026 -72.62052 -71.82052 -68.04144   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162027 0.0001190816
+
+Optima
+             smasher     spearer
+estimate -1.01722963 -1.01722963
+se        0.03858475  0.03858475
+
+Arrived at a reliable solution 
+
+[[213]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31088 -72.62176 -71.82176 -68.04268   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01730194 -1.01730194
+se        0.03858983  0.03858983
+
+Arrived at a reliable solution 
+
+[[214]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30729 -72.61458 -71.81458 -68.0355   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01690676 -1.01690676
+se        0.03856921  0.03856921
+
+Arrived at a reliable solution 
+
+[[215]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30608 -72.61216 -71.81216 -68.03308   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01677865 -1.01677865
+se        0.03856997  0.03856997
+
+Arrived at a reliable solution 
+
+[[216]]
+
+Fit
+    lnL       AIC      AICc       BIC model ntax
+ 39.306 -72.61199 -71.81199 -68.03291   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+            smasher    spearer
+estimate -1.0167701 -1.0167701
+se        0.0385689  0.0385689
+
+Arrived at a reliable solution 
+
+[[217]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31217 -72.62433 -71.82433 -68.04525   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002160981 0.0001189957
+
+Optima
+             smasher     spearer
+estimate -1.01745564 -1.01745564
+se        0.03859901  0.03859901
+
+Arrived at a reliable solution 
+
+[[218]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.29914 -72.59828 -71.79828 -68.0192   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165721 0.0001196663
+
+Optima
+             smasher     spearer
+estimate -1.01612924 -1.01612924
+se        0.03854152  0.03854152
+
+Arrived at a reliable solution 
+
+[[219]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31116 -72.62233 -71.82233 -68.04325   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01733206 -1.01733206
+se        0.03859385  0.03859385
+
+Arrived at a reliable solution 
+
+[[220]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29766 -72.59533 -71.79533 -68.01624   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166436 0.0001197604
+
+Optima
+             smasher     spearer
+estimate -1.01600184 -1.01600184
+se        0.03854067  0.03854067
+
+Arrived at a reliable solution 
+
+[[221]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30619 -72.61238 -71.81238 -68.0333   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679077 -1.01679077
+se        0.03856358  0.03856358
+
+Arrived at a reliable solution 
+
+[[222]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30553 -72.61107 -71.81107 -68.03199   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164193 0.0001193108
+
+Optima
+             smasher     spearer
+estimate -1.01672734 -1.01672734
+se        0.03855909  0.03855909
+
+Arrived at a reliable solution 
+
+[[223]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31123 -72.62246 -71.82246 -68.04338   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01733986 -1.01733986
+se        0.03859482  0.03859482
+
+Arrived at a reliable solution 
+
+[[224]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29732 -72.59464 -71.79464 -68.01556   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166661 0.0001197816
+
+Optima
+             smasher     spearer
+estimate -1.01597302 -1.01597302
+se        0.03854046  0.03854046
+
+Arrived at a reliable solution 
+
+[[225]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30723 -72.61446 -71.81446 -68.03538   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01690087 -1.01690087
+se        0.03856848  0.03856848
+
+Arrived at a reliable solution 
+
+[[226]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30203 -72.60407 -71.80407 -68.02498   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165522 0.0001195272
+
+Optima
+             smasher     spearer
+estimate -1.01639029 -1.01639029
+se        0.03855184  0.03855184
+
+Arrived at a reliable solution 
+
+[[227]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31191 -72.62383 -71.82383 -68.04475   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161303 0.0001190136
+
+Optima
+             smasher     spearer
+estimate -1.01742479 -1.01742479
+se        0.03859806  0.03859806
+
+Arrived at a reliable solution 
+
+[[228]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29921 -72.59842 -71.79842 -68.01934   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196639
+
+Optima
+             smasher     spearer
+estimate -1.01613590 -1.01613590
+se        0.03854196  0.03854196
+
+Arrived at a reliable solution 
+
+[[229]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31038 -72.62077 -71.82077 -68.04169   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162424 0.0001191013
+
+Optima
+             smasher     spearer
+estimate -1.01724357 -1.01724357
+se        0.03858968  0.03858968
+
+Arrived at a reliable solution 
+
+[[230]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30558 -72.61115 -71.81115 -68.03207   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164193 0.0001193108
+
+Optima
+            smasher    spearer
+estimate -1.0167314 -1.0167314
+se        0.0385596  0.0385596
+
+Arrived at a reliable solution 
+
+[[231]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30986 -72.61972 -71.81972 -68.04064   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162218 0.0001191148
+
+Optima
+            smasher    spearer
+estimate -1.0171829 -1.0171829
+se        0.0385843  0.0385843
+
+Arrived at a reliable solution 
+
+[[232]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30178 -72.60355 -71.80355 -68.02447   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165163 0.0001195679
+
+Optima
+             smasher     spearer
+estimate -1.01636306 -1.01636306
+se        0.03855499  0.03855499
+
+Arrived at a reliable solution 
+
+[[233]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30494 -72.60989 -71.80989 -68.0308   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164469 0.0001193848
+
+Optima
+             smasher     spearer
+estimate -1.01666598 -1.01666598
+se        0.03856338  0.03856338
+
+Arrived at a reliable solution 
+
+[[234]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31158 -72.62316 -71.82316 -68.04408   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161573 0.0001190088
+
+Optima
+             smasher     spearer
+estimate -1.01738634 -1.01738634
+se        0.03859249  0.03859249
+
+Arrived at a reliable solution 
+
+[[235]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30521 -72.61042 -71.81042 -68.03133   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01669227 -1.01669227
+se        0.03856528  0.03856528
+
+Arrived at a reliable solution 
+
+[[236]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31097 -72.62194 -71.82194 -68.04286   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01731252 -1.01731252
+se        0.03859115  0.03859115
+
+Arrived at a reliable solution 
+
+[[237]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3066 -72.6132 -71.8132 -68.03412   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164059 0.0001192917
+
+Optima
+             smasher     spearer
+estimate -1.01683368 -1.01683368
+se        0.03856931  0.03856931
+
+Arrived at a reliable solution 
+
+[[238]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3077 -72.6154 -71.8154 -68.03631   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163552 0.0001192361
+
+Optima
+             smasher     spearer
+estimate -1.01694733 -1.01694733
+se        0.03857452  0.03857452
+
+Arrived at a reliable solution 
+
+[[239]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29971 -72.59941 -71.79941 -68.02033   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165953 0.000119663
+
+Optima
+             smasher     spearer
+estimate -1.01617858 -1.01617858
+se        0.03854718  0.03854718
+
+Arrived at a reliable solution 
+
+[[240]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30869 -72.61738 -71.81738 -68.0383   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162413 0.0001191672
+
+Optima
+             smasher     spearer
+estimate -1.01705233 -1.01705233
+se        0.03857648  0.03857648
+
+Arrived at a reliable solution 
+
+[[241]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29784 -72.59567 -71.79567 -68.01659   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165932 0.0001197733
+
+Optima
+            smasher    spearer
+estimate -1.0160134 -1.0160134
+se        0.0385442  0.0385442
+
+Arrived at a reliable solution 
+
+[[242]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3043 -72.6086 -71.8086 -68.02952   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164864 0.0001194087
+
+Optima
+             smasher     spearer
+estimate -1.01660461 -1.01660461
+se        0.03855955  0.03855955
+
+Arrived at a reliable solution 
+
+[[243]]
+
+Fit
+      lnL       AIC      AICc     BIC model ntax
+ 39.31204 -72.62408 -71.82408 -68.045   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002160812 0.0001190075
+
+Optima
+             smasher     spearer
+estimate -1.01743839 -1.01743839
+se        0.03859877  0.03859877
+
+Arrived at a reliable solution 
+
+[[244]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29907 -72.59814 -71.79814 -68.01906   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165845 0.0001196697
+
+Optima
+             smasher     spearer
+estimate -1.01612356 -1.01612356
+se        0.03854135  0.03854135
+
+Arrived at a reliable solution 
+
+[[245]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31016 -72.62032 -71.82032 -68.04124   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162064 0.0001191199
+
+Optima
+             smasher     spearer
+estimate -1.01721519 -1.01721519
+se        0.03858915  0.03858915
+
+Arrived at a reliable solution 
+
+[[246]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30385 -72.6077 -71.8077 -68.02862   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01656282 -1.01656282
+se        0.03855478  0.03855478
+
+Arrived at a reliable solution 
+
+[[247]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30314 -72.60627 -71.80627 -68.02719   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164915 0.0001194898
+
+Optima
+            smasher    spearer
+estimate -1.0164908 -1.0164908
+se        0.0385584  0.0385584
+
+Arrived at a reliable solution 
+
+[[248]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30118 -72.60236 -71.80236 -68.02328   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216601 0.0001195727
+
+Optima
+             smasher     spearer
+estimate -1.01631317 -1.01631317
+se        0.03854952  0.03854952
+
+Arrived at a reliable solution 
+
+[[249]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31076 -72.62151 -71.82151 -68.04243   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01728778 -1.01728778
+se        0.03858806  0.03858806
+
+Arrived at a reliable solution 
+
+[[250]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30949 -72.61899 -71.81899 -68.03991   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162656 0.0001191462
+
+Optima
+             smasher     spearer
+estimate -1.01714184 -1.01714184
+se        0.03858425  0.03858425
+
+Arrived at a reliable solution 
+
+[[251]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30746 -72.61491 -71.81491 -68.03583   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163177 0.0001192445
+
+Optima
+            smasher    spearer
+estimate -1.0169203 -1.0169203
+se        0.0385725  0.0385725
+
+Arrived at a reliable solution 
+
+[[252]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30084 -72.60167 -71.80167 -68.02259   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165971 0.0001195832
+
+Optima
+            smasher    spearer
+estimate -1.0162821 -1.0162821
+se        0.0385473  0.0385473
+
+Arrived at a reliable solution 
+
+[[253]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30569 -72.61138 -71.81138 -68.0323   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163739 0.0001193019
+
+Optima
+             smasher     spearer
+estimate -1.01674162 -1.01674162
+se        0.03855945  0.03855945
+
+Arrived at a reliable solution 
+
+[[254]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30194 -72.60388 -71.80388 -68.0248   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165176 0.000119542
+
+Optima
+             smasher     spearer
+estimate -1.01637970 -1.01637970
+se        0.03855289  0.03855289
+
+Arrived at a reliable solution 
+
+[[255]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.36652 -72.73305 -71.93305 -68.15397   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002200872 0.0001161457
+
+Optima
+             smasher     spearer
+estimate -1.01647402 -1.01647402
+se        0.03806937  0.03806937
+
+Arrived at a reliable solution 
+
+[[256]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30299 -72.60598 -71.80598 -68.0269   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165263 0.0001194706
+
+Optima
+             smasher     spearer
+estimate -1.01648010 -1.01648010
+se        0.03855396  0.03855396
+
+Arrived at a reliable solution 
+
+[[257]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30223 -72.60447 -71.80447 -68.02539   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165178 0.0001195004
+
+Optima
+             smasher     spearer
+estimate -1.01640893 -1.01640893
+se        0.03854985  0.03854985
+
+Arrived at a reliable solution 
+
+[[258]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31185 -72.6237 -71.8237 -68.04462   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161303 0.0001190136
+
+Optima
+             smasher     spearer
+estimate -1.01741730 -1.01741730
+se        0.03859713  0.03859713
+
+Arrived at a reliable solution 
+
+[[259]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30644 -72.61288 -71.81288 -68.0338   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01681420 -1.01681420
+se        0.03857441  0.03857441
+
+Arrived at a reliable solution 
+
+[[260]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31051 -72.62103 -71.82103 -68.04195   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01725620 -1.01725620
+se        0.03858939  0.03858939
+
+Arrived at a reliable solution 
+
+[[261]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30748 -72.61496 -71.81496 -68.03588   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163177 0.0001192445
+
+Optima
+            smasher    spearer
+estimate -1.0169227 -1.0169227
+se        0.0385728  0.0385728
+
+Arrived at a reliable solution 
+
+[[262]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29769 -72.59537 -71.79537 -68.01629   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166436 0.0001197604
+
+Optima
+            smasher    spearer
+estimate -1.0160037 -1.0160037
+se        0.0385409  0.0385409
+
+Arrived at a reliable solution 
+
+[[263]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30486 -72.60972 -71.80972 -68.03064   BMS   34
+
+Rates
+              smasher    spearer
+alpha              NA         NA
+sigma.sq 0.0002164472 0.00011935
+
+Optima
+             smasher     spearer
+estimate -1.01666076 -1.01666076
+se        0.03855711  0.03855711
+
+Arrived at a reliable solution 
+
+[[264]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30425 -72.60851 -71.80851 -68.02943   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164864 0.0001194087
+
+Optima
+             smasher     spearer
+estimate -1.01660031 -1.01660031
+se        0.03855901  0.03855901
+
+Arrived at a reliable solution 
+
+[[265]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30971 -72.61943 -71.81943 -68.04035   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162715 0.0001191232
+
+Optima
+             smasher     spearer
+estimate -1.01716810 -1.01716810
+se        0.03858382  0.03858382
+
+Arrived at a reliable solution 
+
+[[266]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30689 -72.61379 -71.81379 -68.0347   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163533 0.0001192428
+
+Optima
+             smasher     spearer
+estimate -1.01686446 -1.01686446
+se        0.03856525  0.03856525
+
+Arrived at a reliable solution 
+
+[[267]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30708 -72.61416 -71.81416 -68.03508   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163367 0.0001192485
+
+Optima
+            smasher    spearer
+estimate -1.0168823 -1.0168823
+se        0.0385684  0.0385684
+
+Arrived at a reliable solution 
+
+[[268]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30417 -72.60834 -71.80834 -68.02926   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164755 0.0001194169
+
+Optima
+             smasher     spearer
+estimate -1.01659127 -1.01659127
+se        0.03855922  0.03855922
+
+Arrived at a reliable solution 
+
+[[269]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30389 -72.60778 -71.80778 -68.0287   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01656635 -1.01656635
+se        0.03855522  0.03855522
+
+Arrived at a reliable solution 
+
+[[270]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3063 -72.6126 -71.8126 -68.03352   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01680035 -1.01680035
+se        0.03857268  0.03857268
+
+Arrived at a reliable solution 
+
+[[271]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30908 -72.61816 -71.81816 -68.03907   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01709784 -1.01709784
+se        0.03858028  0.03858028
+
+Arrived at a reliable solution 
+
+[[272]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30634 -72.61269 -71.81269 -68.0336   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+            smasher    spearer
+estimate -1.0168045 -1.0168045
+se        0.0385732  0.0385732
+
+Arrived at a reliable solution 
+
+[[273]]
+
+Fit
+   lnL       AIC      AICc       BIC model ntax
+ 39.31 -72.61999 -71.81999 -68.04091   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01719714 -1.01719714
+se        0.03858646  0.03858646
+
+Arrived at a reliable solution 
+
+[[274]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30574 -72.61147 -71.81147 -68.03239   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164121 0.0001193531
+
+Optima
+             smasher     spearer
+estimate -1.01674385 -1.01674385
+se        0.03856801  0.03856801
+
+Arrived at a reliable solution 
+
+[[275]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31025 -72.6205 -71.8205 -68.04141   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162027 0.0001190816
+
+Optima
+             smasher     spearer
+estimate -1.01722801 -1.01722801
+se        0.03858455  0.03858455
+
+Arrived at a reliable solution 
+
+[[276]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31229 -72.62459 -71.82459 -68.04551   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01746884 -1.01746884
+se        0.03860378  0.03860378
+
+Arrived at a reliable solution 
+
+[[277]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30001 -72.60001 -71.80001 -68.02093   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01620741 -1.01620741
+se        0.03854285  0.03854285
+
+Arrived at a reliable solution 
+
+[[278]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31227 -72.62455 -71.82455 -68.04547   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01746636 -1.01746636
+se        0.03860347  0.03860347
+
+Arrived at a reliable solution 
+
+[[279]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29861 -72.59722 -71.79722 -68.01814   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166089 0.0001196907
+
+Optima
+             smasher     spearer
+estimate -1.01608420 -1.01608420
+se        0.03853979  0.03853979
+
+Arrived at a reliable solution 
+
+[[280]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30708 -72.61416 -71.81416 -68.03507   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163367 0.0001192485
+
+Optima
+             smasher     spearer
+estimate -1.01688213 -1.01688213
+se        0.03856838  0.03856838
+
+Arrived at a reliable solution 
+
+[[281]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30551 -72.61101 -71.81101 -68.03193   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164495 0.0001193303
+
+Optima
+             smasher     spearer
+estimate -1.01672447 -1.01672447
+se        0.03856189  0.03856189
+
+Arrived at a reliable solution 
+
+[[282]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30291 -72.60582 -71.80582 -68.02674   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165113 0.0001195014
+
+Optima
+             smasher     spearer
+estimate -1.01646983 -1.01646983
+se        0.03855763  0.03855763
+
+Arrived at a reliable solution 
+
+[[283]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30981 -72.61962 -71.81962 -68.04054   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162058 0.0001191249
+
+Optima
+             smasher     spearer
+estimate -1.01717607 -1.01717607
+se        0.03858508  0.03858508
+
+Arrived at a reliable solution 
+
+[[284]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30414 -72.60829 -71.80829 -68.02921   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002164539 0.000119428
+
+Optima
+            smasher    spearer
+estimate -1.0165872 -1.0165872
+se        0.0385605  0.0385605
+
+Arrived at a reliable solution 
+
+[[285]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3044 -72.6088 -71.8088 -68.02972   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164281 0.0001194106
+
+Optima
+             smasher     spearer
+estimate -1.01661154 -1.01661154
+se        0.03856074  0.03856074
+
+Arrived at a reliable solution 
+
+[[286]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30365 -72.6073 -71.8073 -68.02822   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01654257 -1.01654257
+se        0.03855728  0.03855728
+
+Arrived at a reliable solution 
+
+[[287]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31095 -72.6219 -71.8219 -68.04282   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01731012 -1.01731012
+se        0.03859085  0.03859085
+
+Arrived at a reliable solution 
+
+[[288]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30062 -72.60124 -71.80124 -68.02216   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165463 0.0001196138
+
+Optima
+             smasher     spearer
+estimate -1.01625918 -1.01625918
+se        0.03854936  0.03854936
+
+Arrived at a reliable solution 
+
+[[289]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3123 -72.6246 -71.8246 -68.04552   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01746953 -1.01746953
+se        0.03860387  0.03860387
+
+Arrived at a reliable solution 
+
+[[290]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30695 -72.6139 -71.8139 -68.03482   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163999 0.0001192744
+
+Optima
+             smasher     spearer
+estimate -1.01686975 -1.01686975
+se        0.03857102  0.03857102
+
+Arrived at a reliable solution 
+
+[[291]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29913 -72.59826 -71.79826 -68.01918   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165721 0.0001196663
+
+Optima
+             smasher     spearer
+estimate -1.01612825 -1.01612825
+se        0.03854139  0.03854139
+
+Arrived at a reliable solution 
+
+[[292]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30931 -72.61862 -71.81862 -68.03954   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002162274 0.000119095
+
+Optima
+             smasher     spearer
+estimate -1.01712416 -1.01712416
+se        0.03857377  0.03857377
+
+Arrived at a reliable solution 
+
+[[293]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.2987 -72.5974 -71.7974 -68.01831   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166089 0.0001196907
+
+Optima
+             smasher     spearer
+estimate -1.01609156 -1.01609156
+se        0.03854072  0.03854072
+
+Arrived at a reliable solution 
+
+[[294]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30272 -72.60543 -71.80543 -68.02635   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165113 0.0001195014
+
+Optima
+             smasher     spearer
+estimate -1.01645235 -1.01645235
+se        0.03855544  0.03855544
+
+Arrived at a reliable solution 
+
+[[295]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3092 -72.61841 -71.81841 -68.03933   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01711150 -1.01711150
+se        0.03858199  0.03858199
+
+Arrived at a reliable solution 
+
+[[296]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30881 -72.61763 -71.81763 -68.03855   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162429 0.0001191646
+
+Optima
+             smasher     spearer
+estimate -1.01706571 -1.01706571
+se        0.03857774  0.03857774
+
+Arrived at a reliable solution 
+
+[[297]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29976 -72.59951 -71.79951 -68.02043   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165953 0.000119663
+
+Optima
+             smasher     spearer
+estimate -1.01618291 -1.01618291
+se        0.03854772  0.03854772
+
+Arrived at a reliable solution 
+
+[[298]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31127 -72.62253 -71.82253 -68.04345   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01734411 -1.01734411
+se        0.03859535  0.03859535
+
+Arrived at a reliable solution 
+
+[[299]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31012 -72.62024 -71.82024 -68.04116   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002162398 0.000119086
+
+Optima
+             smasher     spearer
+estimate -1.01721504 -1.01721504
+se        0.03858364  0.03858364
+
+Arrived at a reliable solution 
+
+[[300]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30038 -72.60076 -71.80076 -68.02167   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165778 0.0001196108
+
+Optima
+             smasher     spearer
+estimate -1.01623944 -1.01623944
+se        0.03854641  0.03854641
+
+Arrived at a reliable solution 
+
+[[301]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3107 -72.62139 -71.82139 -68.04231   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01727685 -1.01727685
+se        0.03859197  0.03859197
+
+Arrived at a reliable solution 
+
+[[302]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30628 -72.61255 -71.81255 -68.03347   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679941 -1.01679941
+se        0.03856466  0.03856466
+
+Arrived at a reliable solution 
+
+[[303]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3067 -72.61339 -71.81339 -68.03431   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164059 0.0001192917
+
+Optima
+             smasher     spearer
+estimate -1.01684309 -1.01684309
+se        0.03857048  0.03857048
+
+Arrived at a reliable solution 
+
+[[304]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30368 -72.60736 -71.80736 -68.02828   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165014 0.0001194236
+
+Optima
+             smasher     spearer
+estimate -1.01654591 -1.01654591
+se        0.03855461  0.03855461
+
+Arrived at a reliable solution 
+
+[[305]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30198 -72.60395 -71.80395 -68.02487   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165176 0.000119542
+
+Optima
+             smasher     spearer
+estimate -1.01638276 -1.01638276
+se        0.03855327  0.03855327
+
+Arrived at a reliable solution 
+
+[[306]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30721 -72.61443 -71.81443 -68.03535   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01689904 -1.01689904
+se        0.03856825  0.03856825
+
+Arrived at a reliable solution 
+
+[[307]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31149 -72.62299 -71.82299 -68.04391   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161573 0.0001190088
+
+Optima
+             smasher     spearer
+estimate -1.01737594 -1.01737594
+se        0.03859119  0.03859119
+
+Arrived at a reliable solution 
+
+[[308]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31205 -72.62409 -71.82409 -68.04501   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002160812 0.0001190075
+
+Optima
+             smasher     spearer
+estimate -1.01743917 -1.01743917
+se        0.03859886  0.03859886
+
+Arrived at a reliable solution 
+
+[[309]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30592 -72.61183 -71.81183 -68.03275   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163739 0.0001193019
+
+Optima
+             smasher     spearer
+estimate -1.01676353 -1.01676353
+se        0.03856219  0.03856219
+
+Arrived at a reliable solution 
+
+[[310]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.29885 -72.5977 -71.7977 -68.01862   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165594 0.0001197033
+
+Optima
+             smasher     spearer
+estimate -1.01610183 -1.01610183
+se        0.03854404  0.03854404
+
+Arrived at a reliable solution 
+
+[[311]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31012 -72.62024 -71.82024 -68.04116   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002162398 0.000119086
+
+Optima
+             smasher     spearer
+estimate -1.01721491 -1.01721491
+se        0.03858362  0.03858362
+
+Arrived at a reliable solution 
+
+[[312]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30518 -72.61035 -71.81035 -68.03127   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01668919 -1.01668919
+se        0.03856489  0.03856489
+
+Arrived at a reliable solution 
+
+[[313]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30488 -72.60977 -71.80977 -68.03068   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164469 0.0001193848
+
+Optima
+             smasher     spearer
+estimate -1.01666022 -1.01666022
+se        0.03856266  0.03856266
+
+Arrived at a reliable solution 
+
+[[314]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30265 -72.60531 -71.80531 -68.02623   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165197 0.0001194946
+
+Optima
+             smasher     spearer
+estimate -1.01644746 -1.01644746
+se        0.03855374  0.03855374
+
+Arrived at a reliable solution 
+
+[[315]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30996 -72.61992 -71.81992 -68.04084   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+           smasher   spearer
+estimate -1.017193 -1.017193
+se        0.038586  0.038586
+
+Arrived at a reliable solution 
+
+[[316]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31138 -72.62276 -71.82276 -68.04368   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161236 0.0001190547
+
+Optima
+             smasher     spearer
+estimate -1.01735741 -1.01735741
+se        0.03859632  0.03859632
+
+Arrived at a reliable solution 
+
+[[317]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30906 -72.61812 -71.81812 -68.03904   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+             smasher     spearer
+estimate -1.01709600 -1.01709600
+se        0.03858005  0.03858005
+
+Arrived at a reliable solution 
+
+[[318]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31144 -72.62288 -71.82288 -68.0438   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216112 0.0001190176
+
+Optima
+            smasher    spearer
+estimate -1.0173670 -1.0173670
+se        0.0385915  0.0385915
+
+Arrived at a reliable solution 
+
+[[319]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30367 -72.60733 -71.80733 -68.02825   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165014 0.0001194236
+
+Optima
+             smasher     spearer
+estimate -1.01654468 -1.01654468
+se        0.03855446  0.03855446
+
+Arrived at a reliable solution 
+
+[[320]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30525 -72.61051 -71.81051 -68.03142   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01669664 -1.01669664
+se        0.03856583  0.03856583
+
+Arrived at a reliable solution 
+
+[[321]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30577 -72.61153 -71.81153 -68.03245   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164121 0.0001193531
+
+Optima
+             smasher     spearer
+estimate -1.01674657 -1.01674657
+se        0.03856835  0.03856835
+
+Arrived at a reliable solution 
+
+[[322]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30618 -72.61236 -71.81236 -68.03328   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01678834 -1.01678834
+se        0.03857118  0.03857118
+
+Arrived at a reliable solution 
+
+[[323]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30098 -72.60197 -71.80197 -68.02289   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166025 0.0001195847
+
+Optima
+             smasher     spearer
+estimate -1.01629504 -1.01629504
+se        0.03854917  0.03854917
+
+Arrived at a reliable solution 
+
+[[324]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3101 -72.6202 -71.8202 -68.04111   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162975 0.0001190882
+
+Optima
+             smasher     spearer
+estimate -1.01721459 -1.01721459
+se        0.03858395  0.03858395
+
+Arrived at a reliable solution 
+
+[[325]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29776 -72.59552 -71.79552 -68.01644   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165932 0.0001197733
+
+Optima
+             smasher     spearer
+estimate -1.01600711 -1.01600711
+se        0.03854341  0.03854341
+
+Arrived at a reliable solution 
+
+[[326]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30133 -72.60266 -71.80266 -68.02357   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165881 0.0001195623
+
+Optima
+             smasher     spearer
+estimate -1.01632639 -1.01632639
+se        0.03854949  0.03854949
+
+Arrived at a reliable solution 
+
+[[327]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29778 -72.59557 -71.79557 -68.01649   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165932 0.0001197733
+
+Optima
+             smasher     spearer
+estimate -1.01600922 -1.01600922
+se        0.03854368  0.03854368
+
+Arrived at a reliable solution 
+
+[[328]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30361 -72.60722 -71.80722 -68.02814   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01653899 -1.01653899
+se        0.03855683  0.03855683
+
+Arrived at a reliable solution 
+
+[[329]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30507 -72.61014 -71.81014 -68.03106   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01667910 -1.01667910
+se        0.03856363  0.03856363
+
+Arrived at a reliable solution 
+
+[[330]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30347 -72.60694 -71.80694 -68.02786   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01652574 -1.01652574
+se        0.03855517  0.03855517
+
+Arrived at a reliable solution 
+
+[[331]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30674 -72.61347 -71.81347 -68.03439   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164059 0.0001192917
+
+Optima
+             smasher     spearer
+estimate -1.01684710 -1.01684710
+se        0.03857099  0.03857099
+
+Arrived at a reliable solution 
+
+[[332]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30367 -72.60735 -71.80735 -68.02827   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165014 0.0001194236
+
+Optima
+             smasher     spearer
+estimate -1.01654558 -1.01654558
+se        0.03855457  0.03855457
+
+Arrived at a reliable solution 
+
+[[333]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30522 -72.61045 -71.81045 -68.03137   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01669376 -1.01669376
+se        0.03856546  0.03856546
+
+Arrived at a reliable solution 
+
+[[334]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30324 -72.60648 -71.80648 -68.0274   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164915 0.0001194898
+
+Optima
+            smasher    spearer
+estimate -1.0165004 -1.0165004
+se        0.0385596  0.0385596
+
+Arrived at a reliable solution 
+
+[[335]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29836 -72.59671 -71.79671 -68.01763   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166221 0.0001197211
+
+Optima
+             smasher     spearer
+estimate -1.01606135 -1.01606135
+se        0.03854182  0.03854182
+
+Arrived at a reliable solution 
+
+[[336]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30621 -72.61242 -71.81242 -68.03334   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679289 -1.01679289
+se        0.03856384  0.03856384
+
+Arrived at a reliable solution 
+
+[[337]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31054 -72.62108 -71.82108 -68.04199   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01725880 -1.01725880
+se        0.03858972  0.03858972
+
+Arrived at a reliable solution 
+
+[[338]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30607 -72.61215 -71.81215 -68.03307   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01677787 -1.01677787
+se        0.03856987  0.03856987
+
+Arrived at a reliable solution 
+
+[[339]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3011 -72.60219 -71.80219 -68.02311   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216601 0.0001195727
+
+Optima
+             smasher     spearer
+estimate -1.01630579 -1.01630579
+se        0.03854859  0.03854859
+
+Arrived at a reliable solution 
+
+[[340]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30145 -72.6029 -71.8029 -68.02382   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165814 0.0001195266
+
+Optima
+             smasher     spearer
+estimate -1.01633943 -1.01633943
+se        0.03854536  0.03854536
+
+Arrived at a reliable solution 
+
+[[341]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30737 -72.61473 -71.81473 -68.03565   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163233 0.0001192363
+
+Optima
+             smasher     spearer
+estimate -1.01691192 -1.01691192
+se        0.03857012  0.03857012
+
+Arrived at a reliable solution 
+
+[[342]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3003 -72.60061 -71.80061 -68.02152   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165806 0.0001196129
+
+Optima
+             smasher     spearer
+estimate -1.01623287 -1.01623287
+se        0.03854591  0.03854591
+
+Arrived at a reliable solution 
+
+[[343]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30547 -72.61094 -71.81094 -68.03186   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163986 0.0001193608
+
+Optima
+             smasher     spearer
+estimate -1.01671687 -1.01671687
+se        0.03856587  0.03856587
+
+Arrived at a reliable solution 
+
+[[344]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2982 -72.59639 -71.79639 -68.01731   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166145 0.0001197266
+
+Optima
+             smasher     spearer
+estimate -1.01604728 -1.01604728
+se        0.03854095  0.03854095
+
+Arrived at a reliable solution 
+
+[[345]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2994 -72.59879 -71.79879 -68.01971   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165828 0.0001196476
+
+Optima
+             smasher     spearer
+estimate -1.01615273 -1.01615273
+se        0.03854145  0.03854145
+
+Arrived at a reliable solution 
+
+[[346]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31185 -72.62371 -71.82371 -68.04463   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161303 0.0001190136
+
+Optima
+             smasher     spearer
+estimate -1.01741750 -1.01741750
+se        0.03859715  0.03859715
+
+Arrived at a reliable solution 
+
+[[347]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3094 -72.61879 -71.81879 -68.03971   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164668 0.0001192235
+
+Optima
+             smasher     spearer
+estimate -1.01680035 -1.01680035
+se        0.03855405  0.03855405
+
+Arrived at a reliable solution 
+
+[[348]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29825 -72.59649 -71.79649 -68.01741   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166145 0.0001197266
+
+Optima
+             smasher     spearer
+estimate -1.01605152 -1.01605152
+se        0.03854148  0.03854148
+
+Arrived at a reliable solution 
+
+[[349]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30715 -72.6143 -71.8143 -68.03522   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163863 0.0001192712
+
+Optima
+           smasher   spearer
+estimate -1.016890 -1.016890
+se        0.038573  0.038573
+
+Arrived at a reliable solution 
+
+[[350]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31098 -72.62196 -71.82196 -68.04288   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01731382 -1.01731382
+se        0.03859131  0.03859131
+
+Arrived at a reliable solution 
+
+[[351]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29958 -72.59916 -71.79916 -68.02008   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165432 0.0001196489
+
+Optima
+             smasher     spearer
+estimate -1.01616686 -1.01616686
+se        0.03854343  0.03854343
+
+Arrived at a reliable solution 
+
+[[352]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30003 -72.60006 -71.80006 -68.02098   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01620922 -1.01620922
+se        0.03854307  0.03854307
+
+Arrived at a reliable solution 
+
+[[353]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30651 -72.61303 -71.81303 -68.03395   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01682156 -1.01682156
+se        0.03857533  0.03857533
+
+Arrived at a reliable solution 
+
+[[354]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30412 -72.60824 -71.80824 -68.02916   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002164539 0.000119428
+
+Optima
+             smasher     spearer
+estimate -1.01658505 -1.01658505
+se        0.03856023  0.03856023
+
+Arrived at a reliable solution 
+
+[[355]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30376 -72.60752 -71.80752 -68.02844   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01655434 -1.01655434
+se        0.03855372  0.03855372
+
+Arrived at a reliable solution 
+
+[[356]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31208 -72.62415 -71.82415 -68.04507   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161218 0.0001189926
+
+Optima
+             smasher     spearer
+estimate -1.01744588 -1.01744588
+se        0.03859728  0.03859728
+
+Arrived at a reliable solution 
+
+[[357]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30872 -72.61745 -71.81745 -68.03837   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162413 0.0001191672
+
+Optima
+             smasher     spearer
+estimate -1.01705583 -1.01705583
+se        0.03857692  0.03857692
+
+Arrived at a reliable solution 
+
+[[358]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30163 -72.60325 -71.80325 -68.02417   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165845 0.000119528
+
+Optima
+             smasher     spearer
+estimate -1.01635516 -1.01635516
+se        0.03854756  0.03854756
+
+Arrived at a reliable solution 
+
+[[359]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30234 -72.60468 -71.80468 -68.0256   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165463 0.000119526
+
+Optima
+             smasher     spearer
+estimate -1.01641777 -1.01641777
+se        0.03855509  0.03855509
+
+Arrived at a reliable solution 
+
+[[360]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31106 -72.62213 -71.82213 -68.04305   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161328 0.0001190589
+
+Optima
+             smasher     spearer
+estimate -1.01732051 -1.01732051
+se        0.03859241  0.03859241
+
+Arrived at a reliable solution 
+
+[[361]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30727 -72.61454 -71.81454 -68.03546   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01690480 -1.01690480
+se        0.03856897  0.03856897
+
+Arrived at a reliable solution 
+
+[[362]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30603 -72.61205 -71.81205 -68.03297   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01677304 -1.01677304
+se        0.03856927  0.03856927
+
+Arrived at a reliable solution 
+
+[[363]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31082 -72.62163 -71.82163 -68.04255   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01729456 -1.01729456
+se        0.03858891  0.03858891
+
+Arrived at a reliable solution 
+
+[[364]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30377 -72.60755 -71.80755 -68.02847   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01655560 -1.01655560
+se        0.03855387  0.03855387
+
+Arrived at a reliable solution 
+
+[[365]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.34626 -72.69252 -71.89252 -68.11344   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002184264 0.0001190156
+
+Optima
+           smasher   spearer
+estimate -1.015518 -1.015518
+se        0.038332  0.038332
+
+Arrived at a reliable solution 
+
+[[366]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30173 -72.60346 -71.80346 -68.02437   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165163 0.0001195679
+
+Optima
+             smasher     spearer
+estimate -1.01635883 -1.01635883
+se        0.03855446  0.03855446
+
+Arrived at a reliable solution 
+
+[[367]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30523 -72.61046 -71.81046 -68.03138   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01669427 -1.01669427
+se        0.03856553  0.03856553
+
+Arrived at a reliable solution 
+
+[[368]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30715 -72.6143 -71.8143 -68.03522   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163863 0.0001192712
+
+Optima
+             smasher     spearer
+estimate -1.01688986 -1.01688986
+se        0.03857302  0.03857302
+
+Arrived at a reliable solution 
+
+[[369]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29781 -72.59563 -71.79563 -68.01655   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165932 0.0001197733
+
+Optima
+             smasher     spearer
+estimate -1.01601172 -1.01601172
+se        0.03854399  0.03854399
+
+Arrived at a reliable solution 
+
+[[370]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30794 -72.61589 -71.81589 -68.03681   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163631 0.0001192286
+
+Optima
+             smasher     spearer
+estimate -1.01697387 -1.01697387
+se        0.03857662  0.03857662
+
+Arrived at a reliable solution 
+
+[[371]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29948 -72.59896 -71.79896 -68.01988   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165638 0.0001196888
+
+Optima
+             smasher     spearer
+estimate -1.01615628 -1.01615628
+se        0.03854854  0.03854854
+
+Arrived at a reliable solution 
+
+[[372]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30628 -72.61257 -71.81257 -68.03349   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01680002 -1.01680002
+se        0.03856473  0.03856473
+
+Arrived at a reliable solution 
+
+[[373]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30263 -72.60526 -71.80526 -68.02618   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165235 0.0001194804
+
+Optima
+             smasher     spearer
+estimate -1.01644653 -1.01644653
+se        0.03855134  0.03855134
+
+Arrived at a reliable solution 
+
+[[374]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30733 -72.61465 -71.81465 -68.03557   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01691059 -1.01691059
+se        0.03856969  0.03856969
+
+Arrived at a reliable solution 
+
+[[375]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30998 -72.61995 -71.81995 -68.04087   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01719490 -1.01719490
+se        0.03858619  0.03858619
+
+Arrived at a reliable solution 
+
+[[376]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30199 -72.60399 -71.80399 -68.0249   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165081 0.0001195365
+
+Optima
+            smasher    spearer
+estimate -1.0163844 -1.0163844
+se        0.0385526  0.0385526
+
+Arrived at a reliable solution 
+
+[[377]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29903 -72.59806 -71.79806 -68.01898   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165845 0.0001196697
+
+Optima
+             smasher     spearer
+estimate -1.01611998 -1.01611998
+se        0.03854091  0.03854091
+
+Arrived at a reliable solution 
+
+[[378]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30257 -72.60514 -71.80514 -68.02605   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165282 0.0001194894
+
+Optima
+           smasher   spearer
+estimate -1.016440 -1.016440
+se        0.038552  0.038552
+
+Arrived at a reliable solution 
+
+[[379]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30985 -72.61969 -71.81969 -68.04061   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162058 0.0001191249
+
+Optima
+             smasher     spearer
+estimate -1.01717969 -1.01717969
+se        0.03858553  0.03858553
+
+Arrived at a reliable solution 
+
+[[380]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30115 -72.6023 -71.8023 -68.02322   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216601 0.0001195727
+
+Optima
+             smasher     spearer
+estimate -1.01631038 -1.01631038
+se        0.03854917  0.03854917
+
+Arrived at a reliable solution 
+
+[[381]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.28797 -72.57594 -71.77594 -67.99686   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002153631 0.0001187775
+
+Optima
+             smasher     spearer
+estimate -1.01924667 -1.01924667
+se        0.03902717  0.03902717
+
+Arrived at a reliable solution 
+
+[[382]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30862 -72.61723 -71.81723 -68.03815   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162501 0.0001191803
+
+Optima
+             smasher     spearer
+estimate -1.01704367 -1.01704367
+se        0.03857752  0.03857752
+
+Arrived at a reliable solution 
+
+[[383]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30467 -72.60934 -71.80934 -68.03026   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164736 0.0001193843
+
+Optima
+             smasher     spearer
+estimate -1.01664105 -1.01664105
+se        0.03856018  0.03856018
+
+Arrived at a reliable solution 
+
+[[384]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.33447 -72.66894 -71.86894 -68.08986   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002180786 0.0001192558
+
+Optima
+             smasher     spearer
+estimate -1.01553956 -1.01553956
+se        0.03838508  0.03838508
+
+Arrived at a reliable solution 
+
+[[385]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30997 -72.61993 -71.81993 -68.04085   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01719387 -1.01719387
+se        0.03858606  0.03858606
+
+Arrived at a reliable solution 
+
+[[386]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3101 -72.6202 -71.8202 -68.04112   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162975 0.0001190882
+
+Optima
+             smasher     spearer
+estimate -1.01721504 -1.01721504
+se        0.03858401  0.03858401
+
+Arrived at a reliable solution 
+
+[[387]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3008 -72.60161 -71.80161 -68.02253   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165971 0.0001195832
+
+Optima
+             smasher     spearer
+estimate -1.01627919 -1.01627919
+se        0.03854694  0.03854694
+
+Arrived at a reliable solution 
+
+[[388]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29826 -72.59652 -71.79652 -68.01744   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166145 0.0001197266
+
+Optima
+             smasher     spearer
+estimate -1.01605259 -1.01605259
+se        0.03854161  0.03854161
+
+Arrived at a reliable solution 
+
+[[389]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30262 -72.60524 -71.80524 -68.02616   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165235 0.0001194804
+
+Optima
+             smasher     spearer
+estimate -1.01644553 -1.01644553
+se        0.03855121  0.03855121
+
+Arrived at a reliable solution 
+
+[[390]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.38334 -72.76668 -71.96668 -68.1876   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002198591 0.000118413
+
+Optima
+             smasher     spearer
+estimate -1.01515476 -1.01515476
+se        0.03816304  0.03816304
+
+Arrived at a reliable solution 
+
+[[391]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30571 -72.61142 -71.81142 -68.03234   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164121 0.0001193531
+
+Optima
+             smasher     spearer
+estimate -1.01674126 -1.01674126
+se        0.03856768  0.03856768
+
+Arrived at a reliable solution 
+
+[[392]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30489 -72.60978 -71.80978 -68.0307   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164469 0.0001193848
+
+Optima
+             smasher     spearer
+estimate -1.01666082 -1.01666082
+se        0.03856273  0.03856273
+
+Arrived at a reliable solution 
+
+[[393]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31194 -72.62389 -71.82389 -68.0448   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161303 0.0001190136
+
+Optima
+            smasher    spearer
+estimate -1.0174284 -1.0174284
+se        0.0385985  0.0385985
+
+Arrived at a reliable solution 
+
+[[394]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3062 -72.6124 -71.8124 -68.03332   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679161 -1.01679161
+se        0.03856368  0.03856368
+
+Arrived at a reliable solution 
+
+[[395]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31031 -72.62062 -71.82062 -68.04154   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162424 0.0001191013
+
+Optima
+             smasher     spearer
+estimate -1.01723498 -1.01723498
+se        0.03858861  0.03858861
+
+Arrived at a reliable solution 
+
+[[396]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31172 -72.62344 -71.82344 -68.04436   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161243 0.0001190451
+
+Optima
+             smasher     spearer
+estimate -1.01739894 -1.01739894
+se        0.03859995  0.03859995
+
+Arrived at a reliable solution 
+
+[[397]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30759 -72.61517 -71.81517 -68.03609   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163414 0.0001192397
+
+Optima
+             smasher     spearer
+estimate -1.01693491 -1.01693491
+se        0.03857355  0.03857355
+
+Arrived at a reliable solution 
+
+[[398]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30336 -72.60672 -71.80672 -68.02764   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164733 0.0001194544
+
+Optima
+             smasher     spearer
+estimate -1.01651325 -1.01651325
+se        0.03855549  0.03855549
+
+Arrived at a reliable solution 
+
+[[399]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30095 -72.6019 -71.8019 -68.02282   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166025 0.0001195847
+
+Optima
+            smasher    spearer
+estimate -1.0162921 -1.0162921
+se        0.0385488  0.0385488
+
+Arrived at a reliable solution 
+
+[[400]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30508 -72.61017 -71.81017 -68.03109   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01668026 -1.01668026
+se        0.03856378  0.03856378
+
+Arrived at a reliable solution 
+
+[[401]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29982 -72.59964 -71.79964 -68.02056   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165953 0.000119663
+
+Optima
+            smasher    spearer
+estimate -1.0161883 -1.0161883
+se        0.0385484  0.0385484
+
+Arrived at a reliable solution 
+
+[[402]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30873 -72.61746 -71.81746 -68.03837   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162413 0.0001191672
+
+Optima
+             smasher     spearer
+estimate -1.01705618 -1.01705618
+se        0.03857697  0.03857697
+
+Arrived at a reliable solution 
+
+[[403]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30174 -72.60349 -71.80349 -68.0244   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165163 0.0001195679
+
+Optima
+             smasher     spearer
+estimate -1.01636014 -1.01636014
+se        0.03855462  0.03855462
+
+Arrived at a reliable solution 
+
+[[404]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.31145 -72.6229 -71.8229 -68.04382   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002160937 0.0001190312
+
+Optima
+             smasher     spearer
+estimate -1.01736636 -1.01736636
+se        0.03859363  0.03859363
+
+Arrived at a reliable solution 
+
+[[405]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30645 -72.6129 -71.8129 -68.03382   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01681534 -1.01681534
+se        0.03857456  0.03857456
+
+Arrived at a reliable solution 
+
+[[406]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31003 -72.62007 -71.82007 -68.04098   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01720135 -1.01720135
+se        0.03858699  0.03858699
+
+Arrived at a reliable solution 
+
+[[407]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30677 -72.61355 -71.81355 -68.03446   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164059 0.0001192917
+
+Optima
+             smasher     spearer
+estimate -1.01685084 -1.01685084
+se        0.03857145  0.03857145
+
+Arrived at a reliable solution 
+
+[[408]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30017 -72.60034 -71.80034 -68.02126   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002166485 0.000119597
+
+Optima
+             smasher     spearer
+estimate -1.01622515 -1.01622515
+se        0.03854238  0.03854238
+
+Arrived at a reliable solution 
+
+[[409]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31014 -72.62028 -71.82028 -68.0412   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162064 0.0001191199
+
+Optima
+             smasher     spearer
+estimate -1.01721310 -1.01721310
+se        0.03858889  0.03858889
+
+Arrived at a reliable solution 
+
+[[410]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30193 -72.60386 -71.80386 -68.02477   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165176 0.000119542
+
+Optima
+             smasher     spearer
+estimate -1.01637849 -1.01637849
+se        0.03855274  0.03855274
+
+Arrived at a reliable solution 
+
+[[411]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30226 -72.60451 -71.80451 -68.02543   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165566 0.0001195186
+
+Optima
+             smasher     spearer
+estimate -1.01641103 -1.01641103
+se        0.03855305  0.03855305
+
+Arrived at a reliable solution 
+
+[[412]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29751 -72.59503 -71.79503 -68.01594   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166213 0.0001197869
+
+Optima
+             smasher     spearer
+estimate -1.01598685 -1.01598685
+se        0.03854305  0.03854305
+
+Arrived at a reliable solution 
+
+[[413]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29873 -72.59747 -71.79747 -68.01839   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166144 0.0001197259
+
+Optima
+             smasher     spearer
+estimate -1.01609252 -1.01609252
+se        0.03854651  0.03854651
+
+Arrived at a reliable solution 
+
+[[414]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30346 -72.60692 -71.80692 -68.02784   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01652491 -1.01652491
+se        0.03855506  0.03855506
+
+Arrived at a reliable solution 
+
+[[415]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3001 -72.60019 -71.80019 -68.02111   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01621510 -1.01621510
+se        0.03854381  0.03854381
+
+Arrived at a reliable solution 
+
+[[416]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31232 -72.62464 -71.82464 -68.04556   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01747189 -1.01747189
+se        0.03860416  0.03860416
+
+Arrived at a reliable solution 
+
+[[417]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30928 -72.61857 -71.81857 -68.03948   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002162274 0.000119095
+
+Optima
+             smasher     spearer
+estimate -1.01712097 -1.01712097
+se        0.03857337  0.03857337
+
+Arrived at a reliable solution 
+
+[[418]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30242 -72.60485 -71.80485 -68.02577   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165132 0.0001195363
+
+Optima
+             smasher     spearer
+estimate -1.01642344 -1.01642344
+se        0.03855745  0.03855745
+
+Arrived at a reliable solution 
+
+[[419]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31006 -72.62012 -71.82012 -68.04104   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01720453 -1.01720453
+se        0.03858739  0.03858739
+
+Arrived at a reliable solution 
+
+[[420]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.15452 -72.30905 -71.50905 -67.72997   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002092688 0.0001239503
+
+Optima
+             smasher     spearer
+estimate -1.01672824 -1.01672824
+se        0.03961356  0.03961356
+
+Arrived at a reliable solution 
+
+[[421]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30624 -72.61248 -71.81248 -68.0334   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679559 -1.01679559
+se        0.03856418  0.03856418
+
+Arrived at a reliable solution 
+
+[[422]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30059 -72.60118 -71.80118 -68.0221   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165463 0.0001196138
+
+Optima
+             smasher     spearer
+estimate -1.01625649 -1.01625649
+se        0.03854903  0.03854903
+
+Arrived at a reliable solution 
+
+[[423]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29759 -72.59518 -71.79518 -68.01609   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166213 0.0001197869
+
+Optima
+             smasher     spearer
+estimate -1.01599310 -1.01599310
+se        0.03854384  0.03854384
+
+Arrived at a reliable solution 
+
+[[424]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31178 -72.62356 -71.82356 -68.04448   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160666 0.000119036
+
+Optima
+             smasher     spearer
+estimate -1.01740440 -1.01740440
+se        0.03859915  0.03859915
+
+Arrived at a reliable solution 
+
+[[425]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30867 -72.61734 -71.81734 -68.03826   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163088 0.0001191736
+
+Optima
+             smasher     spearer
+estimate -1.01705207 -1.01705207
+se        0.03857749  0.03857749
+
+Arrived at a reliable solution 
+
+[[426]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30924 -72.61848 -71.81848 -68.0394   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162202 0.0001191325
+
+Optima
+             smasher     spearer
+estimate -1.01711299 -1.01711299
+se        0.03857845  0.03857845
+
+Arrived at a reliable solution 
+
+[[427]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31057 -72.62114 -71.82114 -68.04206   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01726273 -1.01726273
+se        0.03859021  0.03859021
+
+Arrived at a reliable solution 
+
+[[428]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31224 -72.62447 -71.82447 -68.04539   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+             smasher     spearer
+estimate -1.01746172 -1.01746172
+se        0.03860289  0.03860289
+
+Arrived at a reliable solution 
+
+[[429]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30384 -72.60768 -71.80768 -68.0286   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01656172 -1.01656172
+se        0.03855464  0.03855464
+
+Arrived at a reliable solution 
+
+[[430]]
+
+Fit
+    lnL     AIC    AICc       BIC model ntax
+ 39.308 -72.616 -71.816 -68.03692   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162996 0.0001191939
+
+Optima
+             smasher     spearer
+estimate -1.01697985 -1.01697985
+se        0.03857176  0.03857176
+
+Arrived at a reliable solution 
+
+[[431]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30359 -72.60718 -71.80718 -68.0281   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165159 0.0001194427
+
+Optima
+             smasher     spearer
+estimate -1.01653711 -1.01653711
+se        0.03855659  0.03855659
+
+Arrived at a reliable solution 
+
+[[432]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30153 -72.60306 -71.80306 -68.02398   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165845 0.000119528
+
+Optima
+             smasher     spearer
+estimate -1.01634648 -1.01634648
+se        0.03854648  0.03854648
+
+Arrived at a reliable solution 
+
+[[433]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3086 -72.61719 -71.81719 -68.03811   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163165 0.0001191787
+
+Optima
+             smasher     spearer
+estimate -1.01704430 -1.01704430
+se        0.03857734  0.03857734
+
+Arrived at a reliable solution 
+
+[[434]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30412 -72.60825 -71.80825 -68.02916   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002164539 0.000119428
+
+Optima
+             smasher     spearer
+estimate -1.01658530 -1.01658530
+se        0.03856026  0.03856026
+
+Arrived at a reliable solution 
+
+[[435]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31091 -72.62181 -71.82181 -68.04273   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+            smasher    spearer
+estimate -1.0173049 -1.0173049
+se        0.0385902  0.0385902
+
+Arrived at a reliable solution 
+
+[[436]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30721 -72.61441 -71.81441 -68.03533   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163891 0.0001192346
+
+Optima
+             smasher     spearer
+estimate -1.01689828 -1.01689828
+se        0.03856815  0.03856815
+
+Arrived at a reliable solution 
+
+[[437]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30518 -72.61036 -71.81036 -68.03128   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164513 0.0001193762
+
+Optima
+             smasher     spearer
+estimate -1.01668960 -1.01668960
+se        0.03856494  0.03856494
+
+Arrived at a reliable solution 
+
+[[438]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30405 -72.6081 -71.8081 -68.02902   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216523 0.0001194294
+
+Optima
+             smasher     spearer
+estimate -1.01658104 -1.01658104
+se        0.03855996  0.03855996
+
+Arrived at a reliable solution 
+
+[[439]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30757 -72.61515 -71.81515 -68.03607   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163414 0.0001192397
+
+Optima
+             smasher     spearer
+estimate -1.01693365 -1.01693365
+se        0.03857339  0.03857339
+
+Arrived at a reliable solution 
+
+[[440]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30483 -72.60966 -71.80966 -68.03057   BMS   34
+
+Rates
+              smasher    spearer
+alpha              NA         NA
+sigma.sq 0.0002164472 0.00011935
+
+Optima
+            smasher    spearer
+estimate -1.0166575 -1.0166575
+se        0.0385567  0.0385567
+
+Arrived at a reliable solution 
+
+[[441]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30494 -72.60987 -71.80987 -68.03079   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164469 0.0001193848
+
+Optima
+             smasher     spearer
+estimate -1.01666539 -1.01666539
+se        0.03856331  0.03856331
+
+Arrived at a reliable solution 
+
+[[442]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30792 -72.61584 -71.81584 -68.03676   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163631 0.0001192286
+
+Optima
+             smasher     spearer
+estimate -1.01697153 -1.01697153
+se        0.03857633  0.03857633
+
+Arrived at a reliable solution 
+
+[[443]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3076 -72.6152 -71.8152 -68.03612   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000216344 0.0001192298
+
+Optima
+             smasher     spearer
+estimate -1.01693714 -1.01693714
+se        0.03857223  0.03857223
+
+Arrived at a reliable solution 
+
+[[444]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30422 -72.60843 -71.80843 -68.02935   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164864 0.0001194087
+
+Optima
+             smasher     spearer
+estimate -1.01659672 -1.01659672
+se        0.03855856  0.03855856
+
+Arrived at a reliable solution 
+
+[[445]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2995 -72.59901 -71.79901 -68.01992   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165638 0.0001196888
+
+Optima
+             smasher     spearer
+estimate -1.01615830 -1.01615830
+se        0.03854879  0.03854879
+
+Arrived at a reliable solution 
+
+[[446]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30477 -72.60953 -71.80953 -68.03045   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000215928 0.0001177963
+
+Optima
+             smasher     spearer
+estimate -1.02056827 -1.02056827
+se        0.03912104  0.03912104
+
+Arrived at a reliable solution 
+
+[[447]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.31884 -72.63769 -71.83769 -68.0586   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002181222 0.0001200004
+
+Optima
+             smasher     spearer
+estimate -1.01490069 -1.01490069
+se        0.03846437  0.03846437
+
+Arrived at a reliable solution 
+
+[[448]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.2984 -72.59681 -71.79681 -68.01773   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166221 0.0001197211
+
+Optima
+             smasher     spearer
+estimate -1.01606541 -1.01606541
+se        0.03854233  0.03854233
+
+Arrived at a reliable solution 
+
+[[449]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31132 -72.62263 -71.82263 -68.04355   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161236 0.0001190547
+
+Optima
+             smasher     spearer
+estimate -1.01734998 -1.01734998
+se        0.03859539  0.03859539
+
+Arrived at a reliable solution 
+
+[[450]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3117 -72.62341 -71.82341 -68.04433   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161243 0.0001190451
+
+Optima
+             smasher     spearer
+estimate -1.01739683 -1.01739683
+se        0.03859968  0.03859968
+
+Arrived at a reliable solution 
+
+[[451]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30007 -72.60013 -71.80013 -68.02105   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165839 0.0001196137
+
+Optima
+             smasher     spearer
+estimate -1.01621243 -1.01621243
+se        0.03854348  0.03854348
+
+Arrived at a reliable solution 
+
+[[452]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3063 -72.61261 -71.81261 -68.03352   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01680055 -1.01680055
+se        0.03857271  0.03857271
+
+Arrived at a reliable solution 
+
+[[453]]
+
+Fit
+    lnL     AIC    AICc       BIC model ntax
+ 39.309 -72.618 -71.818 -68.03891   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163171 0.0001191555
+
+Optima
+            smasher    spearer
+estimate -1.0170892 -1.0170892
+se        0.0385792  0.0385792
+
+Arrived at a reliable solution 
+
+[[454]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3123 -72.62459 -71.82459 -68.04551   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002160764 0.000119015
+
+Optima
+            smasher    spearer
+estimate -1.0174690 -1.0174690
+se        0.0386038  0.0386038
+
+Arrived at a reliable solution 
+
+[[455]]
+
+Fit
+     lnL     AIC    AICc       BIC model ntax
+ 39.2985 -72.597 -71.797 -68.01791   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166089 0.0001196907
+
+Optima
+             smasher     spearer
+estimate -1.01607478 -1.01607478
+se        0.03853861  0.03853861
+
+Arrived at a reliable solution 
+
+[[456]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30717 -72.61434 -71.81434 -68.03525   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163863 0.0001192712
+
+Optima
+             smasher     spearer
+estimate -1.01689160 -1.01689160
+se        0.03857324  0.03857324
+
+Arrived at a reliable solution 
+
+[[457]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30886 -72.61771 -71.81771 -68.03863   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162429 0.0001191646
+
+Optima
+             smasher     spearer
+estimate -1.01707024 -1.01707024
+se        0.03857831  0.03857831
+
+Arrived at a reliable solution 
+
+[[458]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3043 -72.60861 -71.80861 -68.02953   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164864 0.0001194087
+
+Optima
+             smasher     spearer
+estimate -1.01660509 -1.01660509
+se        0.03855961  0.03855961
+
+Arrived at a reliable solution 
+
+[[459]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29807 -72.59615 -71.79615 -68.01706   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165718 0.0001197403
+
+Optima
+             smasher     spearer
+estimate -1.01603457 -1.01603457
+se        0.03854154  0.03854154
+
+Arrived at a reliable solution 
+
+[[460]]
+
+Fit
+     lnL     AIC    AICc       BIC model ntax
+ 39.3105 -72.621 -71.821 -68.04192   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01725452 -1.01725452
+se        0.03858918  0.03858918
+
+Arrived at a reliable solution 
+
+[[461]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30745 -72.61491 -71.81491 -68.03583   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163177 0.0001192445
+
+Optima
+             smasher     spearer
+estimate -1.01692009 -1.01692009
+se        0.03857248  0.03857248
+
+Arrived at a reliable solution 
+
+[[462]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3107 -72.62141 -71.82141 -68.04232   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161672 0.0001190898
+
+Optima
+             smasher     spearer
+estimate -1.01727775 -1.01727775
+se        0.03859208  0.03859208
+
+Arrived at a reliable solution 
+
+[[463]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30377 -72.60753 -71.80753 -68.02845   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164972 0.0001194115
+
+Optima
+             smasher     spearer
+estimate -1.01655472 -1.01655472
+se        0.03855376  0.03855376
+
+Arrived at a reliable solution 
+
+[[464]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29918 -72.59836 -71.79836 -68.01928   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165721 0.0001196663
+
+Optima
+             smasher     spearer
+estimate -1.01613279 -1.01613279
+se        0.03854196  0.03854196
+
+Arrived at a reliable solution 
+
+[[465]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30248 -72.60497 -71.80497 -68.02588   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165019 0.0001195135
+
+Optima
+             smasher     spearer
+estimate -1.01642990 -1.01642990
+se        0.03855459  0.03855459
+
+Arrived at a reliable solution 
+
+[[466]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31167 -72.62333 -71.82333 -68.04425   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161243 0.0001190451
+
+Optima
+             smasher     spearer
+estimate -1.01739231 -1.01739231
+se        0.03859912  0.03859912
+
+Arrived at a reliable solution 
+
+[[467]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31172 -72.62345 -71.82345 -68.04437   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161243 0.0001190451
+
+Optima
+             smasher     spearer
+estimate -1.01739918 -1.01739918
+se        0.03859998  0.03859998
+
+Arrived at a reliable solution 
+
+[[468]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30614 -72.61227 -71.81227 -68.03319   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01678408 -1.01678408
+se        0.03857065  0.03857065
+
+Arrived at a reliable solution 
+
+[[469]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29936 -72.59873 -71.79873 -68.01965   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165828 0.0001196476
+
+Optima
+             smasher     spearer
+estimate -1.01614994 -1.01614994
+se        0.03854111  0.03854111
+
+Arrived at a reliable solution 
+
+[[470]]
+
+Fit
+      lnL      AIC     AICc       BIC model ntax
+ 39.30735 -72.6147 -71.8147 -68.03562   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163233 0.0001192363
+
+Optima
+            smasher    spearer
+estimate -1.0169102 -1.0169102
+se        0.0385699  0.0385699
+
+Arrived at a reliable solution 
+
+[[471]]
+
+Fit
+     lnL      AIC     AICc       BIC model ntax
+ 39.3037 -72.6074 -71.8074 -68.02831   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165014 0.0001194236
+
+Optima
+             smasher     spearer
+estimate -1.01654772 -1.01654772
+se        0.03855484  0.03855484
+
+Arrived at a reliable solution 
+
+[[472]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.37024 -72.74047 -71.94047 -68.16139   BMS   34
+
+Rates
+             smasher      spearer
+alpha             NA           NA
+sigma.sq 0.000218187 0.0001179107
+
+Optima
+             smasher     spearer
+estimate -1.01751406 -1.01751406
+se        0.03843604  0.03843604
+
+Arrived at a reliable solution 
+
+[[473]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30151 -72.60302 -71.80302 -68.02393   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165845 0.000119528
+
+Optima
+             smasher     spearer
+estimate -1.01634462 -1.01634462
+se        0.03854624  0.03854624
+
+Arrived at a reliable solution 
+
+[[474]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31004 -72.62009 -71.82009 -68.04101   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162089 0.0001191172
+
+Optima
+             smasher     spearer
+estimate -1.01720262 -1.01720262
+se        0.03858715  0.03858715
+
+Arrived at a reliable solution 
+
+[[475]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29913 -72.59825 -71.79825 -68.01917   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165721 0.0001196663
+
+Optima
+             smasher     spearer
+estimate -1.01612805 -1.01612805
+se        0.03854137  0.03854137
+
+Arrived at a reliable solution 
+
+[[476]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29851 -72.59702 -71.79702 -68.01794   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166089 0.0001196907
+
+Optima
+             smasher     spearer
+estimate -1.01607567 -1.01607567
+se        0.03853872  0.03853872
+
+Arrived at a reliable solution 
+
+[[477]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31028 -72.62056 -71.82056 -68.04148   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162424 0.0001191013
+
+Optima
+             smasher     spearer
+estimate -1.01723195 -1.01723195
+se        0.03858823  0.03858823
+
+Arrived at a reliable solution 
+
+[[478]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31092 -72.62184 -71.82184 -68.04276   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01730672 -1.01730672
+se        0.03859043  0.03859043
+
+Arrived at a reliable solution 
+
+[[479]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30961 -72.61921 -71.81921 -68.04013   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162656 0.0001191462
+
+Optima
+            smasher    spearer
+estimate -1.0171542 -1.0171542
+se        0.0385858  0.0385858
+
+Arrived at a reliable solution 
+
+[[480]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30478 -72.60956 -71.80956 -68.03048   BMS   34
+
+Rates
+              smasher    spearer
+alpha              NA         NA
+sigma.sq 0.0002164472 0.00011935
+
+Optima
+             smasher     spearer
+estimate -1.01665311 -1.01665311
+se        0.03855615  0.03855615
+
+Arrived at a reliable solution 
+
+[[481]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29763 -72.59527 -71.79527 -68.01619   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166436 0.0001197604
+
+Optima
+             smasher     spearer
+estimate -1.01599938 -1.01599938
+se        0.03854036  0.03854036
+
+Arrived at a reliable solution 
+
+[[482]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29598 -72.59195 -71.79195 -68.01287   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002157745 0.0001196123
+
+Optima
+             smasher     spearer
+estimate -1.01692906 -1.01692906
+se        0.03866157  0.03866157
+
+Arrived at a reliable solution 
+
+[[483]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30628 -72.61255 -71.81255 -68.03347   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163543 0.0001192894
+
+Optima
+             smasher     spearer
+estimate -1.01679939 -1.01679939
+se        0.03856465  0.03856465
+
+Arrived at a reliable solution 
+
+[[484]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31019 -72.62037 -71.82037 -68.04129   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162233 0.0001191269
+
+Optima
+             smasher     spearer
+estimate -1.01721860 -1.01721860
+se        0.03859071  0.03859071
+
+Arrived at a reliable solution 
+
+[[485]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30041 -72.60082 -71.80082 -68.02173   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165643 0.0001196031
+
+Optima
+             smasher     spearer
+estimate -1.01624205 -1.01624205
+se        0.03854549  0.03854549
+
+Arrived at a reliable solution 
+
+[[486]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30161 -72.60323 -71.80323 -68.02414   BMS   34
+
+Rates
+              smasher     spearer
+alpha              NA          NA
+sigma.sq 0.0002165845 0.000119528
+
+Optima
+             smasher     spearer
+estimate -1.01635396 -1.01635396
+se        0.03854741  0.03854741
+
+Arrived at a reliable solution 
+
+[[487]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29766 -72.59532 -71.79532 -68.01624   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166436 0.0001197604
+
+Optima
+             smasher     spearer
+estimate -1.01600168 -1.01600168
+se        0.03854065  0.03854065
+
+Arrived at a reliable solution 
+
+[[488]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30866 -72.61732 -71.81732 -68.03824   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163088 0.0001191736
+
+Optima
+             smasher     spearer
+estimate -1.01705118 -1.01705118
+se        0.03857738  0.03857738
+
+Arrived at a reliable solution 
+
+[[489]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31213 -72.62426 -71.82426 -68.04518   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002160981 0.0001189957
+
+Optima
+             smasher     spearer
+estimate -1.01745100 -1.01745100
+se        0.03859843  0.03859843
+
+Arrived at a reliable solution 
+
+[[490]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31026 -72.62052 -71.82052 -68.04144   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002162027 0.0001190816
+
+Optima
+             smasher     spearer
+estimate -1.01722943 -1.01722943
+se        0.03858473  0.03858473
+
+Arrived at a reliable solution 
+
+[[491]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30784 -72.61569 -71.81569 -68.03661   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002163631 0.0001192286
+
+Optima
+             smasher     spearer
+estimate -1.01696344 -1.01696344
+se        0.03857532  0.03857532
+
+Arrived at a reliable solution 
+
+[[492]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3005 -72.60099 -71.80099 -68.02191   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165555 0.0001196181
+
+Optima
+             smasher     spearer
+estimate -1.01624830 -1.01624830
+se        0.03854869  0.03854869
+
+Arrived at a reliable solution 
+
+[[493]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.31077 -72.62153 -71.82153 -68.04245   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01728894 -1.01728894
+se        0.03858821  0.03858821
+
+Arrived at a reliable solution 
+
+[[494]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 39.30169 -72.60339 -71.80339 -68.0243   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165628 0.0001194907
+
+Optima
+             smasher     spearer
+estimate -1.01636286 -1.01636286
+se        0.03854251  0.03854251
+
+Arrived at a reliable solution 
+
+[[495]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.30614 -72.61227 -71.81227 -68.03319   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002164069 0.0001193384
+
+Optima
+             smasher     spearer
+estimate -1.01678393 -1.01678393
+se        0.03857063  0.03857063
+
+Arrived at a reliable solution 
+
+[[496]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29848 -72.59696 -71.79696 -68.01788   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166221 0.0001197211
+
+Optima
+             smasher     spearer
+estimate -1.01607175 -1.01607175
+se        0.03854313  0.03854313
+
+Arrived at a reliable solution 
+
+[[497]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 39.3109 -72.62181 -71.82181 -68.04273   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002161986 0.0001190573
+
+Optima
+             smasher     spearer
+estimate -1.01730479 -1.01730479
+se        0.03859019  0.03859019
+
+Arrived at a reliable solution 
+
+[[498]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29932 -72.59864 -71.79864 -68.01956   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002165877 0.0001196918
+
+Optima
+             smasher     spearer
+estimate -1.01614331 -1.01614331
+se        0.03854739  0.03854739
+
+Arrived at a reliable solution 
+
+[[499]]
+
+Fit
+     lnL     AIC    AICc       BIC model ntax
+ 39.1575 -72.315 -71.515 -67.73592   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002095494 0.0001239358
+
+Optima
+             smasher     spearer
+estimate -1.01649025 -1.01649025
+se        0.03957081  0.03957081
+
+Arrived at a reliable solution 
+
+[[500]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 39.29731 -72.59461 -71.79461 -68.01553   BMS   34
+
+Rates
+              smasher      spearer
+alpha              NA           NA
+sigma.sq 0.0002166661 0.0001197816
+
+Optima
+            smasher    spearer
+estimate -1.0159717 -1.0159717
+se        0.0385403  0.0385403
+
+Arrived at a reliable solution 
+
