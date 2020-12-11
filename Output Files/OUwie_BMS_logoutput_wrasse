@@ -1,0 +1,9000 @@
+[[1]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4451 -244.8902 -244.5785 -237.7068   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001260898 0.0001215387
+
+Optima
+                hard        soft
+estimate -0.29569797 -0.29569797
+se        0.03398164  0.03398164
+
+Arrived at a reliable solution 
+
+[[2]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4441 -244.8883 -244.5766 -237.7049   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001236687 0.0001218834
+
+Optima
+                hard        soft
+estimate -0.29560008 -0.29560008
+se        0.03383727  0.03383727
+
+Arrived at a reliable solution 
+
+[[3]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8011 -245.6022 -245.2906 -238.4189   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001875892 0.0001151297
+
+Optima
+                hard        soft
+estimate -0.29727270 -0.29727270
+se        0.03342656  0.03342656
+
+Arrived at a reliable solution 
+
+[[4]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.6287 -245.2573 -244.9457 -238.074   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.891671e-05 0.0001272461
+
+Optima
+                hard        soft
+estimate -0.29266147 -0.29266147
+se        0.03434606  0.03434606
+
+Arrived at a reliable solution 
+
+[[5]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5711 -245.1422 -244.8305 -237.9588   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.638223e-05 0.0001266958
+
+Optima
+                hard        soft
+estimate -0.29241443 -0.29241443
+se        0.03418195  0.03418195
+
+Arrived at a reliable solution 
+
+[[6]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6729 -245.3458 -245.0341 -238.1625   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.614064e-05 0.0001281149
+
+Optima
+                hard        soft
+estimate -0.29125094 -0.29125094
+se        0.03399282  0.03399282
+
+Arrived at a reliable solution 
+
+[[7]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6186 -245.2373 -244.9256 -238.0539   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.135567e-05 0.0001269425
+
+Optima
+                hard        soft
+estimate -0.29214457 -0.29214457
+se        0.03408172  0.03408172
+
+Arrived at a reliable solution 
+
+[[8]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.4893 -244.9787 -244.667 -237.7953   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.352751e-05 0.0001248826
+
+Optima
+                hard        soft
+estimate -0.29355562 -0.29355562
+se        0.03407325  0.03407325
+
+Arrived at a reliable solution 
+
+[[9]]
+
+Fit
+      lnL       AIC    AICc       BIC model ntax
+ 125.4458 -244.8917 -244.58 -237.7083   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000116018 0.0001226208
+
+Optima
+                hard        soft
+estimate -0.29513825 -0.29513825
+se        0.03388201  0.03388201
+
+Arrived at a reliable solution 
+
+[[10]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5461 -245.0923 -244.7806 -237.9089   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.932806e-05 0.0001260786
+
+Optima
+                hard        soft
+estimate -0.29256157 -0.29256157
+se        0.03401311  0.03401311
+
+Arrived at a reliable solution 
+
+[[11]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4457 -244.8915 -244.5798 -237.7081   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001273312 0.0001214364
+
+Optima
+                hard        soft
+estimate -0.29572286 -0.29572286
+se        0.03391983  0.03391983
+
+Arrived at a reliable solution 
+
+[[12]]
+
+Fit
+     lnL     AIC      AICc       BIC model ntax
+ 125.535 -245.07 -244.7583 -237.8866   BMS   81
+
+Rates
+                hard        soft
+alpha             NA          NA
+sigma.sq 8.65836e-05 0.000126816
+
+Optima
+                hard        soft
+estimate -0.29285539 -0.29285539
+se        0.03267187  0.03267187
+
+Arrived at a reliable solution 
+
+[[13]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5512 -245.1024 -244.7907 -237.9191   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.114667e-05 0.0001263802
+
+Optima
+                hard        soft
+estimate -0.29275364 -0.29275364
+se        0.03420301  0.03420301
+
+Arrived at a reliable solution 
+
+[[14]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6653 -245.3307 -245.019 -238.1473   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001586209 0.0001166671
+
+Optima
+                hard        soft
+estimate -0.29598723 -0.29598723
+se        0.03528661  0.03528661
+
+Arrived at a reliable solution 
+
+[[15]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5158 -245.0316 -244.7199 -237.8482   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001493472 0.0001186848
+
+Optima
+                hard        soft
+estimate -0.29619843 -0.29619843
+se        0.03427361  0.03427361
+
+Arrived at a reliable solution 
+
+[[16]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6536 -245.3071 -244.9954 -238.1238   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.808169e-05 0.0001279611
+
+Optima
+                hard        soft
+estimate -0.29166078 -0.29166078
+se        0.03401096  0.03401096
+
+Arrived at a reliable solution 
+
+[[17]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.8728 -245.7457 -245.434 -238.5623   BMS   81
+
+Rates
+                hard        soft
+alpha             NA          NA
+sigma.sq 5.73462e-05 0.000129715
+
+Optima
+                hard        soft
+estimate -0.28916039 -0.28916039
+se        0.03220211  0.03220211
+
+Arrived at a reliable solution 
+
+[[18]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4494 -244.8989 -244.5872 -237.7155   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001132336 0.0001231863
+
+Optima
+               hard       soft
+estimate -0.2950103 -0.2950103
+se        0.0335252  0.0335252
+
+Arrived at a reliable solution 
+
+[[19]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5901 -245.1801 -244.8684 -237.9968   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001716732 0.0001172183
+
+Optima
+                hard        soft
+estimate -0.29736418 -0.29736418
+se        0.03358332  0.03358332
+
+Arrived at a reliable solution 
+
+[[20]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4446 -244.8893 -244.5776 -237.7059   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001188672 0.0001223965
+
+Optima
+                hard        soft
+estimate -0.29535852 -0.29535852
+se        0.03375622  0.03375622
+
+Arrived at a reliable solution 
+
+[[21]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.533 -245.0659 -244.7542 -237.8826   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.239712e-05 0.0001258246
+
+Optima
+                hard        soft
+estimate -0.29290558 -0.29290558
+se        0.03415322  0.03415322
+
+Arrived at a reliable solution 
+
+[[22]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5488 -245.0975 -244.7858 -237.9142   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.855264e-05 0.0001262086
+
+Optima
+                hard        soft
+estimate -0.29269637 -0.29269637
+se        0.03413058  0.03413058
+
+Arrived at a reliable solution 
+
+[[23]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6697 -245.3394 -245.0277 -238.1561   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.536154e-05 0.0001280087
+
+Optima
+                hard        soft
+estimate -0.29187256 -0.29187256
+se        0.03418113  0.03418113
+
+Arrived at a reliable solution 
+
+[[24]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6789 -245.3578 -245.0461 -238.1745   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 6.080483e-05 0.000128242
+
+Optima
+                hard        soft
+estimate -0.29266631 -0.29266631
+se        0.03442998  0.03442998
+
+Arrived at a reliable solution 
+
+[[25]]
+
+Fit
+    lnL     AIC      AICc       BIC model ntax
+ 125.83 -245.66 -245.3483 -238.4766   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001777353 0.0001152263
+
+Optima
+                hard        soft
+estimate -0.29623829 -0.29623829
+se        0.03406142  0.03406142
+
+Arrived at a reliable solution 
+
+[[26]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5538 -245.1076 -244.796 -237.9243   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.007675e-05 0.0001263169
+
+Optima
+                hard        soft
+estimate -0.29264339 -0.29264339
+se        0.03406878  0.03406878
+
+Arrived at a reliable solution 
+
+[[27]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5475 -245.095 -244.7833 -237.9116   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.047096e-05 0.0001261041
+
+Optima
+                hard        soft
+estimate -0.29314444 -0.29314444
+se        0.03422797  0.03422797
+
+Arrived at a reliable solution 
+
+[[28]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7676 -245.5353 -245.2236 -238.3519   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.031652e-05 0.0001277233
+
+Optima
+                hard        soft
+estimate -0.29201416 -0.29201416
+se        0.03402114  0.03402114
+
+Arrived at a reliable solution 
+
+[[29]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.5414 -247.0828 -246.7711 -239.8995   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 3.981781e-05 0.0001280441
+
+Optima
+                hard        soft
+estimate -0.29180624 -0.29180624
+se        0.03344588  0.03344588
+
+Arrived at a reliable solution 
+
+[[30]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9958 -245.9916 -245.6799 -238.8082   BMS   81
+
+Rates
+              hard         soft
+alpha           NA           NA
+sigma.sq 5.705e-05 0.0001310367
+
+Optima
+                hard        soft
+estimate -0.28971816 -0.28971816
+se        0.03174687  0.03174687
+
+Arrived at a reliable solution 
+
+[[31]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5191 -245.0382 -244.7266 -237.8549   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.833511e-05 0.0001262254
+
+Optima
+                hard        soft
+estimate -0.29345180 -0.29345180
+se        0.03308067  0.03308067
+
+Arrived at a reliable solution 
+
+[[32]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1532 -246.3065 -245.9948 -239.1231   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.514339e-05 0.0001282243
+
+Optima
+                hard        soft
+estimate -0.29318058 -0.29318058
+se        0.03430505  0.03430505
+
+Arrived at a reliable solution 
+
+[[33]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6593 -245.3185 -245.0069 -238.1352   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.467051e-05 0.0001284109
+
+Optima
+                hard        soft
+estimate -0.29226627 -0.29226627
+se        0.03293759  0.03293759
+
+Arrived at a reliable solution 
+
+[[34]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8431 -245.6861 -245.3744 -238.5028   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.565639e-05 0.0001289952
+
+Optima
+                hard        soft
+estimate -0.29069405 -0.29069405
+se        0.03401525  0.03401525
+
+Arrived at a reliable solution 
+
+[[35]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0855 -246.1711 -245.8594 -238.9877   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 4.73495e-05 0.0001292729
+
+Optima
+                hard        soft
+estimate -0.29203016 -0.29203016
+se        0.03426233  0.03426233
+
+Arrived at a reliable solution 
+
+[[36]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4958 -244.9915 -244.6798 -237.8082   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 9.23234e-05 0.0001250405
+
+Optima
+                hard        soft
+estimate -0.29342170 -0.29342170
+se        0.03406168  0.03406168
+
+Arrived at a reliable solution 
+
+[[37]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4874 -244.9748 -244.6631 -237.7915   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 9.49714e-05 0.0001252432
+
+Optima
+                hard        soft
+estimate -0.29385323 -0.29385323
+se        0.03328496  0.03328496
+
+Arrived at a reliable solution 
+
+[[38]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.3139 -246.6279 -246.3162 -239.4445   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.265197e-05 0.0001281502
+
+Optima
+                hard        soft
+estimate -0.29225455 -0.29225455
+se        0.03359722  0.03359722
+
+Arrived at a reliable solution 
+
+[[39]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5116 -245.0232 -244.7115 -237.8398   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 8.67119e-05 0.0001256136
+
+Optima
+                hard        soft
+estimate -0.29297796 -0.29297796
+se        0.03389597  0.03389597
+
+Arrived at a reliable solution 
+
+[[40]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6633 -245.3265 -245.0149 -238.1432   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001659258 0.0001167348
+
+Optima
+                hard        soft
+estimate -0.29617076 -0.29617076
+se        0.03415803  0.03415803
+
+Arrived at a reliable solution 
+
+[[41]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6618 -245.3237 -245.012 -238.1403   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.392728e-05 0.0001266632
+
+Optima
+                hard        soft
+estimate -0.29246960 -0.29246960
+se        0.03369746  0.03369746
+
+Arrived at a reliable solution 
+
+[[42]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 126.3802 -246.7604 -246.4487 -239.577   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.183461e-05 0.0001283571
+
+Optima
+                hard        soft
+estimate -0.29258300 -0.29258300
+se        0.03411459  0.03411459
+
+Arrived at a reliable solution 
+
+[[43]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6293 -245.2585 -244.9468 -238.0752   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 7.176805e-05 0.000127969
+
+Optima
+                hard        soft
+estimate -0.29113389 -0.29113389
+se        0.03267399  0.03267399
+
+Arrived at a reliable solution 
+
+[[44]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4824 -244.9649 -244.6532 -237.7815   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.824233e-05 0.0001250314
+
+Optima
+                hard        soft
+estimate -0.29412572 -0.29412572
+se        0.03372914  0.03372914
+
+Arrived at a reliable solution 
+
+[[45]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5387 -245.0774 -244.7657 -237.8941   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.375605e-05 0.0001270551
+
+Optima
+                hard        soft
+estimate -0.29269430 -0.29269430
+se        0.03157359  0.03157359
+
+Arrived at a reliable solution 
+
+[[46]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.599 -245.198 -244.8863 -238.0147   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001634398 0.000117432
+
+Optima
+                hard        soft
+estimate -0.29624920 -0.29624920
+se        0.03498362  0.03498362
+
+Arrived at a reliable solution 
+
+[[47]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4561 -244.9121 -244.6005 -237.7288   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001345603 0.0001205606
+
+Optima
+                hard        soft
+estimate -0.29584401 -0.29584401
+se        0.03409105  0.03409105
+
+Arrived at a reliable solution 
+
+[[48]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5441 -245.0881 -244.7765 -237.9048   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001672383 0.0001178957
+
+Optima
+                hard        soft
+estimate -0.29716432 -0.29716432
+se        0.03356377  0.03356377
+
+Arrived at a reliable solution 
+
+[[49]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0856 -246.1712 -245.8595 -238.9878   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 4.770087e-05 0.000128887
+
+Optima
+                hard        soft
+estimate -0.29228078 -0.29228078
+se        0.03416348  0.03416348
+
+Arrived at a reliable solution 
+
+[[50]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8523 -245.7046 -245.3929 -238.5212   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001976045 0.0001148577
+
+Optima
+               hard       soft
+estimate -0.2972454 -0.2972454
+se        0.0333220  0.0333220
+
+Arrived at a reliable solution 
+
+[[51]]
+
+Fit
+      lnL       AIC    AICc       BIC model ntax
+ 125.7108 -245.4216 -245.11 -238.2383   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001862555 0.0001159331
+
+Optima
+                hard        soft
+estimate -0.29698232 -0.29698232
+se        0.03342346  0.03342346
+
+Arrived at a reliable solution 
+
+[[52]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5223 -245.0446 -244.7329 -237.8612   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.638937e-05 0.0001256789
+
+Optima
+                hard        soft
+estimate -0.29290372 -0.29290372
+se        0.03410467  0.03410467
+
+Arrived at a reliable solution 
+
+[[53]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.456 -244.9121 -244.6004 -237.7287   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001337923 0.0001205689
+
+Optima
+                hard        soft
+estimate -0.29589087 -0.29589087
+se        0.03454708  0.03454708
+
+Arrived at a reliable solution 
+
+[[54]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5609 -245.1218 -244.8102 -237.9385   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.719546e-05 0.0001265497
+
+Optima
+                hard        soft
+estimate -0.29219097 -0.29219097
+se        0.03399346  0.03399346
+
+Arrived at a reliable solution 
+
+[[55]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6579 -245.3159 -245.0042 -238.1325   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.647643e-05 0.0001277318
+
+Optima
+                hard        soft
+estimate -0.29176108 -0.29176108
+se        0.03412172  0.03412172
+
+Arrived at a reliable solution 
+
+[[56]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5811 -245.1621 -244.8504 -237.9788   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001792392 0.0001175673
+
+Optima
+                hard        soft
+estimate -0.29745974 -0.29745974
+se        0.03356481  0.03356481
+
+Arrived at a reliable solution 
+
+[[57]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5607 -245.1214 -244.8098 -237.9381   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001543552 0.0001180178
+
+Optima
+                hard        soft
+estimate -0.29595083 -0.29595083
+se        0.03482553  0.03482553
+
+Arrived at a reliable solution 
+
+[[58]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.2383 -246.4765 -246.1648 -239.2932   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.331746e-05 0.0001276591
+
+Optima
+                hard        soft
+estimate -0.29293425 -0.29293425
+se        0.03391924  0.03391924
+
+Arrived at a reliable solution 
+
+[[59]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6405 -245.2811 -244.9694 -238.0977   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.766274e-05 0.0001276752
+
+Optima
+                hard        soft
+estimate -0.29193928 -0.29193928
+se        0.03417438  0.03417438
+
+Arrived at a reliable solution 
+
+[[60]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5678 -245.1357 -244.824 -237.9523   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.975323e-05 0.0001267477
+
+Optima
+                hard        soft
+estimate -0.29227746 -0.29227746
+se        0.03410481  0.03410481
+
+Arrived at a reliable solution 
+
+[[61]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.525 -245.0499 -244.7382 -237.8666   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.355545e-05 0.0001258038
+
+Optima
+                hard        soft
+estimate -0.29319917 -0.29319917
+se        0.03420632  0.03420632
+
+Arrived at a reliable solution 
+
+[[62]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4841 -244.9683 -244.6566 -237.7849   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.708804e-05 0.0001251204
+
+Optima
+                hard        soft
+estimate -0.29404916 -0.29404916
+se        0.03354382  0.03354382
+
+Arrived at a reliable solution 
+
+[[63]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5471 -245.0942 -244.7825 -237.9108   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 7.87886e-05 0.0001260558
+
+Optima
+                hard        soft
+estimate -0.29274157 -0.29274157
+se        0.03408181  0.03408181
+
+Arrived at a reliable solution 
+
+[[64]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7241 -245.4482 -245.1365 -238.2649   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000177829 0.0001160938
+
+Optima
+                hard        soft
+estimate -0.29638344 -0.29638344
+se        0.03417953  0.03417953
+
+Arrived at a reliable solution 
+
+[[65]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9614 -245.9228 -245.6111 -238.7394   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.916402e-05 0.0001283571
+
+Optima
+               hard       soft
+estimate -0.2922020 -0.2922020
+se        0.0340895  0.0340895
+
+Arrived at a reliable solution 
+
+[[66]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5937 -245.1874 -244.8757 -238.004   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.901707e-05 0.0001278235
+
+Optima
+               hard       soft
+estimate -0.2919774 -0.2919774
+se        0.0329865  0.0329865
+
+Arrived at a reliable solution 
+
+[[67]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5335 -245.0671 -244.7554 -237.8837   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.537134e-05 0.0001260702
+
+Optima
+                hard        soft
+estimate -0.29259465 -0.29259465
+se        0.03406038  0.03406038
+
+Arrived at a reliable solution 
+
+[[68]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5885 -245.177 -244.8653 -237.9937   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.450163e-05 0.0001270491
+
+Optima
+                hard        soft
+estimate -0.29246491 -0.29246491
+se        0.03426784  0.03426784
+
+Arrived at a reliable solution 
+
+[[69]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5725 -245.145 -244.8334 -237.9617   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001577099 0.0001177109
+
+Optima
+                hard        soft
+estimate -0.29615700 -0.29615700
+se        0.03446366  0.03446366
+
+Arrived at a reliable solution 
+
+[[70]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5869 -245.1738 -244.8621 -237.9905   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001609637 0.0001174415
+
+Optima
+                hard        soft
+estimate -0.29629767 -0.29629767
+se        0.03475411  0.03475411
+
+Arrived at a reliable solution 
+
+[[71]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.885 -245.7699 -245.4582 -238.5866   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000179867 0.0001149204
+
+Optima
+                hard        soft
+estimate -0.29616593 -0.29616593
+se        0.03451781  0.03451781
+
+Arrived at a reliable solution 
+
+[[72]]
+
+Fit
+    lnL     AIC      AICc       BIC model ntax
+ 125.66 -245.32 -245.0083 -238.1366   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.352966e-05 0.0001270273
+
+Optima
+                hard        soft
+estimate -0.29235996 -0.29235996
+se        0.03404025  0.03404025
+
+Arrived at a reliable solution 
+
+[[73]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5469 -245.0939 -244.7822 -237.9105   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.008606e-05 0.0001261549
+
+Optima
+                hard        soft
+estimate -0.29305518 -0.29305518
+se        0.03421486  0.03421486
+
+Arrived at a reliable solution 
+
+[[74]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5493 -245.0987 -244.787 -237.9153   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.092309e-05 0.0001262304
+
+Optima
+                hard        soft
+estimate -0.29261526 -0.29261526
+se        0.03418706  0.03418706
+
+Arrived at a reliable solution 
+
+[[75]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6783 -245.3566 -245.0449 -238.1732   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001626086 0.0001165192
+
+Optima
+                hard        soft
+estimate -0.29613973 -0.29613973
+se        0.03532409  0.03532409
+
+Arrived at a reliable solution 
+
+[[76]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4649 -244.9298 -244.6181 -237.7465   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001011811 0.0001241742
+
+Optima
+               hard       soft
+estimate -0.2940465 -0.2940465
+se        0.0335869  0.0335869
+
+Arrived at a reliable solution 
+
+[[77]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4511 -244.9022 -244.5905 -237.7189   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001128087 0.0001232951
+
+Optima
+                hard        soft
+estimate -0.29512736 -0.29512736
+se        0.03332466  0.03332466
+
+Arrived at a reliable solution 
+
+[[78]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4507 -244.9015 -244.5898 -237.7181   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001322028 0.0001208273
+
+Optima
+               hard       soft
+estimate -0.2959576 -0.2959576
+se        0.0340657  0.0340657
+
+Arrived at a reliable solution 
+
+[[79]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9818 -245.9636 -245.6519 -238.7803   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.777553e-05 0.0001293253
+
+Optima
+                hard        soft
+estimate -0.29125008 -0.29125008
+se        0.03392355  0.03392355
+
+Arrived at a reliable solution 
+
+[[80]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.593 -245.186 -244.8743 -238.0027   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.331785e-05 0.0001272467
+
+Optima
+               hard       soft
+estimate -0.2918319 -0.2918319
+se        0.0339948  0.0339948
+
+Arrived at a reliable solution 
+
+[[81]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6354 -245.2709 -244.9592 -238.0875   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.142443e-05 0.0001275955
+
+Optima
+                hard        soft
+estimate -0.29203565 -0.29203565
+se        0.03414328  0.03414328
+
+Arrived at a reliable solution 
+
+[[82]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6467 -245.2935 -244.9818 -238.1101   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.97512e-05 0.0001279347
+
+Optima
+                hard        soft
+estimate -0.29134196 -0.29134196
+se        0.03402145  0.03402145
+
+Arrived at a reliable solution 
+
+[[83]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.7278 -245.4556 -245.144 -238.2723   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001677613 0.0001160083
+
+Optima
+                hard        soft
+estimate -0.29617335 -0.29617335
+se        0.03420797  0.03420797
+
+Arrived at a reliable solution 
+
+[[84]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.469 -244.9379 -244.6262 -237.7546   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001032628 0.0001244565
+
+Optima
+                hard        soft
+estimate -0.29457365 -0.29457365
+se        0.03353378  0.03353378
+
+Arrived at a reliable solution 
+
+[[85]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5755 -245.151 -244.8393 -237.9676   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.736335e-05 0.0001270123
+
+Optima
+                hard        soft
+estimate -0.29202163 -0.29202163
+se        0.03406038  0.03406038
+
+Arrived at a reliable solution 
+
+[[86]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5849 -245.1698 -244.8581 -237.9865   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.300927e-05 0.0001267483
+
+Optima
+                hard        soft
+estimate -0.29292428 -0.29292428
+se        0.03432108  0.03432108
+
+Arrived at a reliable solution 
+
+[[87]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.521 -245.0419 -244.7303 -237.8586   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.591714e-05 0.0001258078
+
+Optima
+                hard        soft
+estimate -0.29276637 -0.29276637
+se        0.03405386  0.03405386
+
+Arrived at a reliable solution 
+
+[[88]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7771 -245.5542 -245.2425 -238.3708   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001693444 0.0001156777
+
+Optima
+                hard        soft
+estimate -0.29610274 -0.29610274
+se        0.03424048  0.03424048
+
+Arrived at a reliable solution 
+
+[[89]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7258 -245.4515 -245.1399 -238.2682   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001710564 0.0001161038
+
+Optima
+                hard        soft
+estimate -0.29610184 -0.29610184
+se        0.03389734  0.03389734
+
+Arrived at a reliable solution 
+
+[[90]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6103 -245.2205 -244.9089 -238.0372   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001619988 0.0001168909
+
+Optima
+               hard       soft
+estimate -0.2962386 -0.2962386
+se        0.0344902  0.0344902
+
+Arrived at a reliable solution 
+
+[[91]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6737 -245.3474 -245.0357 -238.1641   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001701232 0.0001163734
+
+Optima
+               hard       soft
+estimate -0.2962572 -0.2962572
+se        0.0336173  0.0336173
+
+Arrived at a reliable solution 
+
+[[92]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4484 -244.8968 -244.5852 -237.7135   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000129981 0.0001210965
+
+Optima
+                hard        soft
+estimate -0.29579921 -0.29579921
+se        0.03393211  0.03393211
+
+Arrived at a reliable solution 
+
+[[93]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5154 -245.0309 -244.7192 -237.8475   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.167218e-05 0.0001262573
+
+Optima
+                hard        soft
+estimate -0.29364180 -0.29364180
+se        0.03188097  0.03188097
+
+Arrived at a reliable solution 
+
+[[94]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6969 -245.3938 -245.0821 -238.2104   BMS   81
+
+Rates
+               hard         soft
+alpha            NA           NA
+sigma.sq 6.3463e-05 0.0001279364
+
+Optima
+                hard        soft
+estimate -0.29239820 -0.29239820
+se        0.03431062  0.03431062
+
+Arrived at a reliable solution 
+
+[[95]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.4665 -244.933 -244.6213 -237.7497   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001019463 0.0001243211
+
+Optima
+                hard        soft
+estimate -0.29424023 -0.29424023
+se        0.03369306  0.03369306
+
+Arrived at a reliable solution 
+
+[[96]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4679 -244.9359 -244.6242 -237.7525   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001408064 0.0001199176
+
+Optima
+                hard        soft
+estimate -0.29611280 -0.29611280
+se        0.03395328  0.03395328
+
+Arrived at a reliable solution 
+
+[[97]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4453 -244.8905 -244.5788 -237.7072   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001261198 0.0001215305
+
+Optima
+                hard        soft
+estimate -0.29564321 -0.29564321
+se        0.03394812  0.03394812
+
+Arrived at a reliable solution 
+
+[[98]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0002 -246.0004 -245.6888 -238.8171   BMS   81
+
+Rates
+                 hard       soft
+alpha              NA         NA
+sigma.sq 5.601663e-05 0.00013086
+
+Optima
+                hard        soft
+estimate -0.28915748 -0.28915748
+se        0.03140714  0.03140714
+
+Arrived at a reliable solution 
+
+[[99]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5828 -245.1656 -244.8539 -237.9823   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.366319e-05 0.0001267665
+
+Optima
+                hard        soft
+estimate -0.29222622 -0.29222622
+se        0.03403859  0.03403859
+
+Arrived at a reliable solution 
+
+[[100]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6393 -245.2785 -244.9668 -238.0952   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001629121 0.000117113
+
+Optima
+                hard        soft
+estimate -0.29618625 -0.29618625
+se        0.03393367  0.03393367
+
+Arrived at a reliable solution 
+
+[[101]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9894 -245.9789 -245.6672 -238.7955   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0002083681 0.000114075
+
+Optima
+                hard        soft
+estimate -0.29690822 -0.29690822
+se        0.03310825  0.03310825
+
+Arrived at a reliable solution 
+
+[[102]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6413 -245.2826 -244.9709 -238.0993   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.95897e-05 0.0001280471
+
+Optima
+                hard        soft
+estimate -0.29106228 -0.29106228
+se        0.03338547  0.03338547
+
+Arrived at a reliable solution 
+
+[[103]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.465 -244.9301 -244.6184 -237.7467   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001370476 0.0001202273
+
+Optima
+                hard        soft
+estimate -0.29587661 -0.29587661
+se        0.03473039  0.03473039
+
+Arrived at a reliable solution 
+
+[[104]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4944 -244.9888 -244.6771 -237.8054   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.039427e-05 0.0001250327
+
+Optima
+                hard        soft
+estimate -0.29357626 -0.29357626
+se        0.03414241  0.03414241
+
+Arrived at a reliable solution 
+
+[[105]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.446 -244.8919 -244.5802 -237.7086   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001289438 0.0001214205
+
+Optima
+                hard        soft
+estimate -0.29582722 -0.29582722
+se        0.03381551  0.03381551
+
+Arrived at a reliable solution 
+
+[[106]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6441 -245.2881 -244.9764 -238.1048   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.233032e-05 0.0001284062
+
+Optima
+                hard        soft
+estimate -0.29183863 -0.29183863
+se        0.03273091  0.03273091
+
+Arrived at a reliable solution 
+
+[[107]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9822 -245.9644 -245.6528 -238.7811   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.906748e-05 0.0001313559
+
+Optima
+                hard        soft
+estimate -0.28896146 -0.28896146
+se        0.03204747  0.03204747
+
+Arrived at a reliable solution 
+
+[[108]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.6092 -245.2184 -244.9067 -238.035   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 7.81812e-05 0.0001278879
+
+Optima
+                hard        soft
+estimate -0.29210688 -0.29210688
+se        0.03368449  0.03368449
+
+Arrived at a reliable solution 
+
+[[109]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8763 -245.7525 -245.4408 -238.5692   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.675046e-05 0.0001304631
+
+Optima
+                hard        soft
+estimate -0.28907668 -0.28907668
+se        0.03091833  0.03091833
+
+Arrived at a reliable solution 
+
+[[110]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.453 -244.9059 -244.5942 -237.7226   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001094791 0.0001235481
+
+Optima
+                hard        soft
+estimate -0.29480352 -0.29480352
+se        0.03348521  0.03348521
+
+Arrived at a reliable solution 
+
+[[111]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.655 -245.3099 -244.9983 -238.1266   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.378694e-05 0.0001295407
+
+Optima
+               hard       soft
+estimate -0.2921860 -0.2921860
+se        0.0304005  0.0304005
+
+Arrived at a reliable solution 
+
+[[112]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6524 -245.3049 -244.9932 -238.1216   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.87603e-05 0.0001279415
+
+Optima
+                hard        soft
+estimate -0.29176353 -0.29176353
+se        0.03409851  0.03409851
+
+Arrived at a reliable solution 
+
+[[113]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6575 -245.3151 -245.0034 -238.1317   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.059289e-05 0.0001292971
+
+Optima
+                hard        soft
+estimate -0.29086467 -0.29086467
+se        0.03008304  0.03008304
+
+Arrived at a reliable solution 
+
+[[114]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5604 -245.1208 -244.8091 -237.9374   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 8.295714e-05 0.000127712
+
+Optima
+                hard        soft
+estimate -0.29257636 -0.29257636
+se        0.03206815  0.03206815
+
+Arrived at a reliable solution 
+
+[[115]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.7115 -245.423 -245.1113 -238.2397   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.192905e-05 0.0001282885
+
+Optima
+                hard        soft
+estimate -0.29166425 -0.29166425
+se        0.03407594  0.03407594
+
+Arrived at a reliable solution 
+
+[[116]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5053 -245.0106 -244.6989 -237.8272   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001463331 0.0001189809
+
+Optima
+               hard       soft
+estimate -0.2961006 -0.2961006
+se        0.0351039  0.0351039
+
+Arrived at a reliable solution 
+
+[[117]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.578 -245.156 -244.8443 -237.9727   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001596601 0.0001176574
+
+Optima
+                hard        soft
+estimate -0.29614817 -0.29614817
+se        0.03413329  0.03413329
+
+Arrived at a reliable solution 
+
+[[118]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1454 -246.2909 -245.9792 -239.1075   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.721783e-05 0.0001279824
+
+Optima
+                hard        soft
+estimate -0.29264425 -0.29264425
+se        0.03410407  0.03410407
+
+Arrived at a reliable solution 
+
+[[119]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6808 -245.3615 -245.0499 -238.1782   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.476309e-05 0.0001280245
+
+Optima
+                hard        soft
+estimate -0.29171234 -0.29171234
+se        0.03416389  0.03416389
+
+Arrived at a reliable solution 
+
+[[120]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.7938 -245.5876 -245.276 -238.4043   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.277206e-05 0.0001295222
+
+Optima
+                hard        soft
+estimate -0.28996219 -0.28996219
+se        0.03278708  0.03278708
+
+Arrived at a reliable solution 
+
+[[121]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5298 -245.0597 -244.748 -237.8763   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.416561e-05 0.0001260426
+
+Optima
+                hard        soft
+estimate -0.29261124 -0.29261124
+se        0.03405307  0.03405307
+
+Arrived at a reliable solution 
+
+[[122]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.489 -244.978 -244.6663 -237.7946   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.319741e-05 0.0001247165
+
+Optima
+                hard        soft
+estimate -0.29363743 -0.29363743
+se        0.03410242  0.03410242
+
+Arrived at a reliable solution 
+
+[[123]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0499 -246.0998 -245.7882 -238.9165   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.797975e-05 0.0001286579
+
+Optima
+                hard        soft
+estimate -0.29261226 -0.29261226
+se        0.03434603  0.03434603
+
+Arrived at a reliable solution 
+
+[[124]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5006 -245.0012 -244.6895 -237.8178   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.053986e-05 0.0001250775
+
+Optima
+                hard        soft
+estimate -0.29337192 -0.29337192
+se        0.03411239  0.03411239
+
+Arrived at a reliable solution 
+
+[[125]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5136 -245.0272 -244.7155 -237.8438   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.723211e-05 0.0001255338
+
+Optima
+                hard        soft
+estimate -0.29329881 -0.29329881
+se        0.03416759  0.03416759
+
+Arrived at a reliable solution 
+
+[[126]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8976 -245.7951 -245.4835 -238.6118   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.957718e-05 0.0001289005
+
+Optima
+                hard        soft
+estimate -0.29203042 -0.29203042
+se        0.03441546  0.03441546
+
+Arrived at a reliable solution 
+
+[[127]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.6302 -245.2603 -244.9486 -238.077   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.988241e-05 0.0001277547
+
+Optima
+                hard        soft
+estimate -0.29165844 -0.29165844
+se        0.03409669  0.03409669
+
+Arrived at a reliable solution 
+
+[[128]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.764 -245.528 -245.2163 -238.3446   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001688746 0.0001158238
+
+Optima
+                hard        soft
+estimate -0.29596150 -0.29596150
+se        0.03422061  0.03422061
+
+Arrived at a reliable solution 
+
+[[129]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6474 -245.2947 -244.983 -238.1114   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.328329e-05 0.0001285735
+
+Optima
+                hard        soft
+estimate -0.29176735 -0.29176735
+se        0.03362445  0.03362445
+
+Arrived at a reliable solution 
+
+[[130]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7136 -245.4271 -245.1154 -238.2438   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.226854e-05 0.0001284385
+
+Optima
+                hard        soft
+estimate -0.29147857 -0.29147857
+se        0.03411594  0.03411594
+
+Arrived at a reliable solution 
+
+[[131]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.903 -245.8059 -245.4942 -238.6226   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 5.30372e-05 0.0001280013
+
+Optima
+                hard        soft
+estimate -0.29254819 -0.29254819
+se        0.03424017  0.03424017
+
+Arrived at a reliable solution 
+
+[[132]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6901 -245.3802 -245.0685 -238.1968   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001825862 0.0001160147
+
+Optima
+                hard        soft
+estimate -0.29728962 -0.29728962
+se        0.03348903  0.03348903
+
+Arrived at a reliable solution 
+
+[[133]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 126.1189 -246.2377 -245.926 -239.0544   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 4.52175e-05 0.0001275085
+
+Optima
+                hard        soft
+estimate -0.29340517 -0.29340517
+se        0.03413535  0.03413535
+
+Arrived at a reliable solution 
+
+[[134]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4892 -244.9785 -244.6668 -237.7951   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001439817 0.000119251
+
+Optima
+                hard        soft
+estimate -0.29621254 -0.29621254
+se        0.03407347  0.03407347
+
+Arrived at a reliable solution 
+
+[[135]]
+
+Fit
+     lnL     AIC      AICc       BIC model ntax
+ 125.615 -245.23 -244.9184 -238.0467   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.998908e-05 0.0001272605
+
+Optima
+                hard        soft
+estimate -0.29190415 -0.29190415
+se        0.03404159  0.03404159
+
+Arrived at a reliable solution 
+
+[[136]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5197 -245.0394 -244.7277 -237.8561   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.660116e-05 0.0001255226
+
+Optima
+                hard        soft
+estimate -0.29300047 -0.29300047
+se        0.03406543  0.03406543
+
+Arrived at a reliable solution 
+
+[[137]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4444 -244.8889 -244.5772 -237.7055   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001247106 0.0001217539
+
+Optima
+                hard        soft
+estimate -0.29566709 -0.29566709
+se        0.03382893  0.03382893
+
+Arrived at a reliable solution 
+
+[[138]]
+
+Fit
+     lnL     AIC      AICc       BIC model ntax
+ 125.545 -245.09 -244.7783 -237.9066   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001539618 0.0001181848
+
+Optima
+               hard       soft
+estimate -0.2960301 -0.2960301
+se        0.0345907  0.0345907
+
+Arrived at a reliable solution 
+
+[[139]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5033 -245.0067 -244.695 -237.8233   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001488389 0.0001189398
+
+Optima
+                hard        soft
+estimate -0.29615247 -0.29615247
+se        0.03441548  0.03441548
+
+Arrived at a reliable solution 
+
+[[140]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8117 -245.6234 -245.3117 -238.4401   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 6.012237e-05 0.000129355
+
+Optima
+               hard       soft
+estimate -0.2913428 -0.2913428
+se        0.0340469  0.0340469
+
+Arrived at a reliable solution 
+
+[[141]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 126.2377 -246.4753 -246.1636 -239.292   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.375899e-05 0.0001277434
+
+Optima
+                hard        soft
+estimate -0.29336027 -0.29336027
+se        0.03423661  0.03423661
+
+Arrived at a reliable solution 
+
+[[142]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4779 -244.9559 -244.6442 -237.7725   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001421165 0.0001195579
+
+Optima
+                hard        soft
+estimate -0.29611991 -0.29611991
+se        0.03429384  0.03429384
+
+Arrived at a reliable solution 
+
+[[143]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6989 -245.3978 -245.0861 -238.2145   BMS   81
+
+Rates
+                 hard       soft
+alpha              NA         NA
+sigma.sq 6.918299e-05 0.00012919
+
+Optima
+                hard        soft
+estimate -0.29041439 -0.29041439
+se        0.03224548  0.03224548
+
+Arrived at a reliable solution 
+
+[[144]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.6075 -245.215 -244.9033 -238.0316   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.487844e-05 0.0001257832
+
+Optima
+                hard        soft
+estimate -0.29325726 -0.29325726
+se        0.03405846  0.03405846
+
+Arrived at a reliable solution 
+
+[[145]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4806 -244.9612 -244.6495 -237.7778   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 9.637955e-05 0.000124568
+
+Optima
+                hard        soft
+estimate -0.29383022 -0.29383022
+se        0.03410127  0.03410127
+
+Arrived at a reliable solution 
+
+[[146]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.545 -245.0899 -244.7783 -237.9066   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.185016e-05 0.0001270185
+
+Optima
+                hard        soft
+estimate -0.29233034 -0.29233034
+se        0.03291957  0.03291957
+
+Arrived at a reliable solution 
+
+[[147]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6894 -245.3789 -245.0672 -238.1955   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.284131e-05 0.0001280154
+
+Optima
+                hard        soft
+estimate -0.29207796 -0.29207796
+se        0.03420989  0.03420989
+
+Arrived at a reliable solution 
+
+[[148]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5612 -245.1223 -244.8106 -237.939   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.649905e-05 0.0001264984
+
+Optima
+                hard        soft
+estimate -0.29291134 -0.29291134
+se        0.03427829  0.03427829
+
+Arrived at a reliable solution 
+
+[[149]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.567 -245.134 -244.8223 -237.9506   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001553504 0.0001177511
+
+Optima
+               hard       soft
+estimate -0.2961755 -0.2961755
+se        0.0343755  0.0343755
+
+Arrived at a reliable solution 
+
+[[150]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6032 -245.2065 -244.8948 -238.0231   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.343698e-05 0.0001274161
+
+Optima
+                hard        soft
+estimate -0.29180313 -0.29180313
+se        0.03408198  0.03408198
+
+Arrived at a reliable solution 
+
+[[151]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1746 -246.3492 -246.0375 -239.1658   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 4.89752e-05 0.0001285764
+
+Optima
+                hard        soft
+estimate -0.29241680 -0.29241680
+se        0.03427961  0.03427961
+
+Arrived at a reliable solution 
+
+[[152]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4938 -244.9875 -244.6759 -237.8042   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.085887e-05 0.0001249408
+
+Optima
+                hard        soft
+estimate -0.29355161 -0.29355161
+se        0.03413152  0.03413152
+
+Arrived at a reliable solution 
+
+[[153]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.2079 -246.4158 -246.1042 -239.2325   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.751903e-05 0.0001280722
+
+Optima
+                hard        soft
+estimate -0.29328228 -0.29328228
+se        0.03428162  0.03428162
+
+Arrived at a reliable solution 
+
+[[154]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9274 -245.8548 -245.5431 -238.6714   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0002050006 0.0001142655
+
+Optima
+                hard        soft
+estimate -0.29710794 -0.29710794
+se        0.03315224  0.03315224
+
+Arrived at a reliable solution 
+
+[[155]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.4825 -244.965 -244.6534 -237.7817   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001516206 0.0001193631
+
+Optima
+                hard        soft
+estimate -0.29687851 -0.29687851
+se        0.03368424  0.03368424
+
+Arrived at a reliable solution 
+
+[[156]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6179 -245.2358 -244.9241 -238.0524   BMS   81
+
+Rates
+               hard         soft
+alpha            NA           NA
+sigma.sq 0.00016451 0.0001169289
+
+Optima
+               hard       soft
+estimate -0.2965465 -0.2965465
+se        0.0343952  0.0343952
+
+Arrived at a reliable solution 
+
+[[157]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5567 -245.1135 -244.8018 -237.9301   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001512554 0.0001180364
+
+Optima
+                hard        soft
+estimate -0.29598778 -0.29598778
+se        0.03530034  0.03530034
+
+Arrived at a reliable solution 
+
+[[158]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6326 -245.2653 -244.9536 -238.0819   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.037842e-05 0.0001275784
+
+Optima
+                hard        soft
+estimate -0.29151850 -0.29151850
+se        0.03401524  0.03401524
+
+Arrived at a reliable solution 
+
+[[159]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5676 -245.1352 -244.8235 -237.9518   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.959214e-05 0.0001273511
+
+Optima
+                hard        soft
+estimate -0.29239510 -0.29239510
+se        0.03322842  0.03322842
+
+Arrived at a reliable solution 
+
+[[160]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6752 -245.3505 -245.0388 -238.1671   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.553338e-05 0.0001283465
+
+Optima
+                hard        soft
+estimate -0.29139880 -0.29139880
+se        0.03405035  0.03405035
+
+Arrived at a reliable solution 
+
+[[161]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8051 -245.6103 -245.2986 -238.4269   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001972804 0.000115192
+
+Optima
+                hard        soft
+estimate -0.29738331 -0.29738331
+se        0.03335797  0.03335797
+
+Arrived at a reliable solution 
+
+[[162]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5677 -245.1353 -244.8236 -237.952   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.502904e-05 0.0001263831
+
+Optima
+               hard       soft
+estimate -0.2927636 -0.2927636
+se        0.0342147  0.0342147
+
+Arrived at a reliable solution 
+
+[[163]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6773 -245.3545 -245.0429 -238.1712   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.232786e-05 0.0001289411
+
+Optima
+                hard        soft
+estimate -0.29165232 -0.29165232
+se        0.03349841  0.03349841
+
+Arrived at a reliable solution 
+
+[[164]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5427 -245.0853 -244.7736 -237.902   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.313097e-05 0.0001261893
+
+Optima
+                hard        soft
+estimate -0.29271048 -0.29271048
+se        0.03411833  0.03411833
+
+Arrived at a reliable solution 
+
+[[165]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.7237 -245.4474 -245.1357 -238.264   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.66481e-05 0.0001289876
+
+Optima
+                hard        soft
+estimate -0.29136467 -0.29136467
+se        0.03294297  0.03294297
+
+Arrived at a reliable solution 
+
+[[166]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4738 -244.9476 -244.6359 -237.7643   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001003542 0.0001244362
+
+Optima
+                hard        soft
+estimate -0.29414073 -0.29414073
+se        0.03406623  0.03406623
+
+Arrived at a reliable solution 
+
+[[167]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1661 -246.3322 -246.0205 -239.1488   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0002039974 0.0001133103
+
+Optima
+                hard        soft
+estimate -0.29599452 -0.29599452
+se        0.03306428  0.03306428
+
+Arrived at a reliable solution 
+
+[[168]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.582 -245.164 -244.8523 -237.9806   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.657514e-05 0.0001262772
+
+Optima
+                hard        soft
+estimate -0.29308751 -0.29308751
+se        0.03426103  0.03426103
+
+Arrived at a reliable solution 
+
+[[169]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7596 -245.5192 -245.2075 -238.3359   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.519796e-05 0.0001304108
+
+Optima
+                hard        soft
+estimate -0.29025333 -0.29025333
+se        0.03074866  0.03074866
+
+Arrived at a reliable solution 
+
+[[170]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4862 -244.9724 -244.6607 -237.789   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 9.253274e-05 0.000124713
+
+Optima
+                hard        soft
+estimate -0.29373972 -0.29373972
+se        0.03410338  0.03410338
+
+Arrived at a reliable solution 
+
+[[171]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5823 -245.1646 -244.8529 -237.9812   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.429179e-05 0.0001269104
+
+Optima
+                hard        soft
+estimate -0.29252919 -0.29252919
+se        0.03427325  0.03427325
+
+Arrived at a reliable solution 
+
+[[172]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4878 -244.9755 -244.6638 -237.7922   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.961468e-05 0.0001249272
+
+Optima
+                hard        soft
+estimate -0.29363779 -0.29363779
+se        0.03415598  0.03415598
+
+Arrived at a reliable solution 
+
+[[173]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7539 -245.5078 -245.1961 -238.3245   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.19481e-05 0.0001286125
+
+Optima
+                hard        soft
+estimate -0.29145062 -0.29145062
+se        0.03363443  0.03363443
+
+Arrived at a reliable solution 
+
+[[174]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5372 -245.0743 -244.7626 -237.891   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.598784e-05 0.0001268142
+
+Optima
+                hard        soft
+estimate -0.29339930 -0.29339930
+se        0.03366389  0.03366389
+
+Arrived at a reliable solution 
+
+[[175]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.2343 -246.4686 -246.1569 -239.2853   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.281139e-05 0.0001293786
+
+Optima
+                hard        soft
+estimate -0.29146618 -0.29146618
+se        0.03392181  0.03392181
+
+Arrived at a reliable solution 
+
+[[176]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7969 -245.5939 -245.2822 -238.4105   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.473769e-05 0.0001307898
+
+Optima
+                hard        soft
+estimate -0.29030825 -0.29030825
+se        0.03146773  0.03146773
+
+Arrived at a reliable solution 
+
+[[177]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6644 -245.3287 -245.017 -238.1454   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.675039e-05 0.0001279495
+
+Optima
+                hard        soft
+estimate -0.29192837 -0.29192837
+se        0.03415722  0.03415722
+
+Arrived at a reliable solution 
+
+[[178]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4472 -244.8944 -244.5827 -237.7111   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001141812 0.0001228876
+
+Optima
+                hard        soft
+estimate -0.29512735 -0.29512735
+se        0.03371917  0.03371917
+
+Arrived at a reliable solution 
+
+[[179]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4587 -244.9175 -244.6058 -237.7341   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001359363 0.0001204035
+
+Optima
+                hard        soft
+estimate -0.29601107 -0.29601107
+se        0.03406011  0.03406011
+
+Arrived at a reliable solution 
+
+[[180]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.4755 -244.951 -244.6393 -237.7677   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.832312e-05 0.0001249118
+
+Optima
+                hard        soft
+estimate -0.29402468 -0.29402468
+se        0.03308115  0.03308115
+
+Arrived at a reliable solution 
+
+[[181]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6348 -245.2696 -244.9579 -238.0863   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.912043e-05 0.0001276107
+
+Optima
+                hard        soft
+estimate -0.29150742 -0.29150742
+se        0.03399187  0.03399187
+
+Arrived at a reliable solution 
+
+[[182]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5294 -245.0589 -244.7472 -237.8755   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.287509e-05 0.0001258594
+
+Optima
+                hard        soft
+estimate -0.29274103 -0.29274103
+se        0.03401008  0.03401008
+
+Arrived at a reliable solution 
+
+[[183]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 126.2728 -246.5457 -246.234 -239.3623   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.363178e-05 0.0001285494
+
+Optima
+                hard        soft
+estimate -0.29207157 -0.29207157
+se        0.03379421  0.03379421
+
+Arrived at a reliable solution 
+
+[[184]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6067 -245.2135 -244.9018 -238.0301   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001596263 0.0001173064
+
+Optima
+                hard        soft
+estimate -0.29605079 -0.29605079
+se        0.03454627  0.03454627
+
+Arrived at a reliable solution 
+
+[[185]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.444 -244.888 -244.5764 -237.7047   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000122004 0.0001220334
+
+Optima
+                hard        soft
+estimate -0.29551095 -0.29551095
+se        0.03384844  0.03384844
+
+Arrived at a reliable solution 
+
+[[186]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5863 -245.1726 -244.8609 -237.9892   BMS   81
+
+Rates
+                 hard       soft
+alpha              NA         NA
+sigma.sq 7.348375e-05 0.00012698
+
+Optima
+                hard        soft
+estimate -0.29199476 -0.29199476
+se        0.03400599  0.03400599
+
+Arrived at a reliable solution 
+
+[[187]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7096 -245.4192 -245.1075 -238.2359   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.475014e-05 0.0001273279
+
+Optima
+                hard        soft
+estimate -0.29259271 -0.29259271
+se        0.03409276  0.03409276
+
+Arrived at a reliable solution 
+
+[[188]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5153 -245.0306 -244.7189 -237.8473   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000161008 0.0001185564
+
+Optima
+                hard        soft
+estimate -0.29699885 -0.29699885
+se        0.03361483  0.03361483
+
+Arrived at a reliable solution 
+
+[[189]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7039 -245.4079 -245.0962 -238.2245   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001926817 0.0001159608
+
+Optima
+                hard        soft
+estimate -0.29722613 -0.29722613
+se        0.03340052  0.03340052
+
+Arrived at a reliable solution 
+
+[[190]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.638 -245.2759 -244.9642 -238.0926   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 6.747872e-05 0.000127388
+
+Optima
+                hard        soft
+estimate -0.29184420 -0.29184420
+se        0.03398537  0.03398537
+
+Arrived at a reliable solution 
+
+[[191]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.486 -244.9719 -244.6602 -237.7886   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 9.384917e-05 0.000124716
+
+Optima
+                hard        soft
+estimate -0.29366610 -0.29366610
+se        0.03410233  0.03410233
+
+Arrived at a reliable solution 
+
+[[192]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9273 -245.8546 -245.5429 -238.6712   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001945357 0.0001142682
+
+Optima
+               hard       soft
+estimate -0.2967057 -0.2967057
+se        0.0332139  0.0332139
+
+Arrived at a reliable solution 
+
+[[193]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4516 -244.9033 -244.5916 -237.7199   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001122463 0.0001233915
+
+Optima
+                hard        soft
+estimate -0.29501023 -0.29501023
+se        0.03354928  0.03354928
+
+Arrived at a reliable solution 
+
+[[194]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4537 -244.9074 -244.5957 -237.724   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001359435 0.0001206793
+
+Optima
+                hard        soft
+estimate -0.29621244 -0.29621244
+se        0.03373566  0.03373566
+
+Arrived at a reliable solution 
+
+[[195]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6056 -245.2112 -244.8995 -238.0279   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.256103e-05 0.0001274483
+
+Optima
+                hard        soft
+estimate -0.29189259 -0.29189259
+se        0.03410449  0.03410449
+
+Arrived at a reliable solution 
+
+[[196]]
+
+Fit
+      lnL       AIC    AICc       BIC model ntax
+ 125.6458 -245.2917 -244.98 -238.1083   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.884909e-05 0.0001275959
+
+Optima
+                hard        soft
+estimate -0.29175364 -0.29175364
+se        0.03412706  0.03412706
+
+Arrived at a reliable solution 
+
+[[197]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6073 -245.2147 -244.903 -238.0313   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.206485e-05 0.0001271824
+
+Optima
+                hard        soft
+estimate -0.29227746 -0.29227746
+se        0.03425291  0.03425291
+
+Arrived at a reliable solution 
+
+[[198]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7236 -245.4473 -245.1356 -238.2639   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.356529e-05 0.0001298728
+
+Optima
+                hard        soft
+estimate -0.28953447 -0.28953447
+se        0.03014368  0.03014368
+
+Arrived at a reliable solution 
+
+[[199]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5309 -245.0618 -244.7501 -237.8784   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.365546e-05 0.0001259405
+
+Optima
+                hard        soft
+estimate -0.29285602 -0.29285602
+se        0.03410666  0.03410666
+
+Arrived at a reliable solution 
+
+[[200]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5993 -245.1986 -244.887 -238.0153   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.094519e-05 0.0001269051
+
+Optima
+               hard       soft
+estimate -0.2927268 -0.2927268
+se        0.0342818  0.0342818
+
+Arrived at a reliable solution 
+
+[[201]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6676 -245.3351 -245.0234 -238.1518   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001910876 0.0001164092
+
+Optima
+                hard        soft
+estimate -0.29722926 -0.29722926
+se        0.03342805  0.03342805
+
+Arrived at a reliable solution 
+
+[[202]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6103 -245.2206 -244.9089 -238.0373   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.250328e-05 0.0001273329
+
+Optima
+                hard        soft
+estimate -0.29200127 -0.29200127
+se        0.03405073  0.03405073
+
+Arrived at a reliable solution 
+
+[[203]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4764 -244.9528 -244.6411 -237.7694   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001410125 0.000119668
+
+Optima
+                hard        soft
+estimate -0.29595331 -0.29595331
+se        0.03420772  0.03420772
+
+Arrived at a reliable solution 
+
+[[204]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7436 -245.4871 -245.1754 -238.3038   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.581251e-05 0.0001303418
+
+Optima
+                hard        soft
+estimate -0.29004498 -0.29004498
+se        0.03132649  0.03132649
+
+Arrived at a reliable solution 
+
+[[205]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4592 -244.9183 -244.6066 -237.735   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001368136 0.0001203036
+
+Optima
+                hard        soft
+estimate -0.29612346 -0.29612346
+se        0.03386575  0.03386575
+
+Arrived at a reliable solution 
+
+[[206]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5064 -245.0127 -244.7011 -237.8294   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.933485e-05 0.0001253747
+
+Optima
+                hard        soft
+estimate -0.29324471 -0.29324471
+se        0.03409841  0.03409841
+
+Arrived at a reliable solution 
+
+[[207]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5925 -245.1849 -244.8732 -238.0016   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 7.465779e-05 0.000127071
+
+Optima
+                hard        soft
+estimate -0.29240976 -0.29240976
+se        0.03425183  0.03425183
+
+Arrived at a reliable solution 
+
+[[208]]
+
+Fit
+   lnL    AIC      AICc       BIC model ntax
+ 125.7 -245.4 -245.0883 -238.2167   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000169696 0.0001163782
+
+Optima
+                hard        soft
+estimate -0.29600337 -0.29600337
+se        0.03403861  0.03403861
+
+Arrived at a reliable solution 
+
+[[209]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5488 -245.0976 -244.7859 -237.9142   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001697035 0.0001178814
+
+Optima
+                hard        soft
+estimate -0.29707277 -0.29707277
+se        0.03355979  0.03355979
+
+Arrived at a reliable solution 
+
+[[210]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5821 -245.1641 -244.8524 -237.9808   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.338141e-05 0.0001268049
+
+Optima
+                hard        soft
+estimate -0.29241429 -0.29241429
+se        0.03421365  0.03421365
+
+Arrived at a reliable solution 
+
+[[211]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 126.2447 -246.4894 -246.1777 -239.306   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.432883e-05 0.0001280784
+
+Optima
+               hard       soft
+estimate -0.2926325 -0.2926325
+se        0.0340617  0.0340617
+
+Arrived at a reliable solution 
+
+[[212]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6188 -245.2377 -244.926 -238.0543   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001619447 0.0001170382
+
+Optima
+                hard        soft
+estimate -0.29650373 -0.29650373
+se        0.03458262  0.03458262
+
+Arrived at a reliable solution 
+
+[[213]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9306 -245.8612 -245.5496 -238.6779   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 4.977674e-05 0.000127691
+
+Optima
+                hard        soft
+estimate -0.29323787 -0.29323787
+se        0.03430923  0.03430923
+
+Arrived at a reliable solution 
+
+[[214]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1624 -246.3249 -246.0132 -239.1415   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 5.095961e-05 0.000128467
+
+Optima
+                hard        soft
+estimate -0.29243339 -0.29243339
+se        0.03428509  0.03428509
+
+Arrived at a reliable solution 
+
+[[215]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5825 -245.165 -244.8533 -237.9816   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.426116e-05 0.0001268493
+
+Optima
+               hard       soft
+estimate -0.2924093 -0.2924093
+se        0.0342100  0.0342100
+
+Arrived at a reliable solution 
+
+[[216]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7964 -245.5928 -245.2812 -238.4095   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.947918e-05 0.0001280248
+
+Optima
+               hard       soft
+estimate -0.2917787 -0.2917787
+se        0.0339123  0.0339123
+
+Arrived at a reliable solution 
+
+[[217]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 126.057 -246.114 -245.8023 -238.9306   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0002098726 0.0001141008
+
+Optima
+                hard        soft
+estimate -0.29620143 -0.29620143
+se        0.03318778  0.03318778
+
+Arrived at a reliable solution 
+
+[[218]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9826 -245.9653 -245.6536 -238.7819   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 5.496723e-05 0.000131739
+
+Optima
+                hard        soft
+estimate -0.28713913 -0.28713913
+se        0.03017071  0.03017071
+
+Arrived at a reliable solution 
+
+[[219]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9315 -245.8631 -245.5514 -238.6798   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.139465e-05 0.0001281779
+
+Optima
+                hard        soft
+estimate -0.29258284 -0.29258284
+se        0.03423643  0.03423643
+
+Arrived at a reliable solution 
+
+[[220]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4903 -244.9806 -244.6689 -237.7973   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.174789e-05 0.0001248812
+
+Optima
+                hard        soft
+estimate -0.29360000 -0.29360000
+se        0.03412271  0.03412271
+
+Arrived at a reliable solution 
+
+[[221]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4517 -244.9035 -244.5918 -237.7201   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001322741 0.0001207653
+
+Optima
+                hard        soft
+estimate -0.29598219 -0.29598219
+se        0.03404901  0.03404901
+
+Arrived at a reliable solution 
+
+[[222]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6048 -245.2096 -244.8979 -238.0263   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.439234e-05 0.0001272809
+
+Optima
+                hard        soft
+estimate -0.29209529 -0.29209529
+se        0.03410118  0.03410118
+
+Arrived at a reliable solution 
+
+[[223]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5573 -245.1147 -244.803 -237.9313   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001551524 0.0001178751
+
+Optima
+               hard       soft
+estimate -0.2964879 -0.2964879
+se        0.0345251  0.0345251
+
+Arrived at a reliable solution 
+
+[[224]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6039 -245.2079 -244.8962 -238.0245   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.246629e-05 0.0001272807
+
+Optima
+                hard        soft
+estimate -0.29213378 -0.29213378
+se        0.03413922  0.03413922
+
+Arrived at a reliable solution 
+
+[[225]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5393 -245.0785 -244.7668 -237.8952   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.193675e-05 0.0001261334
+
+Optima
+                hard        soft
+estimate -0.29267202 -0.29267202
+se        0.03405842  0.03405842
+
+Arrived at a reliable solution 
+
+[[226]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7718 -245.5436 -245.2319 -238.3603   BMS   81
+
+Rates
+              hard         soft
+alpha           NA           NA
+sigma.sq 5.707e-05 0.0001269062
+
+Optima
+                hard        soft
+estimate -0.29359065 -0.29359065
+se        0.03431691  0.03431691
+
+Arrived at a reliable solution 
+
+[[227]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8946 -245.7893 -245.4776 -238.6059   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 5.523348e-05 0.000128278
+
+Optima
+                hard        soft
+estimate -0.29220268 -0.29220268
+se        0.03397842  0.03397842
+
+Arrived at a reliable solution 
+
+[[228]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5816 -245.1631 -244.8514 -237.9798   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.456934e-05 0.0001270521
+
+Optima
+                hard        soft
+estimate -0.29190607 -0.29190607
+se        0.03401584  0.03401584
+
+Arrived at a reliable solution 
+
+[[229]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5868 -245.1736 -244.8619 -237.9902   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001557038 0.0001174527
+
+Optima
+                hard        soft
+estimate -0.29612471 -0.29612471
+se        0.03446202  0.03446202
+
+Arrived at a reliable solution 
+
+[[230]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5721 -245.1441 -244.8325 -237.9608   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000156459 0.0001176279
+
+Optima
+                hard        soft
+estimate -0.29637861 -0.29637861
+se        0.03499295  0.03499295
+
+Arrived at a reliable solution 
+
+[[231]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.3957 -246.7915 -246.4798 -239.6081   BMS   81
+
+Rates
+               hard        soft
+alpha            NA          NA
+sigma.sq 4.2457e-05 0.000128726
+
+Optima
+                hard        soft
+estimate -0.29189397 -0.29189397
+se        0.03384189  0.03384189
+
+Arrived at a reliable solution 
+
+[[232]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6406 -245.2812 -244.9695 -238.0979   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001750304 0.0001166049
+
+Optima
+                hard        soft
+estimate -0.29730219 -0.29730219
+se        0.03341319  0.03341319
+
+Arrived at a reliable solution 
+
+[[233]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4596 -244.9193 -244.6076 -237.7359   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001061057 0.0001239123
+
+Optima
+               hard       soft
+estimate -0.2948587 -0.2948587
+se        0.0337344  0.0337344
+
+Arrived at a reliable solution 
+
+[[234]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4548 -244.9096 -244.5979 -237.7263   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001339486 0.0001206014
+
+Optima
+                hard        soft
+estimate -0.29594289 -0.29594289
+se        0.03397872  0.03397872
+
+Arrived at a reliable solution 
+
+[[235]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5786 -245.1572 -244.8455 -237.9739   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.890854e-05 0.0001274423
+
+Optima
+                hard        soft
+estimate -0.29257191 -0.29257191
+se        0.03366937  0.03366937
+
+Arrived at a reliable solution 
+
+[[236]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.9307 -245.8614 -245.5497 -238.678   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.689013e-05 0.0001314466
+
+Optima
+                hard        soft
+estimate -0.28728891 -0.28728891
+se        0.03036266  0.03036266
+
+Arrived at a reliable solution 
+
+[[237]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4504 -244.9008 -244.5892 -237.7175   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001314175 0.0001209177
+
+Optima
+                hard        soft
+estimate -0.29586221 -0.29586221
+se        0.03389615  0.03389615
+
+Arrived at a reliable solution 
+
+[[238]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4924 -244.9848 -244.6731 -237.8015   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001460396 0.0001191904
+
+Optima
+                hard        soft
+estimate -0.29614093 -0.29614093
+se        0.03425707  0.03425707
+
+Arrived at a reliable solution 
+
+[[239]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4755 -244.9511 -244.6394 -237.7677   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.959426e-05 0.0001243402
+
+Optima
+                hard        soft
+estimate -0.29394707 -0.29394707
+se        0.03406231  0.03406231
+
+Arrived at a reliable solution 
+
+[[240]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1978 -246.3956 -246.0839 -239.2122   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.608241e-05 0.0001286524
+
+Optima
+               hard       soft
+estimate -0.2922606 -0.2922606
+se        0.0340762  0.0340762
+
+Arrived at a reliable solution 
+
+[[241]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6491 -245.2982 -244.9865 -238.1148   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.663542e-05 0.0001276308
+
+Optima
+                hard        soft
+estimate -0.29186893 -0.29186893
+se        0.03411598  0.03411598
+
+Arrived at a reliable solution 
+
+[[242]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4756 -244.9511 -244.6395 -237.7678   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001428913 0.0001195918
+
+Optima
+                hard        soft
+estimate -0.29631268 -0.29631268
+se        0.03410447  0.03410447
+
+Arrived at a reliable solution 
+
+[[243]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6125 -245.2251 -244.9134 -238.0417   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001680245 0.0001170683
+
+Optima
+                hard        soft
+estimate -0.29650719 -0.29650719
+se        0.03388397  0.03388397
+
+Arrived at a reliable solution 
+
+[[244]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.4813 -244.9626 -244.651 -237.7793   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.422122e-05 0.0001246045
+
+Optima
+                hard        soft
+estimate -0.29380994 -0.29380994
+se        0.03409467  0.03409467
+
+Arrived at a reliable solution 
+
+[[245]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7357 -245.4715 -245.1598 -238.2881   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001917434 0.0001156419
+
+Optima
+                hard        soft
+estimate -0.29714623 -0.29714623
+se        0.03334789  0.03334789
+
+Arrived at a reliable solution 
+
+[[246]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9249 -245.8498 -245.5381 -238.6665   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.246983e-05 0.0001301326
+
+Optima
+                hard        soft
+estimate -0.28900860 -0.28900860
+se        0.03105261  0.03105261
+
+Arrived at a reliable solution 
+
+[[247]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0007 -246.0015 -245.6898 -238.8181   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0002011955 0.0001138868
+
+Optima
+                hard        soft
+estimate -0.29686309 -0.29686309
+se        0.03315768  0.03315768
+
+Arrived at a reliable solution 
+
+[[248]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6426 -245.2851 -244.9734 -238.1018   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.149855e-05 0.0001290339
+
+Optima
+               hard       soft
+estimate -0.2907882 -0.2907882
+se        0.0312993  0.0312993
+
+Arrived at a reliable solution 
+
+[[249]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5498 -245.0997 -244.788 -237.9163   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.761901e-05 0.0001278836
+
+Optima
+                hard        soft
+estimate -0.29166366 -0.29166366
+se        0.03212241  0.03212241
+
+Arrived at a reliable solution 
+
+[[250]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8256 -245.6513 -245.3396 -238.4679   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001948611 0.0001149103
+
+Optima
+               hard       soft
+estimate -0.2974935 -0.2974935
+se        0.0333312  0.0333312
+
+Arrived at a reliable solution 
+
+[[251]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4898 -244.9796 -244.6679 -237.7962   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.361831e-05 0.0001248915
+
+Optima
+                hard        soft
+estimate -0.29353988 -0.29353988
+se        0.03408838  0.03408838
+
+Arrived at a reliable solution 
+
+[[252]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.496 -244.9919 -244.6803 -237.8086   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.727062e-05 0.0001256298
+
+Optima
+                hard        soft
+estimate -0.29420299 -0.29420299
+se        0.03242736  0.03242736
+
+Arrived at a reliable solution 
+
+[[253]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5432 -245.0864 -244.7747 -237.903   BMS   81
+
+Rates
+               hard         soft
+alpha            NA           NA
+sigma.sq 8.0062e-05 0.0001262114
+
+Optima
+                hard        soft
+estimate -0.29256238 -0.29256238
+se        0.03407089  0.03407089
+
+Arrived at a reliable solution 
+
+[[254]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5745 -245.149 -244.8373 -237.9656   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.045317e-05 0.0001268088
+
+Optima
+                hard        soft
+estimate -0.29247935 -0.29247935
+se        0.03395736  0.03395736
+
+Arrived at a reliable solution 
+
+[[255]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5076 -245.0151 -244.7034 -237.8318   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001494334 0.0001188536
+
+Optima
+                hard        soft
+estimate -0.29630119 -0.29630119
+se        0.03413148  0.03413148
+
+Arrived at a reliable solution 
+
+[[256]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5685 -245.1369 -244.8252 -237.9536   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 7.50506e-05 0.0001264334
+
+Optima
+                hard        soft
+estimate -0.29268862 -0.29268862
+se        0.03416984  0.03416984
+
+Arrived at a reliable solution 
+
+[[257]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7309 -245.4619 -245.1502 -238.2785   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001705175 0.0001161096
+
+Optima
+                hard        soft
+estimate -0.29608447 -0.29608447
+se        0.03512533  0.03512533
+
+Arrived at a reliable solution 
+
+[[258]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4674 -244.9349 -244.6232 -237.7515   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001404897 0.0001200061
+
+Optima
+                hard        soft
+estimate -0.29607258 -0.29607258
+se        0.03411755  0.03411755
+
+Arrived at a reliable solution 
+
+[[259]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4619 -244.9239 -244.6122 -237.7405   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001058155 0.0001240795
+
+Optima
+                hard        soft
+estimate -0.29478117 -0.29478117
+se        0.03355207  0.03355207
+
+Arrived at a reliable solution 
+
+[[260]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5456 -245.0912 -244.7795 -237.9078   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.404329e-05 0.0001272394
+
+Optima
+                hard        soft
+estimate -0.29263421 -0.29263421
+se        0.03206387  0.03206387
+
+Arrived at a reliable solution 
+
+[[261]]
+
+Fit
+      lnL       AIC    AICc       BIC model ntax
+ 125.4459 -244.8917 -244.58 -237.7084   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001271214 0.0001214088
+
+Optima
+                hard        soft
+estimate -0.29575781 -0.29575781
+se        0.03390607  0.03390607
+
+Arrived at a reliable solution 
+
+[[262]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5331 -245.0661 -244.7544 -237.8828   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.394542e-05 0.0001257972
+
+Optima
+                hard        soft
+estimate -0.29326886 -0.29326886
+se        0.03419121  0.03419121
+
+Arrived at a reliable solution 
+
+[[263]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6125 -245.2251 -244.9134 -238.0417   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.985871e-05 0.0001270444
+
+Optima
+                hard        soft
+estimate -0.29230063 -0.29230063
+se        0.03413683  0.03413683
+
+Arrived at a reliable solution 
+
+[[264]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5762 -245.1525 -244.8408 -237.9691   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.965536e-05 0.0001269225
+
+Optima
+                hard        soft
+estimate -0.29220574 -0.29220574
+se        0.03414536  0.03414536
+
+Arrived at a reliable solution 
+
+[[265]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5274 -245.0548 -244.7431 -237.8715   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 8.314702e-05 0.000125839
+
+Optima
+                hard        soft
+estimate -0.29277208 -0.29277208
+se        0.03401795  0.03401795
+
+Arrived at a reliable solution 
+
+[[266]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4444 -244.8887 -244.5771 -237.7054   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001241606 0.0001217643
+
+Optima
+                hard        soft
+estimate -0.29560062 -0.29560062
+se        0.03388141  0.03388141
+
+Arrived at a reliable solution 
+
+[[267]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.4668 -244.9337 -244.622 -237.7503   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001402415 0.0001199825
+
+Optima
+                hard        soft
+estimate -0.29609875 -0.29609875
+se        0.03406305  0.03406305
+
+Arrived at a reliable solution 
+
+[[268]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6372 -245.2745 -244.9628 -238.0911   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.015995e-05 0.0001276612
+
+Optima
+               hard       soft
+estimate -0.2922067 -0.2922067
+se        0.0343453  0.0343453
+
+Arrived at a reliable solution 
+
+[[269]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.7355 -245.471 -245.1593 -238.2877   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.031853e-05 0.0001284918
+
+Optima
+                hard        soft
+estimate -0.29144090 -0.29144090
+se        0.03398577  0.03398577
+
+Arrived at a reliable solution 
+
+[[270]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5983 -245.1967 -244.885 -238.0133   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.172374e-05 0.0001270115
+
+Optima
+                hard        soft
+estimate -0.29212422 -0.29212422
+se        0.03405063  0.03405063
+
+Arrived at a reliable solution 
+
+[[271]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 126.0649 -246.1297 -245.818 -238.9464   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.323457e-05 0.0001322614
+
+Optima
+                hard        soft
+estimate -0.28710260 -0.28710260
+se        0.02910141  0.02910141
+
+Arrived at a reliable solution 
+
+[[272]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5519 -245.1039 -244.7922 -237.9206   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.339777e-05 0.0001270006
+
+Optima
+                hard        soft
+estimate -0.29248636 -0.29248636
+se        0.03303007  0.03303007
+
+Arrived at a reliable solution 
+
+[[273]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.6277 -245.2554 -244.9437 -238.072   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.182038e-05 0.0001274476
+
+Optima
+                hard        soft
+estimate -0.29221168 -0.29221168
+se        0.03416855  0.03416855
+
+Arrived at a reliable solution 
+
+[[274]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1494 -246.2988 -245.9871 -239.1154   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.152897e-05 0.0001297397
+
+Optima
+                hard        soft
+estimate -0.28981538 -0.28981538
+se        0.03404063  0.03404063
+
+Arrived at a reliable solution 
+
+[[275]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6161 -245.2321 -244.9205 -238.0488   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.532967e-05 0.0001263169
+
+Optima
+                hard        soft
+estimate -0.29326845 -0.29326845
+se        0.03420123  0.03420123
+
+Arrived at a reliable solution 
+
+[[276]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5327 -245.0655 -244.7538 -237.8821   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.220899e-05 0.0001260016
+
+Optima
+                hard        soft
+estimate -0.29280498 -0.29280498
+se        0.03413692  0.03413692
+
+Arrived at a reliable solution 
+
+[[277]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.8898 -245.7797 -245.468 -238.5963   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001950813 0.0001145581
+
+Optima
+                hard        soft
+estimate -0.29720838 -0.29720838
+se        0.03336566  0.03336566
+
+Arrived at a reliable solution 
+
+[[278]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5385 -245.077 -244.7653 -237.8937   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001552317 0.0001182008
+
+Optima
+               hard       soft
+estimate -0.2962524 -0.2962524
+se        0.0344915  0.0344915
+
+Arrived at a reliable solution 
+
+[[279]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6759 -245.3518 -245.0401 -238.1685   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001640508 0.0001166206
+
+Optima
+                hard        soft
+estimate -0.29597330 -0.29597330
+se        0.03462819  0.03462819
+
+Arrived at a reliable solution 
+
+[[280]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8046 -245.6092 -245.2976 -238.4259   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.685823e-05 0.0001278837
+
+Optima
+                hard        soft
+estimate -0.29282679 -0.29282679
+se        0.03438276  0.03438276
+
+Arrived at a reliable solution 
+
+[[281]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4516 -244.9033 -244.5916 -237.7199   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001116617 0.0001233489
+
+Optima
+                hard        soft
+estimate -0.29495117 -0.29495117
+se        0.03369757  0.03369757
+
+Arrived at a reliable solution 
+
+[[282]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 126.2339 -246.4677 -246.156 -239.2844   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.355778e-05 0.0001281846
+
+Optima
+                hard        soft
+estimate -0.29298959 -0.29298959
+se        0.03431625  0.03431625
+
+Arrived at a reliable solution 
+
+[[283]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5379 -245.0757 -244.764 -237.8924   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.214644e-05 0.0001260083
+
+Optima
+                hard        soft
+estimate -0.29251152 -0.29251152
+se        0.03402969  0.03402969
+
+Arrived at a reliable solution 
+
+[[284]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.4523 -244.9046 -244.593 -237.7213   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001112417 0.0001234555
+
+Optima
+                hard        soft
+estimate -0.29492637 -0.29492637
+se        0.03350402  0.03350402
+
+Arrived at a reliable solution 
+
+[[285]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5939 -245.1877 -244.876 -238.0044   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001569753 0.0001176463
+
+Optima
+                hard        soft
+estimate -0.29608046 -0.29608046
+se        0.03572885  0.03572885
+
+Arrived at a reliable solution 
+
+[[286]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4757 -244.9515 -244.6398 -237.7681   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001415231 0.0001196155
+
+Optima
+                hard        soft
+estimate -0.29620489 -0.29620489
+se        0.03388235  0.03388235
+
+Arrived at a reliable solution 
+
+[[287]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4802 -244.9604 -244.6487 -237.777   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.675196e-05 0.0001247958
+
+Optima
+                hard        soft
+estimate -0.29337964 -0.29337964
+se        0.03413839  0.03413839
+
+Arrived at a reliable solution 
+
+[[288]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4662 -244.9324 -244.6207 -237.749   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001014164 0.0001240546
+
+Optima
+                hard        soft
+estimate -0.29418094 -0.29418094
+se        0.03394132  0.03394132
+
+Arrived at a reliable solution 
+
+[[289]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8161 -245.6322 -245.3205 -238.4488   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001732717 0.0001153165
+
+Optima
+                hard        soft
+estimate -0.29625304 -0.29625304
+se        0.03459738  0.03459738
+
+Arrived at a reliable solution 
+
+[[290]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4996 -244.9992 -244.6875 -237.8158   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001470064 0.0001189693
+
+Optima
+                hard        soft
+estimate -0.29622803 -0.29622803
+se        0.03410772  0.03410772
+
+Arrived at a reliable solution 
+
+[[291]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 126.0102 -246.0204 -245.7087 -238.837   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.720657e-05 0.0001283626
+
+Optima
+                hard        soft
+estimate -0.29267757 -0.29267757
+se        0.03426931  0.03426931
+
+Arrived at a reliable solution 
+
+[[292]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6282 -245.2564 -244.9447 -238.0731   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.823054e-05 0.0001273694
+
+Optima
+                hard        soft
+estimate -0.29233307 -0.29233307
+se        0.03426423  0.03426423
+
+Arrived at a reliable solution 
+
+[[293]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5719 -245.1437 -244.832 -237.9604   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001583632 0.0001176582
+
+Optima
+                hard        soft
+estimate -0.29625951 -0.29625951
+se        0.03398581  0.03398581
+
+Arrived at a reliable solution 
+
+[[294]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.2042 -246.4085 -246.0968 -239.2251   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.598331e-05 0.0001293271
+
+Optima
+                hard        soft
+estimate -0.29168876 -0.29168876
+se        0.03445691  0.03445691
+
+Arrived at a reliable solution 
+
+[[295]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.6945 -245.389 -245.0774 -238.2057   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.004663e-05 0.0001289447
+
+Optima
+               hard       soft
+estimate -0.2915806 -0.2915806
+se        0.0330440  0.0330440
+
+Arrived at a reliable solution 
+
+[[296]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 126.2445 -246.489 -246.1773 -239.3056   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 4.328623e-05 0.000128272
+
+Optima
+                hard        soft
+estimate -0.29255038 -0.29255038
+se        0.03391867  0.03391867
+
+Arrived at a reliable solution 
+
+[[297]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8954 -245.7909 -245.4792 -238.6076   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001945827 0.000114491
+
+Optima
+                hard        soft
+estimate -0.29686741 -0.29686741
+se        0.03331303  0.03331303
+
+Arrived at a reliable solution 
+
+[[298]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.528 -245.056 -244.7443 -237.8726   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.267862e-05 0.0001258417
+
+Optima
+                hard        soft
+estimate -0.29292588 -0.29292588
+se        0.03414423  0.03414423
+
+Arrived at a reliable solution 
+
+[[299]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7133 -245.4265 -245.1148 -238.2432   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.772411e-05 0.0001290944
+
+Optima
+                hard        soft
+estimate -0.29160279 -0.29160279
+se        0.03300765  0.03300765
+
+Arrived at a reliable solution 
+
+[[300]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4441 -244.8882 -244.5765 -237.7048   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001230196 0.0001219084
+
+Optima
+                hard        soft
+estimate -0.29554531 -0.29554531
+se        0.03386638  0.03386638
+
+Arrived at a reliable solution 
+
+[[301]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5259 -245.0518 -244.7401 -237.8684   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.556717e-05 0.0001258654
+
+Optima
+                hard        soft
+estimate -0.29308067 -0.29308067
+se        0.03420295  0.03420295
+
+Arrived at a reliable solution 
+
+[[302]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5271 -245.0543 -244.7426 -237.8709   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001518041 0.0001183571
+
+Optima
+                hard        soft
+estimate -0.29630844 -0.29630844
+se        0.03461619  0.03461619
+
+Arrived at a reliable solution 
+
+[[303]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4711 -244.9422 -244.6305 -237.7589   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001022633 0.0001245216
+
+Optima
+                hard        soft
+estimate -0.29439240 -0.29439240
+se        0.03347436  0.03347436
+
+Arrived at a reliable solution 
+
+[[304]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5902 -245.1804 -244.8687 -237.9971   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.487076e-05 0.0001271151
+
+Optima
+                hard        soft
+estimate -0.29227029 -0.29227029
+se        0.03415981  0.03415981
+
+Arrived at a reliable solution 
+
+[[305]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5464 -245.0929 -244.7812 -237.9096   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.132757e-05 0.0001260119
+
+Optima
+                hard        soft
+estimate -0.29282521 -0.29282521
+se        0.03418792  0.03418792
+
+Arrived at a reliable solution 
+
+[[306]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8275 -245.6549 -245.3432 -238.4716   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001769835 0.000115377
+
+Optima
+                hard        soft
+estimate -0.29598402 -0.29598402
+se        0.03382436  0.03382436
+
+Arrived at a reliable solution 
+
+[[307]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9523 -245.9045 -245.5929 -238.7212   BMS   81
+
+Rates
+               hard         soft
+alpha            NA           NA
+sigma.sq 5.1966e-05 0.0001287543
+
+Optima
+                hard        soft
+estimate -0.29269331 -0.29269331
+se        0.03452849  0.03452849
+
+Arrived at a reliable solution 
+
+[[308]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6139 -245.2278 -244.9161 -238.0445   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001587513 0.0001171527
+
+Optima
+                hard        soft
+estimate -0.29603035 -0.29603035
+se        0.03451895  0.03451895
+
+Arrived at a reliable solution 
+
+[[309]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7524 -245.5048 -245.1931 -238.3214   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.102093e-05 0.0001274666
+
+Optima
+                hard        soft
+estimate -0.29212546 -0.29212546
+se        0.03388197  0.03388197
+
+Arrived at a reliable solution 
+
+[[310]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.694 -245.3879 -245.0762 -238.2046   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.856222e-05 0.0001290284
+
+Optima
+               hard       soft
+estimate -0.2907024 -0.2907024
+se        0.0328129  0.0328129
+
+Arrived at a reliable solution 
+
+[[311]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7365 -245.4731 -245.1614 -238.2897   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001676593 0.0001159298
+
+Optima
+                hard        soft
+estimate -0.29610557 -0.29610557
+se        0.03424581  0.03424581
+
+Arrived at a reliable solution 
+
+[[312]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5842 -245.1684 -244.8567 -237.985   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.360245e-05 0.0001267568
+
+Optima
+                hard        soft
+estimate -0.29203872 -0.29203872
+se        0.03395543  0.03395543
+
+Arrived at a reliable solution 
+
+[[313]]
+
+Fit
+      lnL       AIC      AICc     BIC model ntax
+ 126.0566 -246.1133 -245.8016 -238.93   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 4.65706e-05 0.0001285273
+
+Optima
+                hard        soft
+estimate -0.29255839 -0.29255839
+se        0.03425626  0.03425626
+
+Arrived at a reliable solution 
+
+[[314]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6621 -245.3242 -245.0125 -238.1409   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.680882e-05 0.0001279537
+
+Optima
+               hard       soft
+estimate -0.2917089 -0.2917089
+se        0.0340219  0.0340219
+
+Arrived at a reliable solution 
+
+[[315]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5347 -245.0694 -244.7577 -237.886   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.699829e-05 0.0001270006
+
+Optima
+                hard        soft
+estimate -0.29328888 -0.29328888
+se        0.03210577  0.03210577
+
+Arrived at a reliable solution 
+
+[[316]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4506 -244.9013 -244.5896 -237.7179   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001117064 0.0001232742
+
+Optima
+                hard        soft
+estimate -0.29501953 -0.29501953
+se        0.03343492  0.03343492
+
+Arrived at a reliable solution 
+
+[[317]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5837 -245.1675 -244.8558 -237.9841   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.792217e-05 0.0001258456
+
+Optima
+                hard        soft
+estimate -0.29329628 -0.29329628
+se        0.03409422  0.03409422
+
+Arrived at a reliable solution 
+
+[[318]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9598 -245.9195 -245.6078 -238.7362   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0002061342 0.0001140429
+
+Optima
+                hard        soft
+estimate -0.29718357 -0.29718357
+se        0.03309604  0.03309604
+
+Arrived at a reliable solution 
+
+[[319]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 126.1227 -246.2454 -245.9337 -239.062   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0002111386 0.0001127038
+
+Optima
+                hard        soft
+estimate -0.29682083 -0.29682083
+se        0.03315126  0.03315126
+
+Arrived at a reliable solution 
+
+[[320]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6352 -245.2704 -244.9588 -238.0871   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.944327e-05 0.0001276786
+
+Optima
+                hard        soft
+estimate -0.29162925 -0.29162925
+se        0.03407991  0.03407991
+
+Arrived at a reliable solution 
+
+[[321]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.6895 -245.379 -245.0673 -238.1957   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000161607 0.0001158889
+
+Optima
+                hard        soft
+estimate -0.29584071 -0.29584071
+se        0.03374301  0.03374301
+
+Arrived at a reliable solution 
+
+[[322]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5663 -245.1327 -244.821 -237.9493   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001620264 0.0001177353
+
+Optima
+                hard        soft
+estimate -0.29640460 -0.29640460
+se        0.03438395  0.03438395
+
+Arrived at a reliable solution 
+
+[[323]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4727 -244.9454 -244.6337 -237.762   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.487754e-05 0.0001244041
+
+Optima
+                hard        soft
+estimate -0.29386498 -0.29386498
+se        0.03410269  0.03410269
+
+Arrived at a reliable solution 
+
+[[324]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5728 -245.1456 -244.834 -237.9623   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.660641e-05 0.0001268694
+
+Optima
+                hard        soft
+estimate -0.29227115 -0.29227115
+se        0.03411618  0.03411618
+
+Arrived at a reliable solution 
+
+[[325]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6446 -245.2892 -244.9775 -238.1058   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001665927 0.0001169882
+
+Optima
+                hard        soft
+estimate -0.29607386 -0.29607386
+se        0.03445627  0.03445627
+
+Arrived at a reliable solution 
+
+[[326]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5503 -245.1006 -244.7889 -237.9172   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.038639e-05 0.0001263623
+
+Optima
+                hard        soft
+estimate -0.29268109 -0.29268109
+se        0.03419945  0.03419945
+
+Arrived at a reliable solution 
+
+[[327]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6868 -245.3737 -245.062 -238.1903   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.289096e-05 0.0001292398
+
+Optima
+                hard        soft
+estimate -0.29130828 -0.29130828
+se        0.03367295  0.03367295
+
+Arrived at a reliable solution 
+
+[[328]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5647 -245.1293 -244.8176 -237.946   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.748348e-05 0.0001265436
+
+Optima
+                hard        soft
+estimate -0.29253245 -0.29253245
+se        0.03410085  0.03410085
+
+Arrived at a reliable solution 
+
+[[329]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 126.0285 -246.057 -245.7453 -238.8737   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001999604 0.000113856
+
+Optima
+                hard        soft
+estimate -0.29690286 -0.29690286
+se        0.03328357  0.03328357
+
+Arrived at a reliable solution 
+
+[[330]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.576 -245.152 -244.8403 -237.9687   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.564639e-05 0.0001267597
+
+Optima
+                hard        soft
+estimate -0.29227571 -0.29227571
+se        0.03413665  0.03413665
+
+Arrived at a reliable solution 
+
+[[331]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5793 -245.1586 -244.8469 -237.9752   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.642376e-05 0.0001266789
+
+Optima
+                hard        soft
+estimate -0.29259575 -0.29259575
+se        0.03413341  0.03413341
+
+Arrived at a reliable solution 
+
+[[332]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6745 -245.3491 -245.0374 -238.1658   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000184581 0.0001161318
+
+Optima
+                hard        soft
+estimate -0.29780950 -0.29780950
+se        0.03345017  0.03345017
+
+Arrived at a reliable solution 
+
+[[333]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5153 -245.0305 -244.7188 -237.8472   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.969334e-05 0.0001253617
+
+Optima
+                hard        soft
+estimate -0.29326383 -0.29326383
+se        0.03407812  0.03407812
+
+Arrived at a reliable solution 
+
+[[334]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8284 -245.6569 -245.3452 -238.4735   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 6.119898e-05 0.000130163
+
+Optima
+                hard        soft
+estimate -0.28969811 -0.28969811
+se        0.03257548  0.03257548
+
+Arrived at a reliable solution 
+
+[[335]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9413 -245.8826 -245.5709 -238.6993   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.859853e-05 0.0001309898
+
+Optima
+                hard        soft
+estimate -0.28840864 -0.28840864
+se        0.03055466  0.03055466
+
+Arrived at a reliable solution 
+
+[[336]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5446 -245.0892 -244.7775 -237.9058   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 7.850808e-05 0.000126027
+
+Optima
+                hard        soft
+estimate -0.29296411 -0.29296411
+se        0.03420758  0.03420758
+
+Arrived at a reliable solution 
+
+[[337]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5844 -245.1687 -244.857 -237.9854   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.415036e-05 0.0001269666
+
+Optima
+               hard       soft
+estimate -0.2918745 -0.2918745
+se        0.0339843  0.0339843
+
+Arrived at a reliable solution 
+
+[[338]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5279 -245.0559 -244.7442 -237.8725   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000162909 0.0001182465
+
+Optima
+                hard        soft
+estimate -0.29734565 -0.29734565
+se        0.03353679  0.03353679
+
+Arrived at a reliable solution 
+
+[[339]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6618 -245.3236 -245.012 -238.1403   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001681535 0.0001165014
+
+Optima
+                hard        soft
+estimate -0.29652570 -0.29652570
+se        0.03428068  0.03428068
+
+Arrived at a reliable solution 
+
+[[340]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.513 -245.0259 -244.7142 -237.8426   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.936483e-05 0.0001254783
+
+Optima
+                hard        soft
+estimate -0.29318716 -0.29318716
+se        0.03408456  0.03408456
+
+Arrived at a reliable solution 
+
+[[341]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4441 -244.8882 -244.5765 -237.7049   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001209051 0.0001221621
+
+Optima
+               hard       soft
+estimate -0.2954629 -0.2954629
+se        0.0338169  0.0338169
+
+Arrived at a reliable solution 
+
+[[342]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6873 -245.3745 -245.0628 -238.1912   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001682317 0.0001164587
+
+Optima
+                hard        soft
+estimate -0.29616375 -0.29616375
+se        0.03408937  0.03408937
+
+Arrived at a reliable solution 
+
+[[343]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5301 -245.0602 -244.7485 -237.8769   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 8.65478e-05 0.0001258543
+
+Optima
+               hard       soft
+estimate -0.2930544 -0.2930544
+se        0.0341775  0.0341775
+
+Arrived at a reliable solution 
+
+[[344]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.456 -244.9119 -244.6002 -237.7286   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001364469 0.0001205305
+
+Optima
+                hard        soft
+estimate -0.29642938 -0.29642938
+se        0.03376845  0.03376845
+
+Arrived at a reliable solution 
+
+[[345]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6291 -245.2582 -244.9465 -238.0748   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.912702e-05 0.0001275474
+
+Optima
+                hard        soft
+estimate -0.29175544 -0.29175544
+se        0.03408304  0.03408304
+
+Arrived at a reliable solution 
+
+[[346]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.616 -245.232 -244.9203 -238.0487   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.925652e-05 0.0001270854
+
+Optima
+                hard        soft
+estimate -0.29240749 -0.29240749
+se        0.03421931  0.03421931
+
+Arrived at a reliable solution 
+
+[[347]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5512 -245.1025 -244.7908 -237.9191   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.551068e-05 0.0001269825
+
+Optima
+               hard       soft
+estimate -0.2930389 -0.2930389
+se        0.0328206  0.0328206
+
+Arrived at a reliable solution 
+
+[[348]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7535 -245.5069 -245.1953 -238.3236   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.656389e-05 0.0001296498
+
+Optima
+                hard        soft
+estimate -0.29051698 -0.29051698
+se        0.03311751  0.03311751
+
+Arrived at a reliable solution 
+
+[[349]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5875 -245.1749 -244.8632 -237.9916   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.526648e-05 0.0001271048
+
+Optima
+               hard       soft
+estimate -0.2920860 -0.2920860
+se        0.0340581  0.0340581
+
+Arrived at a reliable solution 
+
+[[350]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7469 -245.4939 -245.1822 -238.3105   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001673947 0.0001158218
+
+Optima
+                hard        soft
+estimate -0.29613546 -0.29613546
+se        0.03415651  0.03415651
+
+Arrived at a reliable solution 
+
+[[351]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6788 -245.3575 -245.0458 -238.1742   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001678083 0.0001164692
+
+Optima
+                hard        soft
+estimate -0.29619187 -0.29619187
+se        0.03415031  0.03415031
+
+Arrived at a reliable solution 
+
+[[352]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.553 -245.1061 -244.7944 -237.9227   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001686293 0.0001177396
+
+Optima
+                hard        soft
+estimate -0.29738640 -0.29738640
+se        0.03356432  0.03356432
+
+Arrived at a reliable solution 
+
+[[353]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.7022 -245.4043 -245.0926 -238.221   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.327347e-05 0.0001283766
+
+Optima
+               hard       soft
+estimate -0.2915626 -0.2915626
+se        0.0340551  0.0340551
+
+Arrived at a reliable solution 
+
+[[354]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5947 -245.1894 -244.8778 -238.0061   BMS   81
+
+Rates
+                 hard       soft
+alpha              NA         NA
+sigma.sq 7.339725e-05 0.00012698
+
+Optima
+                hard        soft
+estimate -0.29234323 -0.29234323
+se        0.03410317  0.03410317
+
+Arrived at a reliable solution 
+
+[[355]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4609 -244.9218 -244.6102 -237.7385   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001367868 0.000120291
+
+Optima
+                hard        soft
+estimate -0.29594172 -0.29594172
+se        0.03405856  0.03405856
+
+Arrived at a reliable solution 
+
+[[356]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.4483 -244.8967 -244.585 -237.7133   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001298976 0.000121043
+
+Optima
+                hard        soft
+estimate -0.29580518 -0.29580518
+se        0.03405384  0.03405384
+
+Arrived at a reliable solution 
+
+[[357]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.6595 -245.319 -245.0074 -238.1357   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.854767e-05 0.0001263441
+
+Optima
+                hard        soft
+estimate -0.29302461 -0.29302461
+se        0.03406167  0.03406167
+
+Arrived at a reliable solution 
+
+[[358]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.4463 -244.8927 -244.581 -237.7093   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001278912 0.0001213568
+
+Optima
+                hard        soft
+estimate -0.29572542 -0.29572542
+se        0.03393321  0.03393321
+
+Arrived at a reliable solution 
+
+[[359]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 126.1923 -246.3846 -246.073 -239.2013   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.482732e-05 0.0001273888
+
+Optima
+                hard        soft
+estimate -0.29395257 -0.29395257
+se        0.03417012  0.03417012
+
+Arrived at a reliable solution 
+
+[[360]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9182 -245.8364 -245.5247 -238.6531   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001927871 0.000114368
+
+Optima
+                hard        soft
+estimate -0.29719182 -0.29719182
+se        0.03336144  0.03336144
+
+Arrived at a reliable solution 
+
+[[361]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5054 -245.0109 -244.6992 -237.8275   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000149933 0.0001187766
+
+Optima
+                hard        soft
+estimate -0.29628441 -0.29628441
+se        0.03372248  0.03372248
+
+Arrived at a reliable solution 
+
+[[362]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5982 -245.1964 -244.8847 -238.0131   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.165503e-05 0.0001268396
+
+Optima
+                hard        soft
+estimate -0.29262774 -0.29262774
+se        0.03431548  0.03431548
+
+Arrived at a reliable solution 
+
+[[363]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9062 -245.8124 -245.5008 -238.6291   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.695745e-05 0.0001286389
+
+Optima
+                hard        soft
+estimate -0.29193822 -0.29193822
+se        0.03411579  0.03411579
+
+Arrived at a reliable solution 
+
+[[364]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.452 -244.904 -244.5924 -237.7207   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001323889 0.0001207847
+
+Optima
+                hard        soft
+estimate -0.29583315 -0.29583315
+se        0.03399917  0.03399917
+
+Arrived at a reliable solution 
+
+[[365]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.464 -244.9279 -244.6162 -237.7446   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001377024 0.0001201624
+
+Optima
+                hard        soft
+estimate -0.29593666 -0.29593666
+se        0.03436814  0.03436814
+
+Arrived at a reliable solution 
+
+[[366]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4959 -244.9918 -244.6801 -237.8084   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001470639 0.0001190079
+
+Optima
+               hard       soft
+estimate -0.2964278 -0.2964278
+se        0.0339186  0.0339186
+
+Arrived at a reliable solution 
+
+[[367]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9612 -245.9225 -245.6108 -238.7391   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001944388 0.0001141185
+
+Optima
+                hard        soft
+estimate -0.29707345 -0.29707345
+se        0.03313716  0.03313716
+
+Arrived at a reliable solution 
+
+[[368]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5758 -245.1515 -244.8399 -237.9682   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.065857e-05 0.0001271136
+
+Optima
+                hard        soft
+estimate -0.29284831 -0.29284831
+se        0.03382705  0.03382705
+
+Arrived at a reliable solution 
+
+[[369]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5953 -245.1906 -244.8789 -238.0073   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.286337e-05 0.0001270285
+
+Optima
+                hard        soft
+estimate -0.29205104 -0.29205104
+se        0.03409454  0.03409454
+
+Arrived at a reliable solution 
+
+[[370]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5709 -245.1419 -244.8302 -237.9586   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001745061 0.0001174785
+
+Optima
+                hard        soft
+estimate -0.29770743 -0.29770743
+se        0.03359494  0.03359494
+
+Arrived at a reliable solution 
+
+[[371]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5198 -245.0396 -244.7279 -237.8563   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001543618 0.0001184361
+
+Optima
+                hard        soft
+estimate -0.29654077 -0.29654077
+se        0.03404189  0.03404189
+
+Arrived at a reliable solution 
+
+[[372]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5126 -245.0253 -244.7136 -237.842   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.792161e-05 0.0001254909
+
+Optima
+                hard        soft
+estimate -0.29309043 -0.29309043
+se        0.03404976  0.03404976
+
+Arrived at a reliable solution 
+
+[[373]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5028 -245.0056 -244.6939 -237.8222   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 9.180992e-05 0.000125225
+
+Optima
+                hard        soft
+estimate -0.29328434 -0.29328434
+se        0.03405814  0.03405814
+
+Arrived at a reliable solution 
+
+[[374]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5154 -245.0309 -244.7192 -237.8475   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.508787e-05 0.0001255789
+
+Optima
+                hard        soft
+estimate -0.29321321 -0.29321321
+se        0.03415701  0.03415701
+
+Arrived at a reliable solution 
+
+[[375]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6093 -245.2187 -244.907 -238.0353   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.515562e-05 0.0001260352
+
+Optima
+                hard        soft
+estimate -0.29331160 -0.29331160
+se        0.03411174  0.03411174
+
+Arrived at a reliable solution 
+
+[[376]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6108 -245.2216 -244.9099 -238.0382   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.928529e-05 0.0001270247
+
+Optima
+               hard       soft
+estimate -0.2926603 -0.2926603
+se        0.0343125  0.0343125
+
+Arrived at a reliable solution 
+
+[[377]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6222 -245.2445 -244.9328 -238.0611   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.866659e-05 0.0001269909
+
+Optima
+                hard        soft
+estimate -0.29254076 -0.29254076
+se        0.03422642  0.03422642
+
+Arrived at a reliable solution 
+
+[[378]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4792 -244.9584 -244.6467 -237.7751   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001009676 0.0001250214
+
+Optima
+                hard        soft
+estimate -0.29451115 -0.29451115
+se        0.03275066  0.03275066
+
+Arrived at a reliable solution 
+
+[[379]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4987 -244.9974 -244.6857 -237.814   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.924241e-05 0.0001252696
+
+Optima
+                hard        soft
+estimate -0.29317927 -0.29317927
+se        0.03400421  0.03400421
+
+Arrived at a reliable solution 
+
+[[380]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0196 -246.0392 -245.7275 -238.8559   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001954613 0.0001139662
+
+Optima
+                hard        soft
+estimate -0.29679898 -0.29679898
+se        0.03337953  0.03337953
+
+Arrived at a reliable solution 
+
+[[381]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5945 -245.1889 -244.8772 -238.0056   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001772812 0.0001172365
+
+Optima
+                hard        soft
+estimate -0.29760040 -0.29760040
+se        0.03352325  0.03352325
+
+Arrived at a reliable solution 
+
+[[382]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 126.0532 -246.1064 -245.7947 -238.923   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.815842e-05 0.0001291503
+
+Optima
+                hard        soft
+estimate -0.29088042 -0.29088042
+se        0.03214364  0.03214364
+
+Arrived at a reliable solution 
+
+[[383]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8233 -245.6466 -245.3349 -238.4632   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.905844e-05 0.0001308219
+
+Optima
+                hard        soft
+estimate -0.28740731 -0.28740731
+se        0.03169568  0.03169568
+
+Arrived at a reliable solution 
+
+[[384]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4442 -244.8884 -244.5767 -237.705   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001234719 0.0001218485
+
+Optima
+                hard        soft
+estimate -0.29556575 -0.29556575
+se        0.03391222  0.03391222
+
+Arrived at a reliable solution 
+
+[[385]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1193 -246.2385 -245.9269 -239.0552   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000204279 0.0001134355
+
+Optima
+                hard        soft
+estimate -0.29694964 -0.29694964
+se        0.03321588  0.03321588
+
+Arrived at a reliable solution 
+
+[[386]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.9791 -245.9583 -245.6466 -238.775   BMS   81
+
+Rates
+                 hard       soft
+alpha              NA         NA
+sigma.sq 5.755673e-05 0.00013224
+
+Optima
+                hard        soft
+estimate -0.28856379 -0.28856379
+se        0.02915409  0.02915409
+
+Arrived at a reliable solution 
+
+[[387]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0189 -246.0378 -245.7261 -238.8544   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0002305752 0.0001136862
+
+Optima
+                hard        soft
+estimate -0.29777814 -0.29777814
+se        0.03295458  0.03295458
+
+Arrived at a reliable solution 
+
+[[388]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6061 -245.2121 -244.9004 -238.0288   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.146753e-05 0.0001273202
+
+Optima
+                hard        soft
+estimate -0.29173842 -0.29173842
+se        0.03400891  0.03400891
+
+Arrived at a reliable solution 
+
+[[389]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.796 -245.592 -245.2803 -238.4087   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001925602 0.0001151923
+
+Optima
+               hard       soft
+estimate -0.2975344 -0.2975344
+se        0.0333773  0.0333773
+
+Arrived at a reliable solution 
+
+[[390]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.9362 -245.8724 -245.5607 -238.689   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001965539 0.000114571
+
+Optima
+                hard        soft
+estimate -0.29611389 -0.29611389
+se        0.03332947  0.03332947
+
+Arrived at a reliable solution 
+
+[[391]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9371 -245.8742 -245.5625 -238.6909   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.075572e-05 0.0001280367
+
+Optima
+                hard        soft
+estimate -0.29292585 -0.29292585
+se        0.03437192  0.03437192
+
+Arrived at a reliable solution 
+
+[[392]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8504 -245.7008 -245.3891 -238.5174   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001756685 0.0001150298
+
+Optima
+                hard        soft
+estimate -0.29623173 -0.29623173
+se        0.03423239  0.03423239
+
+Arrived at a reliable solution 
+
+[[393]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7467 -245.4934 -245.1817 -238.3101   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001653145 0.0001158997
+
+Optima
+                hard        soft
+estimate -0.29606857 -0.29606857
+se        0.03524262  0.03524262
+
+Arrived at a reliable solution 
+
+[[394]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.4491 -244.8983 -244.5866 -237.715   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001315127 0.0001210159
+
+Optima
+                hard        soft
+estimate -0.29591004 -0.29591004
+se        0.03392886  0.03392886
+
+Arrived at a reliable solution 
+
+[[395]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.3977 -246.7954 -246.4837 -239.6121   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 4.088816e-05 0.000127548
+
+Optima
+                hard        soft
+estimate -0.29229547 -0.29229547
+se        0.03341994  0.03341994
+
+Arrived at a reliable solution 
+
+[[396]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5863 -245.1727 -244.861 -237.9893   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.448351e-05 0.0001270188
+
+Optima
+                hard        soft
+estimate -0.29237797 -0.29237797
+se        0.03422099  0.03422099
+
+Arrived at a reliable solution 
+
+[[397]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5572 -245.1143 -244.8026 -237.931   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000156242 0.0001179233
+
+Optima
+                hard        soft
+estimate -0.29635648 -0.29635648
+se        0.03426183  0.03426183
+
+Arrived at a reliable solution 
+
+[[398]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7519 -245.5038 -245.1921 -238.3204   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.814373e-05 0.0001298208
+
+Optima
+                hard        soft
+estimate -0.29173919 -0.29173919
+se        0.03260929  0.03260929
+
+Arrived at a reliable solution 
+
+[[399]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5894 -245.1788 -244.8671 -237.9955   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.455991e-05 0.0001271121
+
+Optima
+                hard        soft
+estimate -0.29212724 -0.29212724
+se        0.03413666  0.03413666
+
+Arrived at a reliable solution 
+
+[[400]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6518 -245.3036 -244.9919 -238.1202   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.739548e-05 0.0001280349
+
+Optima
+                hard        soft
+estimate -0.29135546 -0.29135546
+se        0.03401281  0.03401281
+
+Arrived at a reliable solution 
+
+[[401]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 126.6625 -247.325 -247.0133 -240.1417   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 3.630674e-05 0.0001303965
+
+Optima
+                hard        soft
+estimate -0.28863173 -0.28863173
+se        0.02833857  0.02833857
+
+Arrived at a reliable solution 
+
+[[402]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5399 -245.0797 -244.768 -237.8964   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001568384 0.000118145
+
+Optima
+                hard        soft
+estimate -0.29642807 -0.29642807
+se        0.03411924  0.03411924
+
+Arrived at a reliable solution 
+
+[[403]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5062 -245.0124 -244.7007 -237.8291   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.922996e-05 0.0001253339
+
+Optima
+                hard        soft
+estimate -0.29329112 -0.29329112
+se        0.03414658  0.03414658
+
+Arrived at a reliable solution 
+
+[[404]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6944 -245.3888 -245.0771 -238.2055   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001916127 0.0001160584
+
+Optima
+                hard        soft
+estimate -0.29694581 -0.29694581
+se        0.03337841  0.03337841
+
+Arrived at a reliable solution 
+
+[[405]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5486 -245.0972 -244.7855 -237.9139   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.782803e-05 0.0001261262
+
+Optima
+                hard        soft
+estimate -0.29296216 -0.29296216
+se        0.03424445  0.03424445
+
+Arrived at a reliable solution 
+
+[[406]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7447 -245.4894 -245.1777 -238.3061   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001672553 0.0001159094
+
+Optima
+                hard        soft
+estimate -0.29608964 -0.29608964
+se        0.03462519  0.03462519
+
+Arrived at a reliable solution 
+
+[[407]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5264 -245.0528 -244.7411 -237.8694   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.628357e-05 0.0001256393
+
+Optima
+                hard        soft
+estimate -0.29295621 -0.29295621
+se        0.03400551  0.03400551
+
+Arrived at a reliable solution 
+
+[[408]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8282 -245.6564 -245.3448 -238.4731   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001944777 0.0001149048
+
+Optima
+                hard        soft
+estimate -0.29729908 -0.29729908
+se        0.03332962  0.03332962
+
+Arrived at a reliable solution 
+
+[[409]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5602 -245.1203 -244.8086 -237.937   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.756536e-05 0.0001265744
+
+Optima
+                hard        soft
+estimate -0.29218379 -0.29218379
+se        0.03400877  0.03400877
+
+Arrived at a reliable solution 
+
+[[410]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.499 -244.998 -244.6863 -237.8147   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001467927 0.000119043
+
+Optima
+                hard        soft
+estimate -0.29607621 -0.29607621
+se        0.03423382  0.03423382
+
+Arrived at a reliable solution 
+
+[[411]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0461 -246.0921 -245.7805 -238.9088   BMS   81
+
+Rates
+                hard        soft
+alpha             NA          NA
+sigma.sq 4.86134e-05 0.000129466
+
+Optima
+                hard        soft
+estimate -0.29176585 -0.29176585
+se        0.03433716  0.03433716
+
+Arrived at a reliable solution 
+
+[[412]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5452 -245.0904 -244.7787 -237.907   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.214281e-05 0.0001269192
+
+Optima
+                hard        soft
+estimate -0.29251483 -0.29251483
+se        0.03372504  0.03372504
+
+Arrived at a reliable solution 
+
+[[413]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5838 -245.1676 -244.8559 -237.9843   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.784047e-05 0.0001268723
+
+Optima
+                hard        soft
+estimate -0.29244962 -0.29244962
+se        0.03417867  0.03417867
+
+Arrived at a reliable solution 
+
+[[414]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6786 -245.3573 -245.0456 -238.1739   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 7.251879e-05 0.000129123
+
+Optima
+                hard        soft
+estimate -0.29133510 -0.29133510
+se        0.03287834  0.03287834
+
+Arrived at a reliable solution 
+
+[[415]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5426 -245.0852 -244.7735 -237.9019   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001578577 0.0001179981
+
+Optima
+                hard        soft
+estimate -0.29655273 -0.29655273
+se        0.03397148  0.03397148
+
+Arrived at a reliable solution 
+
+[[416]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4829 -244.9659 -244.6542 -237.7825   BMS   81
+
+Rates
+               hard         soft
+alpha            NA           NA
+sigma.sq 0.00014247 0.0001194599
+
+Optima
+                hard        soft
+estimate -0.29606674 -0.29606674
+se        0.03435006  0.03435006
+
+Arrived at a reliable solution 
+
+[[417]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7055 -245.4109 -245.0992 -238.2276   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.933582e-05 0.0001293253
+
+Optima
+                hard        soft
+estimate -0.29079384 -0.29079384
+se        0.03273518  0.03273518
+
+Arrived at a reliable solution 
+
+[[418]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5368 -245.0735 -244.7619 -237.8902   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.688537e-05 0.0001265776
+
+Optima
+                hard        soft
+estimate -0.29345168 -0.29345168
+se        0.03377212  0.03377212
+
+Arrived at a reliable solution 
+
+[[419]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 126.2085 -246.417 -246.1053 -239.2336   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.787354e-05 0.0001283776
+
+Optima
+                hard        soft
+estimate -0.29269253 -0.29269253
+se        0.03433529  0.03433529
+
+Arrived at a reliable solution 
+
+[[420]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6433 -245.2865 -244.9748 -238.1032   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.720886e-05 0.0001275103
+
+Optima
+                hard        soft
+estimate -0.29216136 -0.29216136
+se        0.03415343  0.03415343
+
+Arrived at a reliable solution 
+
+[[421]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7645 -245.5289 -245.2172 -238.3456   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001716906 0.0001157224
+
+Optima
+               hard       soft
+estimate -0.2962007 -0.2962007
+se        0.0341544  0.0341544
+
+Arrived at a reliable solution 
+
+[[422]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.655 -245.3099 -244.9983 -238.1266   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.837054e-05 0.0001281013
+
+Optima
+                hard        soft
+estimate -0.29150206 -0.29150206
+se        0.03401086  0.03401086
+
+Arrived at a reliable solution 
+
+[[423]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.1836 -246.3673 -246.0556 -239.1839   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.019002e-05 0.0001320226
+
+Optima
+                hard        soft
+estimate -0.29005590 -0.29005590
+se        0.03270834  0.03270834
+
+Arrived at a reliable solution 
+
+[[424]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6714 -245.3429 -245.0312 -238.1595   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.702995e-05 0.0001283044
+
+Optima
+                hard        soft
+estimate -0.29136144 -0.29136144
+se        0.03403356  0.03403356
+
+Arrived at a reliable solution 
+
+[[425]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.5405 -245.081 -244.7694 -237.8977   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.130751e-05 0.0001261968
+
+Optima
+                hard        soft
+estimate -0.29275784 -0.29275784
+se        0.03413436  0.03413436
+
+Arrived at a reliable solution 
+
+[[426]]
+
+Fit
+      lnL       AIC      AICc     BIC model ntax
+ 125.7117 -245.4234 -245.1117 -238.24   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.86512e-05 0.0001296501
+
+Optima
+                hard        soft
+estimate -0.29050271 -0.29050271
+se        0.03207592  0.03207592
+
+Arrived at a reliable solution 
+
+[[427]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.6002 -245.2003 -244.8886 -238.017   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.342757e-05 0.0001269881
+
+Optima
+                hard        soft
+estimate -0.29245245 -0.29245245
+se        0.03414153  0.03414153
+
+Arrived at a reliable solution 
+
+[[428]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0936 -246.1872 -245.8755 -239.0038   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0002030543 0.000113665
+
+Optima
+                hard        soft
+estimate -0.29618243 -0.29618243
+se        0.03317818  0.03317818
+
+Arrived at a reliable solution 
+
+[[429]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5361 -245.0722 -244.7605 -237.8888   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001532617 0.0001182149
+
+Optima
+                hard        soft
+estimate -0.29630164 -0.29630164
+se        0.03484746  0.03484746
+
+Arrived at a reliable solution 
+
+[[430]]
+
+Fit
+      lnL       AIC    AICc       BIC model ntax
+ 125.7358 -245.4717 -245.16 -238.2883   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001704852 0.0001159782
+
+Optima
+                hard        soft
+estimate -0.29649682 -0.29649682
+se        0.03438868  0.03438868
+
+Arrived at a reliable solution 
+
+[[431]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.6134 -245.2267 -244.915 -238.0434   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.110975e-05 0.0001274617
+
+Optima
+               hard       soft
+estimate -0.2919516 -0.2919516
+se        0.0340825  0.0340825
+
+Arrived at a reliable solution 
+
+[[432]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.6515 -245.303 -244.9913 -238.1197   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001689756 0.0001167169
+
+Optima
+               hard       soft
+estimate -0.2964333 -0.2964333
+se        0.0343792  0.0343792
+
+Arrived at a reliable solution 
+
+[[433]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4672 -244.9345 -244.6228 -237.7511   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001385836 0.0001199911
+
+Optima
+                hard        soft
+estimate -0.29591860 -0.29591860
+se        0.03426996  0.03426996
+
+Arrived at a reliable solution 
+
+[[434]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6636 -245.3271 -245.0154 -238.1438   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001696366 0.0001164975
+
+Optima
+               hard       soft
+estimate -0.2964713 -0.2964713
+se        0.0336513  0.0336513
+
+Arrived at a reliable solution 
+
+[[435]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5087 -245.0174 -244.7057 -237.8341   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001477651 0.0001188462
+
+Optima
+                hard        soft
+estimate -0.29611581 -0.29611581
+se        0.03435871  0.03435871
+
+Arrived at a reliable solution 
+
+[[436]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7681 -245.5362 -245.2246 -238.3529   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.385332e-05 0.0001299857
+
+Optima
+                hard        soft
+estimate -0.29032588 -0.29032588
+se        0.03133252  0.03133252
+
+Arrived at a reliable solution 
+
+[[437]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7462 -245.4925 -245.1808 -238.3091   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.749083e-05 0.0001298592
+
+Optima
+                hard        soft
+estimate -0.29127654 -0.29127654
+se        0.03220552  0.03220552
+
+Arrived at a reliable solution 
+
+[[438]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7414 -245.4828 -245.1711 -238.2995   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 0.000175419 0.0001158864
+
+Optima
+                hard        soft
+estimate -0.29631270 -0.29631270
+se        0.03416604  0.03416604
+
+Arrived at a reliable solution 
+
+[[439]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.722 -245.444 -245.1324 -238.2607   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.42914e-05 0.0001283118
+
+Optima
+                hard        soft
+estimate -0.29124253 -0.29124253
+se        0.03398442  0.03398442
+
+Arrived at a reliable solution 
+
+[[440]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.9029 -245.8057 -245.494 -238.6224   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.941844e-05 0.0001312424
+
+Optima
+                hard        soft
+estimate -0.28845912 -0.28845912
+se        0.03084551  0.03084551
+
+Arrived at a reliable solution 
+
+[[441]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5757 -245.1514 -244.8397 -237.9681   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 8.03805e-05 0.0001255555
+
+Optima
+                hard        soft
+estimate -0.29352080 -0.29352080
+se        0.03407472  0.03407472
+
+Arrived at a reliable solution 
+
+[[442]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4921 -244.9842 -244.6725 -237.8009   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.150949e-05 0.0001249701
+
+Optima
+                hard        soft
+estimate -0.29350830 -0.29350830
+se        0.03415609  0.03415609
+
+Arrived at a reliable solution 
+
+[[443]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6585 -245.3171 -245.0054 -238.1337   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.625285e-05 0.0001276131
+
+Optima
+                hard        soft
+estimate -0.29200819 -0.29200819
+se        0.03421043  0.03421043
+
+Arrived at a reliable solution 
+
+[[444]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.3815 -246.7631 -246.4514 -239.5797   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.115968e-05 0.0001290136
+
+Optima
+                hard        soft
+estimate -0.29143935 -0.29143935
+se        0.03370722  0.03370722
+
+Arrived at a reliable solution 
+
+[[445]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9106 -245.8212 -245.5095 -238.6378   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.091148e-05 0.0001307359
+
+Optima
+                hard        soft
+estimate -0.28981666 -0.28981666
+se        0.03195569  0.03195569
+
+Arrived at a reliable solution 
+
+[[446]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.7992 -245.5983 -245.2866 -238.415   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001747124 0.000115782
+
+Optima
+                hard        soft
+estimate -0.29583303 -0.29583303
+se        0.03441746  0.03441746
+
+Arrived at a reliable solution 
+
+[[447]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 126.444 -246.888 -246.5763 -239.7047   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.082047e-05 0.0001274319
+
+Optima
+                hard        soft
+estimate -0.29288035 -0.29288035
+se        0.03376935  0.03376935
+
+Arrived at a reliable solution 
+
+[[448]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6998 -245.3996 -245.0879 -238.2162   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.741549e-05 0.0001271833
+
+Optima
+                hard        soft
+estimate -0.29192699 -0.29192699
+se        0.03399282  0.03399282
+
+Arrived at a reliable solution 
+
+[[449]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.785 -245.5699 -245.2582 -238.3866   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001732486 0.0001155058
+
+Optima
+                hard        soft
+estimate -0.29624619 -0.29624619
+se        0.03399802  0.03399802
+
+Arrived at a reliable solution 
+
+[[450]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5424 -245.0848 -244.7731 -237.9014   BMS   81
+
+Rates
+               hard         soft
+alpha            NA           NA
+sigma.sq 8.0239e-05 0.0001261033
+
+Optima
+                hard        soft
+estimate -0.29259707 -0.29259707
+se        0.03406276  0.03406276
+
+Arrived at a reliable solution 
+
+[[451]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6871 -245.3741 -245.0624 -238.1908   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.581192e-05 0.0001272721
+
+Optima
+                hard        soft
+estimate -0.29262056 -0.29262056
+se        0.03421489  0.03421489
+
+Arrived at a reliable solution 
+
+[[452]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4504 -244.9008 -244.5891 -237.7175   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001085856 0.0001229762
+
+Optima
+                hard        soft
+estimate -0.29489739 -0.29489739
+se        0.03394842  0.03394842
+
+Arrived at a reliable solution 
+
+[[453]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6807 -245.3614 -245.0497 -238.1781   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.417042e-05 0.0001280148
+
+Optima
+                hard        soft
+estimate -0.29191028 -0.29191028
+se        0.03420851  0.03420851
+
+Arrived at a reliable solution 
+
+[[454]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.663 -245.326 -245.0143 -238.1427   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.279427e-05 0.0001286414
+
+Optima
+                hard        soft
+estimate -0.29120957 -0.29120957
+se        0.03349415  0.03349415
+
+Arrived at a reliable solution 
+
+[[455]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7389 -245.4778 -245.1661 -238.2944   BMS   81
+
+Rates
+                hard        soft
+alpha             NA          NA
+sigma.sq 6.48674e-05 0.000129268
+
+Optima
+                hard        soft
+estimate -0.29048029 -0.29048029
+se        0.03195268  0.03195268
+
+Arrived at a reliable solution 
+
+[[456]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9771 -245.9543 -245.6426 -238.7709   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.215392e-05 0.0001286254
+
+Optima
+                hard        soft
+estimate -0.29258735 -0.29258735
+se        0.03439718  0.03439718
+
+Arrived at a reliable solution 
+
+[[457]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7769 -245.5538 -245.2421 -238.3704   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.354612e-05 0.0001308428
+
+Optima
+                hard        soft
+estimate -0.28911811 -0.28911811
+se        0.03023968  0.03023968
+
+Arrived at a reliable solution 
+
+[[458]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6041 -245.2082 -244.8965 -238.0248   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.336506e-05 0.0001256705
+
+Optima
+                hard        soft
+estimate -0.29365461 -0.29365461
+se        0.03417112  0.03417112
+
+Arrived at a reliable solution 
+
+[[459]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6664 -245.3329 -245.0212 -238.1495   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.498581e-05 0.0001276296
+
+Optima
+                hard        soft
+estimate -0.29171624 -0.29171624
+se        0.03398016  0.03398016
+
+Arrived at a reliable solution 
+
+[[460]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 126.1318 -246.2637 -245.952 -239.0803   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.582167e-05 0.0001290555
+
+Optima
+                hard        soft
+estimate -0.29174675 -0.29174675
+se        0.03382606  0.03382606
+
+Arrived at a reliable solution 
+
+[[461]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5955 -245.1911 -244.8794 -238.0077   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.781894e-05 0.0001279245
+
+Optima
+                hard        soft
+estimate -0.29245774 -0.29245774
+se        0.03293992  0.03293992
+
+Arrived at a reliable solution 
+
+[[462]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5418 -245.0836 -244.772 -237.9003   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.668792e-05 0.0001261237
+
+Optima
+                hard        soft
+estimate -0.29272616 -0.29272616
+se        0.03417643  0.03417643
+
+Arrived at a reliable solution 
+
+[[463]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.5242 -245.0484 -244.7367 -237.865   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.019352e-05 0.0001264667
+
+Optima
+                hard        soft
+estimate -0.29344909 -0.29344909
+se        0.03326399  0.03326399
+
+Arrived at a reliable solution 
+
+[[464]]
+
+Fit
+     lnL      AIC      AICc       BIC model ntax
+ 125.596 -245.192 -244.8803 -238.0087   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001564142 0.0001173993
+
+Optima
+                hard        soft
+estimate -0.29628801 -0.29628801
+se        0.03569414  0.03569414
+
+Arrived at a reliable solution 
+
+[[465]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6021 -245.2041 -244.8924 -238.0208   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.437952e-05 0.0001274471
+
+Optima
+                hard        soft
+estimate -0.29159721 -0.29159721
+se        0.03401232  0.03401232
+
+Arrived at a reliable solution 
+
+[[466]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8535 -245.7071 -245.3954 -238.5237   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.390021e-05 0.0001291084
+
+Optima
+                hard        soft
+estimate -0.29166605 -0.29166605
+se        0.03415817  0.03415817
+
+Arrived at a reliable solution 
+
+[[467]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5784 -245.1567 -244.845 -237.9734   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001572451 0.0001175393
+
+Optima
+                hard        soft
+estimate -0.29633224 -0.29633224
+se        0.03443327  0.03443327
+
+Arrived at a reliable solution 
+
+[[468]]
+
+Fit
+      lnL      AIC      AICc       BIC model ntax
+ 125.4885 -244.977 -244.6653 -237.7936   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 9.175833e-05 0.0001246577
+
+Optima
+                hard        soft
+estimate -0.29367972 -0.29367972
+se        0.03407051  0.03407051
+
+Arrived at a reliable solution 
+
+[[469]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.9878 -245.9757 -245.664 -238.7923   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.661848e-05 0.0001287721
+
+Optima
+                hard        soft
+estimate -0.29250288 -0.29250288
+se        0.03445516  0.03445516
+
+Arrived at a reliable solution 
+
+[[470]]
+
+Fit
+    lnL     AIC      AICc       BIC model ntax
+ 125.71 -245.42 -245.1083 -238.2367   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001679011 0.0001163493
+
+Optima
+                hard        soft
+estimate -0.29586863 -0.29586863
+se        0.03439179  0.03439179
+
+Arrived at a reliable solution 
+
+[[471]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5064 -245.0129 -244.7012 -237.8296   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001531733 0.0001188899
+
+Optima
+                hard        soft
+estimate -0.29630392 -0.29630392
+se        0.03444374  0.03444374
+
+Arrived at a reliable solution 
+
+[[472]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5104 -245.0209 -244.7092 -237.8375   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.839179e-05 0.0001253838
+
+Optima
+                hard        soft
+estimate -0.29325308 -0.29325308
+se        0.03407538  0.03407538
+
+Arrived at a reliable solution 
+
+[[473]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4516 -244.9033 -244.5916 -237.7199   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001329551 0.0001207928
+
+Optima
+                hard        soft
+estimate -0.29592592 -0.29592592
+se        0.03406621  0.03406621
+
+Arrived at a reliable solution 
+
+[[474]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.0216 -246.0433 -245.7316 -238.8599   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.154977e-05 0.0001289773
+
+Optima
+                hard        soft
+estimate -0.29203853 -0.29203853
+se        0.03428185  0.03428185
+
+Arrived at a reliable solution 
+
+[[475]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6353 -245.2706 -244.9589 -238.0872   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001631863 0.0001168405
+
+Optima
+                hard        soft
+estimate -0.29633398 -0.29633398
+se        0.03448818  0.03448818
+
+Arrived at a reliable solution 
+
+[[476]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.481 -244.9621 -244.6504 -237.7787   BMS   81
+
+Rates
+                 hard        soft
+alpha              NA          NA
+sigma.sq 0.0001488928 0.000119408
+
+Optima
+                hard        soft
+estimate -0.29663073 -0.29663073
+se        0.03365603  0.03365603
+
+Arrived at a reliable solution 
+
+[[477]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5057 -245.0115 -244.6998 -237.8281   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.766248e-05 0.0001253413
+
+Optima
+                hard        soft
+estimate -0.29328077 -0.29328077
+se        0.03412991  0.03412991
+
+Arrived at a reliable solution 
+
+[[478]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5542 -245.1084 -244.7967 -237.9251   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.429976e-05 0.0001252207
+
+Optima
+                hard        soft
+estimate -0.29362211 -0.29362211
+se        0.03405423  0.03405423
+
+Arrived at a reliable solution 
+
+[[479]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.5523 -245.1047 -244.793 -237.9213   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.038889e-05 0.0001265471
+
+Optima
+                hard        soft
+estimate -0.29233295 -0.29233295
+se        0.03406279  0.03406279
+
+Arrived at a reliable solution 
+
+[[480]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.8886 -245.7771 -245.4654 -238.5938   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.947492e-05 0.0001295895
+
+Optima
+                hard        soft
+estimate -0.29093070 -0.29093070
+se        0.03402236  0.03402236
+
+Arrived at a reliable solution 
+
+[[481]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.6437 -245.2874 -244.9757 -238.104   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.990416e-05 0.0001270467
+
+Optima
+                hard        soft
+estimate -0.29269284 -0.29269284
+se        0.03422737  0.03422737
+
+Arrived at a reliable solution 
+
+[[482]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4888 -244.9775 -244.6658 -237.7942   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001542338 0.0001192749
+
+Optima
+                hard        soft
+estimate -0.29702032 -0.29702032
+se        0.03362575  0.03362575
+
+Arrived at a reliable solution 
+
+[[483]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9651 -245.9302 -245.6186 -238.7469   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.346236e-05 0.0001306283
+
+Optima
+                hard        soft
+estimate -0.28888930 -0.28888930
+se        0.03142617  0.03142617
+
+Arrived at a reliable solution 
+
+[[484]]
+
+Fit
+     lnL     AIC      AICc       BIC model ntax
+ 125.445 -244.89 -244.5784 -237.7067   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001182449 0.0001224809
+
+Optima
+                hard        soft
+estimate -0.29536324 -0.29536324
+se        0.03381949  0.03381949
+
+Arrived at a reliable solution 
+
+[[485]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5446 -245.0893 -244.7776 -237.9059   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.137146e-05 0.0001260539
+
+Optima
+                hard        soft
+estimate -0.29285152 -0.29285152
+se        0.03420698  0.03420698
+
+Arrived at a reliable solution 
+
+[[486]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 125.759 -245.5179 -245.2063 -238.3346   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 5.796062e-05 0.0001283356
+
+Optima
+                hard        soft
+estimate -0.29214546 -0.29214546
+se        0.03435149  0.03435149
+
+Arrived at a reliable solution 
+
+[[487]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4546 -244.9091 -244.5974 -237.7258   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001098074 0.0001235858
+
+Optima
+               hard       soft
+estimate -0.2948788 -0.2948788
+se        0.0332590  0.0332590
+
+Arrived at a reliable solution 
+
+[[488]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6036 -245.2072 -244.8955 -238.0239   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.262455e-05 0.0001272619
+
+Optima
+                hard        soft
+estimate -0.29213493 -0.29213493
+se        0.03420155  0.03420155
+
+Arrived at a reliable solution 
+
+[[489]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5376 -245.0752 -244.7636 -237.8919   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.094379e-05 0.0001259735
+
+Optima
+                hard        soft
+estimate -0.29263610 -0.29263610
+se        0.03402007  0.03402007
+
+Arrived at a reliable solution 
+
+[[490]]
+
+Fit
+      lnL       AIC     AICc       BIC model ntax
+ 125.9818 -245.9637 -245.652 -238.7803   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001969094 0.0001138924
+
+Optima
+                hard        soft
+estimate -0.29694057 -0.29694057
+se        0.03308615  0.03308615
+
+Arrived at a reliable solution 
+
+[[491]]
+
+Fit
+      lnL       AIC      AICc      BIC model ntax
+ 125.8077 -245.6153 -245.3037 -238.432   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.20268e-05 0.0001303533
+
+Optima
+                hard        soft
+estimate -0.28990962 -0.28990962
+se        0.03138253  0.03138253
+
+Arrived at a reliable solution 
+
+[[492]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5334 -245.0669 -244.7552 -237.8835   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 8.710097e-05 0.0001250469
+
+Optima
+                hard        soft
+estimate -0.29386971 -0.29386971
+se        0.03414037  0.03414037
+
+Arrived at a reliable solution 
+
+[[493]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.5649 -245.1298 -244.8181 -237.9465   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 7.720908e-05 0.0001266789
+
+Optima
+                hard        soft
+estimate -0.29236802 -0.29236802
+se        0.03414537  0.03414537
+
+Arrived at a reliable solution 
+
+[[494]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.4645 -244.9289 -244.6172 -237.7456   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001389858 0.0001200932
+
+Optima
+                hard        soft
+estimate -0.29567462 -0.29567462
+se        0.03405963  0.03405963
+
+Arrived at a reliable solution 
+
+[[495]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.7971 -245.5941 -245.2824 -238.4108   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 6.637766e-05 0.0001305559
+
+Optima
+                hard        soft
+estimate -0.29046194 -0.29046194
+se        0.03241924  0.03241924
+
+Arrived at a reliable solution 
+
+[[496]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.9764 -245.9528 -245.6411 -238.7694   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 0.0001957267 0.0001144668
+
+Optima
+                hard        soft
+estimate -0.29684422 -0.29684422
+se        0.03359924  0.03359924
+
+Arrived at a reliable solution 
+
+[[497]]
+
+Fit
+     lnL       AIC      AICc       BIC model ntax
+ 126.104 -246.2079 -245.8962 -239.0246   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.584002e-05 0.0001290998
+
+Optima
+                hard        soft
+estimate -0.29272520 -0.29272520
+se        0.03455075  0.03455075
+
+Arrived at a reliable solution 
+
+[[498]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 125.6477 -245.2955 -244.9838 -238.1121   BMS   81
+
+Rates
+                hard         soft
+alpha             NA           NA
+sigma.sq 6.86206e-05 0.0001280117
+
+Optima
+                hard        soft
+estimate -0.29170491 -0.29170491
+se        0.03418126  0.03418126
+
+Arrived at a reliable solution 
+
+[[499]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.2293 -246.4586 -246.1469 -239.2753   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.637029e-05 0.0001290752
+
+Optima
+                hard        soft
+estimate -0.29160403 -0.29160403
+se        0.03378565  0.03378565
+
+Arrived at a reliable solution 
+
+[[500]]
+
+Fit
+      lnL       AIC      AICc       BIC model ntax
+ 126.4126 -246.8252 -246.5135 -239.6419   BMS   81
+
+Rates
+                 hard         soft
+alpha              NA           NA
+sigma.sq 4.128588e-05 0.0001284587
+
+Optima
+                hard        soft
+estimate -0.29193029 -0.29193029
+se        0.03381541  0.03381541
+
+Arrived at a reliable solution 
+
